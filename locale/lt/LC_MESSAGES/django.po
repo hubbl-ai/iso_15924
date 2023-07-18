@@ -1,0 +1,418 @@
+# Translation of ISO 15924 (script names) to Lithuanian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Gintautas Miliauskas <gintas@akl.lt>, 2008.
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-05-17 21:01+0300\n"
+"Last-Translator: Gintautas Miliauskas <gintas@akl.lt>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arabų"
+
+msgid "ISO_15924.ARAN"
+msgstr "Sirų (rytietiškas variantas)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Imperinė aramėjų"
+
+msgid "ISO_15924.ARMN"
+msgstr "Armėnų"
+
+msgid "ISO_15924.AVST"
+msgstr "Avestos"
+
+msgid "ISO_15924.BALI"
+msgstr "Baliečių"
+
+msgid "ISO_15924.BATK"
+msgstr "Batak"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengalų"
+
+msgid "ISO_15924.BLIS"
+msgstr "Blissimbolių"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Brailis"
+
+msgid "ISO_15924.BUGI"
+msgstr "Buginų"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "Chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Unifikuoti kanados aborigenų skiemenys"
+
+msgid "ISO_15924.CARI"
+msgstr "Karų"
+
+msgid "ISO_15924.CHAM"
+msgstr "Chamų"
+
+msgid "ISO_15924.CHER"
+msgstr "Čerokių"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Koptų"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kipro"
+
+msgid "ISO_15924.CYRL"
+msgstr "Kirilica"
+
+msgid "ISO_15924.CYRS"
+msgstr "Kirilica (senasis bažnytinis variantas)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devanagari (Nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret (mormonų)"
+
+msgid "ISO_15924.EGYD"
+msgstr "Egiptiečių demotinis"
+
+msgid "ISO_15924.EGYH"
+msgstr "Egiptiečių hieratinis"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egipto hieroglifai"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etiopų (Geʻez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khutsuri (Asomtavruli ir Nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Gruzinų (Mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolitiškas"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotų"
+
+msgid "ISO_15924.GREK"
+msgstr "Graikų"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gudžaratų"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmukhi"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (Hangŭl, Hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "Han (kandži)"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoo (Hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "Han (supaprastintas variantas)"
+
+msgid "ISO_15924.HANT"
+msgstr "Han (tradicinis variantas)"
+
+msgid "ISO_15924.HEBR"
+msgstr "Hebrajų"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahawh Hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japonų (Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "Indų (harapų)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Senasis italų (etruskų, oskų, etc.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Korėjiečių (Hangul + Han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Javiečių"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japonų (Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmerų"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannada"
+
+msgid "ISO_15924.KORE"
+msgstr "Korėjiečių (Hangul + Han)"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kaithi"
+
+msgid "ISO_15924.LAOO"
+msgstr "Lao"
+
+msgid "ISO_15924.LATF"
+msgstr "Lotynų (Fraktur variantas)"
+
+msgid "ISO_15924.LATG"
+msgstr "Lotynų (gėlų variantas)"
+
+msgid "ISO_15924.LATN"
+msgstr "Lotynų"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepcha (Róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "Linijinis A"
+
+msgid "ISO_15924.LINB"
+msgstr "Linijinis B"
+
+msgid "ISO_15924.LYCI"
+msgstr "Likiečių"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lidų"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandėjų"
+
+msgid "ISO_15924.MANI"
+msgstr "Manichėjų"
+
+msgid "ISO_15924.MAYA"
+msgstr "Majų hieroglifai"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroitų"
+
+msgid "ISO_15924.MERO"
+msgstr "Egipto hieroglifai"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malajų"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongolų"
+
+msgid "ISO_15924.MOON"
+msgstr "Moon (Moon kodas, Moon raštas, Moon tipografija)"
+
+msgid "ISO_15924.MTEI"
+msgstr "Meitei Mayek (Meithei, Meetei)"
+
+msgid "ISO_15924.MYMR"
+msgstr "Mianmaro (Birmos)"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogham"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
+
+msgid "ISO_15924.ORYA"
+msgstr "Oriya"
+
+msgid "ISO_15924.OSMA"
+msgstr "Osmanų"
+
+msgid "ISO_15924.PERM"
+msgstr "Senasis Permės"
+
+msgid "ISO_15924.PHAG"
+msgstr "Fags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Inskripcinis Pahlavi"
+
+msgid "ISO_15924.PHLP"
+msgstr "Psalminis Pahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "Knyginis Pahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "Finikiečių"
+
+msgid "ISO_15924.PRTI"
+msgstr "Inskripcinis partų"
+
+msgid "ISO_15924.QAAA"
+msgstr "Rezervuota asmeniniam naudojimui (pradžia)"
+
+msgid "ISO_15924.QABX"
+msgstr "Rezervuota asmeniniam naudojimui (pabaiga)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejang, Redjang, Kaganga"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Runų"
+
+msgid "ISO_15924.SAMR"
+msgstr "Samariečių"
+
+msgid "ISO_15924.SARA"
+msgstr "Sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "Senasis vengrų"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Ženklų raštas"
+
+msgid "ISO_15924.SHAW"
+msgstr "Šo"
+
+msgid "ISO_15924.SINH"
+msgstr "Singhų"
+
+msgid "ISO_15924.SUND"
+msgstr "Sundaniečių"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Siriečių"
+
+msgid "ISO_15924.SYRE"
+msgstr "Sirų (estrangelo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Sirų (vakarietiškas variantas)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Sirų (rytietiškas variantas)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanwa"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Naujas Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamilų"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinagų (berberų)"
+
+msgid "ISO_15924.THAA"
+msgstr "Thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "Tajų"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibetiečių"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugaritic"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Matoma kalba"
+
+msgid "ISO_15924.XPEO"
+msgstr "Senoji persų"
+
+msgid "ISO_15924.XSUX"
+msgstr "Dantiraštis (šumerų-akadų)"
+
+msgid "ISO_15924.YIII"
+msgstr "Dži"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kodas nenustatytam raštui"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matematiniai ženklai"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Sirų (estrangelo)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Simboliai"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kodas nerašytiems dokumentams"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kodas nenustatytam raštui"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kodas nekoduotam raštui"

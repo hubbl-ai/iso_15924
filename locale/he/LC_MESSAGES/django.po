@@ -1,0 +1,126 @@
+# Translation of ISO 15924 (script names) to Hebrew
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Hebrew\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "ערבית"
+
+msgid "ISO_15924.ARAN"
+msgstr "האן מסורתי"
+
+msgid "ISO_15924.ARMN"
+msgstr "ארמנית"
+
+msgid "ISO_15924.BALI"
+msgstr "באלינזית"
+
+msgid "ISO_15924.BENG"
+msgstr "בנגאלית"
+
+msgid "ISO_15924.BRAI"
+msgstr "ברייל"
+
+msgid "ISO_15924.CHER"
+msgstr "צ'רוקית"
+
+msgid "ISO_15924.COPT"
+msgstr "קופטית"
+
+msgid "ISO_15924.CPRT"
+msgstr "קפריסאית"
+
+msgid "ISO_15924.CYRL"
+msgstr "קירילית"
+
+msgid "ISO_15924.CYRS"
+msgstr "קירילית סלאבונית כנסייתית עתיקה"
+
+msgid "ISO_15924.DEVA"
+msgstr "דוואנגרי"
+
+msgid "ISO_15924.EGYP"
+msgstr "כתב חרטומים"
+
+msgid "ISO_15924.ETHI"
+msgstr "אתיופית"
+
+msgid "ISO_15924.GOTH"
+msgstr "גותית"
+
+msgid "ISO_15924.GREK"
+msgstr "יוונית"
+
+msgid "ISO_15924.HANS"
+msgstr "האן מפושט"
+
+msgid "ISO_15924.HANT"
+msgstr "האן מסורתי"
+
+msgid "ISO_15924.HEBR"
+msgstr "עברית"
+
+msgid "ISO_15924.KNDA"
+msgstr "קאנדה"
+
+msgid "ISO_15924.LAOO"
+msgstr "לאית"
+
+msgid "ISO_15924.LATN"
+msgstr "לטינית"
+
+msgid "ISO_15924.MERO"
+msgstr "כתב חרטומים"
+
+msgid "ISO_15924.MONG"
+msgstr "מונגולית"
+
+msgid "ISO_15924.PHNX"
+msgstr "פיניקי"
+
+msgid "ISO_15924.PRTI"
+msgstr "האן מסורתי"
+
+msgid "ISO_15924.RUNR"
+msgstr "רוני"
+
+msgid "ISO_15924.SARB"
+msgstr "הונגרית עתיקה"
+
+msgid "ISO_15924.SYRC"
+msgstr "סורית"
+
+msgid "ISO_15924.TAML"
+msgstr "טמיל"
+
+msgid "ISO_15924.TELU"
+msgstr "טלוגו"
+
+msgid "ISO_15924.THAI"
+msgstr "תאילנדית"
+
+msgid "ISO_15924.TIBT"
+msgstr "טיבטית"
+
+msgid "ISO_15924.UGAR"
+msgstr "אוגריתית"
+
+msgid "ISO_15924.XPEO"
+msgstr "פרסית עתיקה"

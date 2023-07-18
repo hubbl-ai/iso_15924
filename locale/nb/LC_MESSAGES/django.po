@@ -1,0 +1,335 @@
+# Translation of ISO 15924 (script names) to Norwegian Bokmål
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-04-12 11:43+0200\n"
+"Last-Translator: Kjartan Maraas <kmaraas@broadpark.no>\n"
+"Language-Team: Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabisk"
+
+msgid "ISO_15924.ARAN"
+msgstr "estrangelosyriakisk"
+
+msgid "ISO_15924.ARMN"
+msgstr "armensk"
+
+msgid "ISO_15924.BALI"
+msgstr "balinesisk"
+
+msgid "ISO_15924.BATK"
+msgstr "batak"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalsk"
+
+msgid "ISO_15924.BLIS"
+msgstr "blissymbol"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "buginesisk"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "cham"
+
+msgid "ISO_15924.CANS"
+msgstr "felles kanadiske urspråksstavelser"
+
+msgid "ISO_15924.CARI"
+msgstr "karisk"
+
+msgid "ISO_15924.CHAM"
+msgstr "cham"
+
+msgid "ISO_15924.CHER"
+msgstr "cherokee"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "koptisk"
+
+msgid "ISO_15924.CPRT"
+msgstr "kypriotisk"
+
+msgid "ISO_15924.CYRL"
+msgstr "kyrillisk"
+
+msgid "ISO_15924.CYRS"
+msgstr "kirkeslavisk kyrillisk"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanagari"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret"
+
+msgid "ISO_15924.EGYD"
+msgstr "egyptisk demotisk"
+
+msgid "ISO_15924.EGYH"
+msgstr "egyptisk hieratisk"
+
+msgid "ISO_15924.EGYP"
+msgstr "egyptiske hieroglyfer"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiopisk"
+
+msgid "ISO_15924.GEOR"
+msgstr "georgisk khutsuri"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagolittisk"
+
+msgid "ISO_15924.GOTH"
+msgstr "gotisk"
+
+msgid "ISO_15924.GREK"
+msgstr "gresk"
+
+msgid "ISO_15924.GUJR"
+msgstr "gujarati"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmukhi"
+
+msgid "ISO_15924.HANS"
+msgstr "forenklet han"
+
+msgid "ISO_15924.HANT"
+msgstr "tradisjonell han"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebraisk"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahawh hmong"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanesisk"
+
+msgid "ISO_15924.KALI"
+msgstr "kayah li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmer"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannada"
+
+msgid "ISO_15924.KTHI"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.LAOO"
+msgstr "laotisk"
+
+msgid "ISO_15924.LATF"
+msgstr "frakturlatinsk"
+
+msgid "ISO_15924.LATN"
+msgstr "latinsk"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepcha"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "lineær A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineær B"
+
+msgid "ISO_15924.LYCI"
+msgstr "lykisk"
+
+msgid "ISO_15924.LYDI"
+msgstr "lydisk"
+
+msgid "ISO_15924.MAND"
+msgstr "mandaisk"
+
+msgid "ISO_15924.MANI"
+msgstr "mandaisk"
+
+msgid "ISO_15924.MAYA"
+msgstr "maya-hieroglyfer"
+
+msgid "ISO_15924.MERC"
+msgstr "meroitisk"
+
+msgid "ISO_15924.MERO"
+msgstr "egyptiske hieroglyfer"
+
+msgid "ISO_15924.MLYM"
+msgstr "malayalam"
+
+msgid "ISO_15924.MONG"
+msgstr "mongolsk"
+
+msgid "ISO_15924.NKOO"
+msgstr "n'ko"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogham"
+
+msgid "ISO_15924.ORYA"
+msgstr "oriya"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmanya"
+
+msgid "ISO_15924.PERM"
+msgstr "gammelpermisk"
+
+msgid "ISO_15924.PHAG"
+msgstr "phags-pa"
+
+msgid "ISO_15924.PHNX"
+msgstr "fønikisk"
+
+msgid "ISO_15924.PRTI"
+msgstr "tradisjonell han"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "runer"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "gammelungarsk"
+
+msgid "ISO_15924.SAUR"
+msgstr "saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "tegnskrift"
+
+msgid "ISO_15924.SHAW"
+msgstr "shavisk"
+
+msgid "ISO_15924.SINH"
+msgstr "sinhala"
+
+msgid "ISO_15924.SUND"
+msgstr "sundanesisk"
+
+msgid "ISO_15924.SYLO"
+msgstr "syloti nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "syrisk"
+
+msgid "ISO_15924.SYRE"
+msgstr "estrangelosyriakisk"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanwa"
+
+msgid "ISO_15924.TALE"
+msgstr "tai le"
+
+msgid "ISO_15924.TALU"
+msgstr "ny tai lue"
+
+msgid "ISO_15924.TAML"
+msgstr "tamil"
+
+msgid "ISO_15924.TAVT"
+msgstr "tai le"
+
+msgid "ISO_15924.TELU"
+msgstr "telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "thai"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetansk"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugaritisk"
+
+msgid "ISO_15924.VAII"
+msgstr "vai"
+
+msgid "ISO_15924.VISP"
+msgstr "synlig tale"
+
+msgid "ISO_15924.XPEO"
+msgstr "gammelpersisk"
+
+msgid "ISO_15924.YIII"
+msgstr "yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kode for ubestemt skript"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matematisk notasjon"
+
+msgid "ISO_15924.ZSYE"
+msgstr "estrangelosyriakisk"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Symboler"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kode for uskrevne dokumenter"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kode for ubestemt skript"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kode for ikke-kodet skript"

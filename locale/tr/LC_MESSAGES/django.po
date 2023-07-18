@@ -1,0 +1,306 @@
+# Translation of ISO 15924 (script names) to Turkish
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Turkish\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arapça"
+
+msgid "ISO_15924.ARAN"
+msgstr "Geleneksel Han"
+
+msgid "ISO_15924.ARMN"
+msgstr "Ermenice"
+
+msgid "ISO_15924.BALI"
+msgstr "Bali Dili"
+
+msgid "ISO_15924.BATK"
+msgstr "Batak"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengalce"
+
+msgid "ISO_15924.BLIS"
+msgstr "Blis Sembolleri"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "Bugis"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhid"
+
+msgid "ISO_15924.CANS"
+msgstr "UCAS"
+
+msgid "ISO_15924.CARI"
+msgstr "Karya"
+
+msgid "ISO_15924.CHER"
+msgstr "Çeroki"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Koptik"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kıbrıs"
+
+msgid "ISO_15924.CYRL"
+msgstr "Kiril"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devanagari"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret"
+
+msgid "ISO_15924.EGYD"
+msgstr "Mısır Yazısı - Demotik"
+
+msgid "ISO_15924.EGYH"
+msgstr "Mısır Yazısı - Hiyeratik"
+
+msgid "ISO_15924.EGYP"
+msgstr "Mısır Yazısı - Hiyeroglif"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etiyopya"
+
+msgid "ISO_15924.GEOR"
+msgstr "Hutsuri Gürcüce"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolit"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotik"
+
+msgid "ISO_15924.GREK"
+msgstr "Yunan"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gujarati"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmukhi"
+
+msgid "ISO_15924.HANS"
+msgstr "Basitleştirilmiş Han"
+
+msgid "ISO_15924.HANT"
+msgstr "Geleneksel Han"
+
+msgid "ISO_15924.HEBR"
+msgstr "İbranice"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahawh Hmong"
+
+msgid "ISO_15924.JAVA"
+msgstr "Cava Dili"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmer"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannada"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kharoshthi"
+
+msgid "ISO_15924.LAOO"
+msgstr "Lao Dili"
+
+msgid "ISO_15924.LATF"
+msgstr "Fraktur Latin"
+
+msgid "ISO_15924.LATN"
+msgstr "Latin"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepcha"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "Lineer A"
+
+msgid "ISO_15924.LINB"
+msgstr "Lineer B"
+
+msgid "ISO_15924.LYCI"
+msgstr "Likya Dili"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lidya DIli"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandaean"
+
+msgid "ISO_15924.MANI"
+msgstr "Mandaean"
+
+msgid "ISO_15924.MAYA"
+msgstr "Maya Hiyeroglifleri"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroitik"
+
+msgid "ISO_15924.MERO"
+msgstr "Mısır Yazısı - Hiyeroglif"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malayalam"
+
+msgid "ISO_15924.MONG"
+msgstr "Moğolca"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogham"
+
+msgid "ISO_15924.ORYA"
+msgstr "Oriya"
+
+msgid "ISO_15924.OSMA"
+msgstr "Osmanya"
+
+msgid "ISO_15924.PERM"
+msgstr "Eski Permic"
+
+msgid "ISO_15924.PHAG"
+msgstr "Phags-pa"
+
+msgid "ISO_15924.PHNX"
+msgstr "Fonetik"
+
+msgid "ISO_15924.PRTI"
+msgstr "Geleneksel Han"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Runik"
+
+msgid "ISO_15924.SARA"
+msgstr "Sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "Eski Macarca"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "İşaret Dili Yazımı"
+
+msgid "ISO_15924.SHAW"
+msgstr "Shavian"
+
+msgid "ISO_15924.SINH"
+msgstr "Sinhal"
+
+msgid "ISO_15924.SUND"
+msgstr "Sunda"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Süryanice"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanwa"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "New Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamil"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinagh"
+
+msgid "ISO_15924.THAA"
+msgstr "Thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "Tayca"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibetçe"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugarit Çivi Yazısı"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Konuşma Sesleri Çizimlemesi"
+
+msgid "ISO_15924.XPEO"
+msgstr "Eski Farsça"
+
+msgid "ISO_15924.YIII"
+msgstr "Yi"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Blis Sembolleri"

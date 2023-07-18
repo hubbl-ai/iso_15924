@@ -1,0 +1,505 @@
+# Translation of ISO 15924 (script names) to Czech
+#
+# This file is distributed under the same license as the iso-codes package.
+# Marek Černocký <marek@manet.cz>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-11-28 12:01+0100\n"
+"Last-Translator: Marek Černocký <marek@manet.cz>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arabské"
+
+msgid "ISO_15924.ARAN"
+msgstr "Syrské (východní varianta)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Říšské aramejské"
+
+msgid "ISO_15924.ARMN"
+msgstr "Arménské"
+
+msgid "ISO_15924.AVST"
+msgstr "Avestické"
+
+msgid "ISO_15924.BALI"
+msgstr "Balinéské"
+
+msgid "ISO_15924.BAMU"
+msgstr "Bamumské"
+
+msgid "ISO_15924.BASS"
+msgstr "Bassa Vah"
+
+msgid "ISO_15924.BATK"
+msgstr "Batacké"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengálské"
+
+msgid "ISO_15924.BLIS"
+msgstr "Bliss"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Bráhmí"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braillovo"
+
+msgid "ISO_15924.BUGI"
+msgstr "Buginské"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "Chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Sylabické kanadské domorodé"
+
+msgid "ISO_15924.CARI"
+msgstr "Karijské"
+
+msgid "ISO_15924.CHAM"
+msgstr "Čam"
+
+msgid "ISO_15924.CHER"
+msgstr "Čerokí"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Koptské"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kyperské"
+
+msgid "ISO_15924.CYRL"
+msgstr "Cyrilice"
+
+msgid "ISO_15924.CYRS"
+msgstr "Cyrilice (staroslověnská varianta)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devanágarí (nágarí)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret (mormonské)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duployého těsnopis"
+
+msgid "ISO_15924.EGYD"
+msgstr "Egyptské démotické"
+
+msgid "ISO_15924.EGYH"
+msgstr "Egyptské hieratické"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egyptské hieroglyfy"
+
+msgid "ISO_15924.ELBA"
+msgstr "Elbasánské"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etiopské (Geʻez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khutsuri (asomtavruli a nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Gruzínské (Mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "Hlaholice"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotické"
+
+msgid "ISO_15924.GRAN"
+msgstr "Grantha"
+
+msgid "ISO_15924.GREK"
+msgstr "Řecké"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gudžarátí"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmukhí"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (hangŭl)"
+
+msgid "ISO_15924.HANI"
+msgstr "Čínské (chan-c')"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoo (Hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "Čínské (zjednodušená varianta)"
+
+msgid "ISO_15924.HANT"
+msgstr "Čínské (tradiční varianta)"
+
+msgid "ISO_15924.HEBR"
+msgstr "Hebrejské"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahawh Hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japonské sylabické (alias pro hiragana + katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "Harappské"
+
+msgid "ISO_15924.ITAL"
+msgstr "Staroitalické (etruské, oscan atd.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Korejské (alias pro hangul + han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Javánské"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japonské (alias pro han + hiragana + katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "Džürčenské"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kháróští"
+
+msgid "ISO_15924.KHMR"
+msgstr "Kmérské"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannadské"
+
+msgid "ISO_15924.KORE"
+msgstr "Korejské (alias pro hangul + han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "Kpelle"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "Tai Tham (Lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "Laoské"
+
+msgid "ISO_15924.LATF"
+msgstr "Latinka (fraktur)"
+
+msgid "ISO_15924.LATG"
+msgstr "Latinka (gaelská varianta)"
+
+msgid "ISO_15924.LATN"
+msgstr "Latinka"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepčské"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "Lineární A"
+
+msgid "ISO_15924.LINB"
+msgstr "Lineární B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisu (Fraserovo)"
+
+msgid "ISO_15924.LOMA"
+msgstr "Loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "Lykijské"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lýdské"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandejské"
+
+msgid "ISO_15924.MANI"
+msgstr "Manichejské"
+
+msgid "ISO_15924.MARC"
+msgstr "Džürčenské"
+
+msgid "ISO_15924.MAYA"
+msgstr "Mayské hieroglyfy"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroitické psací"
+
+msgid "ISO_15924.MERO"
+msgstr "Meroitické hieroglyfy"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malajálamské"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongolské"
+
+msgid "ISO_15924.MOON"
+msgstr "Moonovo"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "Manipurské (Meitei Mayek)"
+
+msgid "ISO_15924.MYMR"
+msgstr "Myanmarské (barmské)"
+
+msgid "ISO_15924.NARB"
+msgstr "Starověké severoarabské"
+
+msgid "ISO_15924.NBAT"
+msgstr "Nabataeanské"
+
+msgid "ISO_15924.NKGB"
+msgstr "Nakhi Geba ('Na-'Khi Ggŏ-baw, Naxi Geba)"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogham"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
+
+msgid "ISO_15924.ORKH"
+msgstr "Staroturkické, orchonské runové"
+
+msgid "ISO_15924.ORYA"
+msgstr "Urijské"
+
+msgid "ISO_15924.OSMA"
+msgstr "Osmanské"
+
+msgid "ISO_15924.PALM"
+msgstr "Palmýrské"
+
+msgid "ISO_15924.PERM"
+msgstr "Staropermské"
+
+msgid "ISO_15924.PHAG"
+msgstr "Phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Pahlavské klínové"
+
+msgid "ISO_15924.PHLP"
+msgstr "Pahlavské žalmové"
+
+msgid "ISO_15924.PHLV"
+msgstr "Pahlavské knižní"
+
+msgid "ISO_15924.PHNX"
+msgstr "Fénické"
+
+msgid "ISO_15924.PLRD"
+msgstr "Pollardovo fonetické"
+
+msgid "ISO_15924.PRTI"
+msgstr "Parthské klínové"
+
+msgid "ISO_15924.QAAA"
+msgstr "Rezervované pro soukromé použití (začátek)"
+
+msgid "ISO_15924.QABX"
+msgstr "Rezervované pro soukromé použití (konec)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejang (Redjang, Kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Runové"
+
+msgid "ISO_15924.SAMR"
+msgstr "Samaritánské"
+
+msgid "ISO_15924.SARA"
+msgstr "Sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "Starojihoarabské"
+
+msgid "ISO_15924.SAUR"
+msgstr "Sauráštra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Znakovací"
+
+msgid "ISO_15924.SHAW"
+msgstr "Shaw"
+
+msgid "ISO_15924.SHRD"
+msgstr "Šáradá (Śāradā)"
+
+msgid "ISO_15924.SIND"
+msgstr "Sindhské (khudawadi)"
+
+msgid "ISO_15924.SINH"
+msgstr "Sinhálské"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "Sundánské"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Syrské"
+
+msgid "ISO_15924.SYRE"
+msgstr "Syrské (varianta Estrangelo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Syrské (západní varianta)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Syrské (východní varianta)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanwa"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takri (Ṭākrī, Ṭāṅkrī)"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Nové Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamilské"
+
+msgid "ISO_15924.TANG"
+msgstr "Tangutské"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugské"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinagh (berberské)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagalské (Baybayin, Alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "Thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "Thajské"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibetské"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugaritské"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Viditelná řeč"
+
+msgid "ISO_15924.WARA"
+msgstr "Varang Kshiti"
+
+msgid "ISO_15924.WOLE"
+msgstr "Woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "Staroperské"
+
+msgid "ISO_15924.XSUX"
+msgstr "Klínové (sumersko-akkadské)"
+
+msgid "ISO_15924.YIII"
+msgstr "Yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "Zděděná"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matematický zápis"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Syrské (varianta Estrangelo)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Symboly"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Nepsané dokumenty"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Obecné"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Nezařazené"

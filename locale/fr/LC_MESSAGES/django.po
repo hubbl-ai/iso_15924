@@ -1,0 +1,568 @@
+# Translation of ISO 15924 (script names) to French
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+# Christian Perrier <bubulle@debian.org>, 2007, 2009, 2010, 2011, 2012, 2013, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: fr\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2016-07-29 08:02+0100\n"
+"Last-Translator: Christian Perrier <bubulle@debian.org>\n"
+"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ISO_15924.ADLM"
+msgstr "adlam"
+
+msgid "ISO_15924.AFAK"
+msgstr "afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "aghbanien"
+
+msgid "ISO_15924.AHOM"
+msgstr "ahom, tai ahom"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabe"
+
+msgid "ISO_15924.ARAN"
+msgstr "arabe (variante Nastaliq)"
+
+msgid "ISO_15924.ARMI"
+msgstr "araméen impérial"
+
+msgid "ISO_15924.ARMN"
+msgstr "arménien"
+
+msgid "ISO_15924.AVST"
+msgstr "avestique"
+
+msgid "ISO_15924.BALI"
+msgstr "balinais"
+
+msgid "ISO_15924.BAMU"
+msgstr "bamoum"
+
+msgid "ISO_15924.BASS"
+msgstr "bassa"
+
+msgid "ISO_15924.BATK"
+msgstr "batak"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalî"
+
+msgid "ISO_15924.BHKS"
+msgstr "bhaiksuki"
+
+msgid "ISO_15924.BLIS"
+msgstr "symboles Bliss"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brâhmî"
+
+msgid "ISO_15924.BRAI"
+msgstr "braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "bouguis"
+
+msgid "ISO_15924.BUHD"
+msgstr "bouhide"
+
+msgid "ISO_15924.CAKM"
+msgstr "chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "syllabaire autochtone canadien unifié"
+
+msgid "ISO_15924.CARI"
+msgstr "carien"
+
+msgid "ISO_15924.CHAM"
+msgstr "cham (čam, tcham)"
+
+msgid "ISO_15924.CHER"
+msgstr "tchérokî"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "copte"
+
+msgid "ISO_15924.CPRT"
+msgstr "syllabaire chypriote"
+
+msgid "ISO_15924.CYRL"
+msgstr "cyrillique"
+
+msgid "ISO_15924.CYRS"
+msgstr "cyrillique (variante slavonne)"
+
+msgid "ISO_15924.DEVA"
+msgstr "dévanâgarî"
+
+msgid "ISO_15924.DSRT"
+msgstr "déseret (mormon)"
+
+msgid "ISO_15924.DUPL"
+msgstr "sténographie Duployé"
+
+msgid "ISO_15924.EGYD"
+msgstr "démotique égyptien"
+
+msgid "ISO_15924.EGYH"
+msgstr "hiératique égyptien"
+
+msgid "ISO_15924.EGYP"
+msgstr "hiéroglyphes égyptiens"
+
+msgid "ISO_15924.ELBA"
+msgstr "elbasan"
+
+msgid "ISO_15924.ETHI"
+msgstr "éthiopien (geʻez, guèze)"
+
+msgid "ISO_15924.GEOK"
+msgstr "khoutsouri (assomtavrouli et nouskhouri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "géorgien (mkhédrouli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagolitique"
+
+msgid "ISO_15924.GOTH"
+msgstr "gotique"
+
+msgid "ISO_15924.GRAN"
+msgstr "grantha"
+
+msgid "ISO_15924.GREK"
+msgstr "grec"
+
+msgid "ISO_15924.GUJR"
+msgstr "goudjarâtî (gujrâtî)"
+
+msgid "ISO_15924.GURU"
+msgstr "gourmoukhî"
+
+msgid "ISO_15924.HANB"
+msgstr "han avec bopomofo (alias pour han + bopomofo)"
+
+msgid "ISO_15924.HANG"
+msgstr "hangûl (hangŭl, hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "idéogrammes han (sinogrammes)"
+
+msgid "ISO_15924.HANO"
+msgstr "hanounóo"
+
+msgid "ISO_15924.HANS"
+msgstr "idéogrammes han (variante simplifiée)"
+
+msgid "ISO_15924.HANT"
+msgstr "idéogrammes han (variante traditionnelle)"
+
+msgid "ISO_15924.HATR"
+msgstr "hatrénien"
+
+msgid "ISO_15924.HEBR"
+msgstr "hébreu"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HLUW"
+msgstr "hiéroglyphes anatoliens (hiéroglyphes louvites, hiéroglyphes hittites)"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahawh hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "syllabaires japonais (alias pour hiragana + katakana)"
+
+msgid "ISO_15924.HUNG"
+msgstr "runes hongroises (ancien hongrois)"
+
+msgid "ISO_15924.INDS"
+msgstr "indus"
+
+msgid "ISO_15924.ITAL"
+msgstr "ancien italique (étrusque, osque, etc.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "jamo (alias pour le sous-ensemble jamo du hangûl )"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanais"
+
+msgid "ISO_15924.JPAN"
+msgstr "japonais (alias pour han + hiragana + katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "jurchen"
+
+msgid "ISO_15924.KALI"
+msgstr "kayah li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharochthî"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmer"
+
+msgid "ISO_15924.KHOJ"
+msgstr "khojkî"
+
+msgid "ISO_15924.KITL"
+msgstr "khitan (grande écriture)"
+
+msgid "ISO_15924.KITS"
+msgstr "khitan (petite écriture)"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannara (canara)"
+
+msgid "ISO_15924.KORE"
+msgstr "coréen (alias pour hangûl + han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "kpèllé"
+
+msgid "ISO_15924.KTHI"
+msgstr "kaithî"
+
+msgid "ISO_15924.LANA"
+msgstr "taï tham (lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "laotien"
+
+msgid "ISO_15924.LATF"
+msgstr "latin (variante brisée)"
+
+msgid "ISO_15924.LATG"
+msgstr "latin (variante gaélique)"
+
+msgid "ISO_15924.LATN"
+msgstr "latin"
+
+msgid "ISO_15924.LEKE"
+msgstr "leke"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepcha (róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbou"
+
+msgid "ISO_15924.LINA"
+msgstr "linéaire A"
+
+msgid "ISO_15924.LINB"
+msgstr "linéaire B"
+
+msgid "ISO_15924.LISU"
+msgstr "lisu (Fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "lycien"
+
+msgid "ISO_15924.LYDI"
+msgstr "lydien"
+
+msgid "ISO_15924.MAHJ"
+msgstr "mahâjanî"
+
+msgid "ISO_15924.MAND"
+msgstr "mandéen"
+
+msgid "ISO_15924.MANI"
+msgstr "manichéen"
+
+msgid "ISO_15924.MARC"
+msgstr "marchen"
+
+msgid "ISO_15924.MAYA"
+msgstr "hiéroglyphes mayas"
+
+msgid "ISO_15924.MEND"
+msgstr "mendé kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "cursif méroïtique"
+
+msgid "ISO_15924.MERO"
+msgstr "hiéroglyphes méroïtiques"
+
+msgid "ISO_15924.MLYM"
+msgstr "malayâlam"
+
+msgid "ISO_15924.MODI"
+msgstr "modî"
+
+msgid "ISO_15924.MONG"
+msgstr "mongol"
+
+msgid "ISO_15924.MOON"
+msgstr "écriture Moon"
+
+msgid "ISO_15924.MROO"
+msgstr "mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "meitei mayek"
+
+msgid "ISO_15924.MULT"
+msgstr "multanî"
+
+msgid "ISO_15924.MYMR"
+msgstr "birman"
+
+msgid "ISO_15924.NARB"
+msgstr "nor-arabien"
+
+msgid "ISO_15924.NBAT"
+msgstr "nabatéen"
+
+msgid "ISO_15924.NEWA"
+msgstr "newa, newar, newari, lipi du Népal"
+
+msgid "ISO_15924.NKGB"
+msgstr "nakhi gueba"
+
+msgid "ISO_15924.NKOO"
+msgstr "n’ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogam"
+
+msgid "ISO_15924.OLCK"
+msgstr "ol tchiki"
+
+msgid "ISO_15924.ORKH"
+msgstr "orkhon"
+
+msgid "ISO_15924.ORYA"
+msgstr "oriyâ"
+
+msgid "ISO_15924.OSGE"
+msgstr "osage"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmanais"
+
+msgid "ISO_15924.PALM"
+msgstr "palmyrénien"
+
+msgid "ISO_15924.PAUC"
+msgstr "paou chin haou"
+
+msgid "ISO_15924.PERM"
+msgstr "ancien permien"
+
+msgid "ISO_15924.PHAG"
+msgstr "’phags pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "pehlevi des inscriptions"
+
+msgid "ISO_15924.PHLP"
+msgstr "pehlevi des psautiers"
+
+msgid "ISO_15924.PHLV"
+msgstr "pehlevi des livres"
+
+msgid "ISO_15924.PHNX"
+msgstr "phénicien"
+
+msgid "ISO_15924.PIQD"
+msgstr "klingon (KLI pIqaD)"
+
+msgid "ISO_15924.PLRD"
+msgstr "miao (Pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "parthe des inscriptions"
+
+msgid "ISO_15924.QAAA"
+msgstr "réservé à l’usage privé (début)"
+
+msgid "ISO_15924.QABX"
+msgstr "réservé à l’usage privé (fin)"
+
+msgid "ISO_15924.RJNG"
+msgstr "redjang (kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "runique"
+
+msgid "ISO_15924.SAMR"
+msgstr "samaritain"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "sud-arabique, himyarite"
+
+msgid "ISO_15924.SAUR"
+msgstr "saurachtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "SignÉcriture, SignWriting"
+
+msgid "ISO_15924.SHAW"
+msgstr "shavien (Shaw)"
+
+msgid "ISO_15924.SHRD"
+msgstr "charada, sharda"
+
+msgid "ISO_15924.SIDD"
+msgstr "siddham"
+
+msgid "ISO_15924.SIND"
+msgstr "khoudawadî, sindhî"
+
+msgid "ISO_15924.SINH"
+msgstr "singhalais"
+
+msgid "ISO_15924.SORA"
+msgstr "sora sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "sundanais"
+
+msgid "ISO_15924.SYLO"
+msgstr "sylotî nâgrî"
+
+msgid "ISO_15924.SYRC"
+msgstr "syriaque"
+
+msgid "ISO_15924.SYRE"
+msgstr "syriaque (variante estranghélo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "syriaque (variante occidentale)"
+
+msgid "ISO_15924.SYRN"
+msgstr "syriaque (variante orientale)"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanoua"
+
+msgid "ISO_15924.TAKR"
+msgstr "tâkrî"
+
+msgid "ISO_15924.TALE"
+msgstr "taï-le"
+
+msgid "ISO_15924.TALU"
+msgstr "nouveau taï-lue"
+
+msgid "ISO_15924.TAML"
+msgstr "tamoul"
+
+msgid "ISO_15924.TANG"
+msgstr "tangoute"
+
+msgid "ISO_15924.TAVT"
+msgstr "taï viêt"
+
+msgid "ISO_15924.TELU"
+msgstr "télougou"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh (berbère)"
+
+msgid "ISO_15924.TGLG"
+msgstr "tagal (baybayin, alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "thâna"
+
+msgid "ISO_15924.THAI"
+msgstr "thaï"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibétain"
+
+msgid "ISO_15924.TIRH"
+msgstr "tirhouta"
+
+msgid "ISO_15924.UGAR"
+msgstr "ougaritique"
+
+msgid "ISO_15924.VAII"
+msgstr "vaï"
+
+msgid "ISO_15924.VISP"
+msgstr "parole visible"
+
+msgid "ISO_15924.WARA"
+msgstr "warang citi"
+
+msgid "ISO_15924.WOLE"
+msgstr "woléaï"
+
+msgid "ISO_15924.XPEO"
+msgstr "cunéiforme persépolitain"
+
+msgid "ISO_15924.XSUX"
+msgstr "cunéiforme suméro-akkadien"
+
+msgid "ISO_15924.YIII"
+msgstr "yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "codet pour écriture héritée"
+
+msgid "ISO_15924.ZMTH"
+msgstr "notation mathématique"
+
+msgid "ISO_15924.ZSYE"
+msgstr "symboles (variante emoji)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "symboles"
+
+msgid "ISO_15924.ZXXX"
+msgstr "codet pour les documents non écrites"
+
+msgid "ISO_15924.ZYYY"
+msgstr "codet pour écriture indéterminée"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "codet pour écriture non codée"

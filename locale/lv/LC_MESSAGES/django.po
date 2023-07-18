@@ -1,0 +1,538 @@
+# Translation of iso_15924 (script names) to Latvian
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) Free Software Foundation, Inc., 2001,2003.
+#
+# Rihards Priedītis <rprieditis@gmail.com>, 2010,2013.
+# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-20 16:54+0300\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "Kaukāza albāņu"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arābu"
+
+msgid "ISO_15924.ARAN"
+msgstr "Austrumsīriešu"
+
+msgid "ISO_15924.ARMI"
+msgstr "Imperiālā aramiešu"
+
+msgid "ISO_15924.ARMN"
+msgstr "Armēņu"
+
+msgid "ISO_15924.AVST"
+msgstr "Avesta"
+
+msgid "ISO_15924.BALI"
+msgstr "Baliešu"
+
+msgid "ISO_15924.BAMU"
+msgstr "Bamum"
+
+msgid "ISO_15924.BASS"
+msgstr "Bassa raksts"
+
+msgid "ISO_15924.BATK"
+msgstr "Bataksu"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengāļu"
+
+msgid "ISO_15924.BLIS"
+msgstr "Bliss simbolu"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braila raksts"
+
+msgid "ISO_15924.BUGI"
+msgstr "Bugu"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "Čakmas"
+
+msgid "ISO_15924.CANS"
+msgstr "Vienotās Kanādas iezemiešu zilbes"
+
+msgid "ISO_15924.CARI"
+msgstr "Likija"
+
+msgid "ISO_15924.CHAM"
+msgstr "Čamorru"
+
+msgid "ISO_15924.CHER"
+msgstr "Irokēzu"
+
+msgid "ISO_15924.CIRT"
+msgstr "Kirta"
+
+msgid "ISO_15924.COPT"
+msgstr "Koptu"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kipras"
+
+msgid "ISO_15924.CYRL"
+msgstr "Kirilica"
+
+msgid "ISO_15924.CYRS"
+msgstr "Kirilica (Senslāvu variants)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devānagāri (Nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret (Mormon)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duplo īsinājums, Duplo stenogrāfija"
+
+msgid "ISO_15924.EGYD"
+msgstr "Ēģiptiešu demotiskais raksts"
+
+msgid "ISO_15924.EGYH"
+msgstr "Ēģiptiešu hierātiskais raksts"
+
+msgid "ISO_15924.EGYP"
+msgstr "Ēģiptiešu hieroglifi"
+
+msgid "ISO_15924.ELBA"
+msgstr "Elbasan"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etiopiešu (Gēzes)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Kutsuri (Asomtavruli un Nuskuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Gruzīnu (Mhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolica"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotu"
+
+msgid "ISO_15924.GRAN"
+msgstr "Granta"
+
+msgid "ISO_15924.GREK"
+msgstr "Grieķu"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gudžaratu"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmuku"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (Hangŭl, Hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "Ķīniešu (Hanzi, Kandži, Handži)"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunū"
+
+msgid "ISO_15924.HANS"
+msgstr "Ķīniešu vienkāršotā"
+
+msgid "ISO_15924.HANT"
+msgstr "Ķīniešu tradicionālā"
+
+msgid "ISO_15924.HATR"
+msgstr "Hatran"
+
+msgid "ISO_15924.HEBR"
+msgstr "Ivrits"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hiragana"
+
+msgid "ISO_15924.HLUW"
+msgstr "Anatolijas hieroglifi (luvijiešu hieroglifi, hetu hieroglifi)"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahav Hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japāņu zilbes (iekļauj katakana un hiragana)"
+
+msgid "ISO_15924.HUNG"
+msgstr "Vecais Ungārijas (Ungārijas Rūnas)"
+
+msgid "ISO_15924.INDS"
+msgstr "Indus (Harapana)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Vecitāļu (Etruskas, Oskanas, u.c.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Korejiešu (iekļauj Hangul + Han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Javiešu"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japāņu (iekļauj Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "Jurčen"
+
+msgid "ISO_15924.KALI"
+msgstr "Kajah li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kharošthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmeru"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannadu"
+
+msgid "ISO_15924.KORE"
+msgstr "Korejiešu (iekļauj Hangul + Han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "Kpellu"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "Tai Thama (Lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "Lao"
+
+msgid "ISO_15924.LATF"
+msgstr "Latīņu (Frakturas variants)"
+
+msgid "ISO_15924.LATG"
+msgstr "Latīņu (Gēlu variants)"
+
+msgid "ISO_15924.LATN"
+msgstr "Latīņu"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepča (Rōng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "Lineārā A"
+
+msgid "ISO_15924.LINB"
+msgstr "Lineārā B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisu (Fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "Loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "Likijas"
+
+msgid "ISO_15924.LYDI"
+msgstr "Līdiešu"
+
+msgid "ISO_15924.MAHJ"
+msgstr "Mahajani"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandaic"
+
+msgid "ISO_15924.MANI"
+msgstr "Maniheistas"
+
+msgid "ISO_15924.MARC"
+msgstr "Jurčen"
+
+msgid "ISO_15924.MAYA"
+msgstr "Maiju hieroglifi"
+
+msgid "ISO_15924.MEND"
+msgstr "Mendu Kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroitikas kursīva"
+
+msgid "ISO_15924.MERO"
+msgstr "Meroitikas hieroglifu"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malajalu"
+
+msgid "ISO_15924.MODI"
+msgstr "Modi"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongoļu"
+
+msgid "ISO_15924.MOON"
+msgstr "Mūna raksts"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "Meitei Majek (Meithe, Mētei)"
+
+msgid "ISO_15924.MULT"
+msgstr "Multani"
+
+msgid "ISO_15924.MYMR"
+msgstr "Birmiešu"
+
+msgid "ISO_15924.NARB"
+msgstr "Vecā Ziemeļarābijas (Senais Ziemeļarābijas)"
+
+msgid "ISO_15924.NBAT"
+msgstr "Nabateja"
+
+msgid "ISO_15924.NKGB"
+msgstr "Nakī Gebas"
+
+msgid "ISO_15924.NKOO"
+msgstr "N-ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Njūšu"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogamiskais raksts"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol čiki"
+
+msgid "ISO_15924.ORKH"
+msgstr "Senais Turku, Orkhonas Runika"
+
+msgid "ISO_15924.ORYA"
+msgstr "Oriju"
+
+msgid "ISO_15924.OSMA"
+msgstr "Osmaņu"
+
+msgid "ISO_15924.PALM"
+msgstr "Palmjrena"
+
+msgid "ISO_15924.PAUC"
+msgstr "Pau cin hau"
+
+msgid "ISO_15924.PERM"
+msgstr "Vecā Permijas"
+
+msgid "ISO_15924.PHAG"
+msgstr "Phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Uzrakstu Pehlevi"
+
+msgid "ISO_15924.PHLP"
+msgstr "Psalmu Pehveli"
+
+msgid "ISO_15924.PHLV"
+msgstr "Grāmatu Pahlvi"
+
+msgid "ISO_15924.PHNX"
+msgstr "Feniķiešu"
+
+msgid "ISO_15924.PLRD"
+msgstr "Miao (Pollardas)"
+
+msgid "ISO_15924.PRTI"
+msgstr "Uzrakstu Partiešu"
+
+msgid "ISO_15924.QAAA"
+msgstr "Rezervēts privātai lietošanai (sākums)"
+
+msgid "ISO_15924.QABX"
+msgstr "Rezervēts privātai lietošanai (beigas)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejangas (Redžangas, Kagangas)"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Rūnu raksts"
+
+msgid "ISO_15924.SAMR"
+msgstr "Samārijas"
+
+msgid "ISO_15924.SARA"
+msgstr "Sarāti"
+
+msgid "ISO_15924.SARB"
+msgstr "Senā dienvidarābu"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Zīmju rakstība"
+
+msgid "ISO_15924.SHAW"
+msgstr "Šavu"
+
+msgid "ISO_15924.SHRD"
+msgstr "Šāradā"
+
+msgid "ISO_15924.SIDD"
+msgstr "Sidham"
+
+msgid "ISO_15924.SIND"
+msgstr "Sindi"
+
+msgid "ISO_15924.SINH"
+msgstr "Singāļu"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "Sundaniešu"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri raksts"
+
+msgid "ISO_15924.SYRC"
+msgstr "Sīriešu"
+
+msgid "ISO_15924.SYRE"
+msgstr "Sīriešu (Estrangelo variants)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Rietumsīriešu"
+
+msgid "ISO_15924.SYRN"
+msgstr "Austrumsīriešu"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanva"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takri"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai le"
+
+msgid "ISO_15924.TALU"
+msgstr "Jaunais Tai lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamilu"
+
+msgid "ISO_15924.TANG"
+msgstr "Tanguti"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Vetas"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengvaru"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinaga (Berberu)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagalu"
+
+msgid "ISO_15924.THAA"
+msgstr "Taana"
+
+msgid "ISO_15924.THAI"
+msgstr "Taju"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibetiešu"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugaritiešu"
+
+msgid "ISO_15924.VAII"
+msgstr "Vaju"
+
+msgid "ISO_15924.VISP"
+msgstr "Redzamā runa"
+
+msgid "ISO_15924.WARA"
+msgstr "Varangas Citi (Varangas Kšiti)"
+
+msgid "ISO_15924.WOLE"
+msgstr "Voleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "Senpersu"
+
+msgid "ISO_15924.XSUX"
+msgstr "Šumeru-akadiešu ķīļraksts"
+
+msgid "ISO_15924.YIII"
+msgstr "Ji"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kods mantotajām rakstībām"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matemātiskais pieraksts"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Sīriešu (Estrangelo variants)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Simboli"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kods nerakstītiem dokumentiem"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kods nenoteiktiem rakstiem"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kods nekodētiem rakstiem"

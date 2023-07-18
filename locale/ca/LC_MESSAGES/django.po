@@ -1,0 +1,169 @@
+# Translation of ISO 15924 (script names) to Catalan
+# This file is distributed under the same license as the iso-codes package.
+# Copyright ©
+# Toni Hermoso Pulido <toniher@softcatala.org>, 2011, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2012-01-03 18:21+0200\n"
+"Last-Translator: Toni Hermoso Pulido <toniher@softcatala.org>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "àrab"
+
+msgid "ISO_15924.ARAN"
+msgstr "siríac (variant oriental)"
+
+msgid "ISO_15924.ARMI"
+msgstr "arameu imperial"
+
+msgid "ISO_15924.ARMN"
+msgstr "armeni"
+
+msgid "ISO_15924.AVST"
+msgstr "avèstic"
+
+msgid "ISO_15924.BALI"
+msgstr "balinès"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalí"
+
+msgid "ISO_15924.BLIS"
+msgstr "símbols Bliss"
+
+msgid "ISO_15924.BRAI"
+msgstr "braille"
+
+msgid "ISO_15924.COPT"
+msgstr "copte"
+
+msgid "ISO_15924.CPRT"
+msgstr "xipriota"
+
+msgid "ISO_15924.CYRL"
+msgstr "ciríl·lic"
+
+msgid "ISO_15924.EGYD"
+msgstr "egipci demòtic"
+
+msgid "ISO_15924.EGYH"
+msgstr "egipci hieràtic"
+
+msgid "ISO_15924.EGYP"
+msgstr "egipci hieroglífic"
+
+msgid "ISO_15924.GOTH"
+msgstr "gòtic"
+
+msgid "ISO_15924.GREK"
+msgstr "grec"
+
+msgid "ISO_15924.HANS"
+msgstr "han (variant simplificada)"
+
+msgid "ISO_15924.HANT"
+msgstr "han (variant tradicional)"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebreu"
+
+msgid "ISO_15924.ITAL"
+msgstr "antic itàlic (etrusc, osc, etc.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "coreà (àlies de hangul + han)"
+
+msgid "ISO_15924.JPAN"
+msgstr "japonès (àlies de han + hiragana + katana)"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmer"
+
+msgid "ISO_15924.KORE"
+msgstr "coreà (àlies de hangul + han)"
+
+msgid "ISO_15924.LATG"
+msgstr "llatí (variant gaèlica)"
+
+msgid "ISO_15924.LATN"
+msgstr "llatí"
+
+msgid "ISO_15924.LINA"
+msgstr "lineal A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineal B"
+
+msgid "ISO_15924.MANI"
+msgstr "maniqueu"
+
+msgid "ISO_15924.MONG"
+msgstr "mongol"
+
+msgid "ISO_15924.ORYA"
+msgstr "oriya"
+
+msgid "ISO_15924.PHNX"
+msgstr "fenici"
+
+msgid "ISO_15924.SYRC"
+msgstr "siríac"
+
+msgid "ISO_15924.SYRJ"
+msgstr "siríac (variant occidental)"
+
+msgid "ISO_15924.SYRN"
+msgstr "siríac (variant oriental)"
+
+msgid "ISO_15924.TAML"
+msgstr "tàmil"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh (berber)"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "tai"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetà"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugarític"
+
+msgid "ISO_15924.VISP"
+msgstr "parla visible"
+
+msgid "ISO_15924.XPEO"
+msgstr "persa antic"
+
+msgid "ISO_15924.ZINH"
+msgstr "codi per a alfabets heretats"
+
+msgid "ISO_15924.ZMTH"
+msgstr "notació matemàtica"
+
+msgid "ISO_15924.ZSYM"
+msgstr "símbols"
+
+msgid "ISO_15924.ZXXX"
+msgstr "codi per a documents no escrits"
+
+msgid "ISO_15924.ZYYY"
+msgstr "codi per a alfabets no determinats"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "coid per a alfabets no codificats"

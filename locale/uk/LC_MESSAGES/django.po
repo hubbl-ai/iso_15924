@@ -1,0 +1,536 @@
+# Translation of ISO 15924 (script names) to Ukrainian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2011, 2012, 2013, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-06-14 08:38+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <translation-team-uk@lists.sourceforge.net>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "афака"
+
+msgid "ISO_15924.AGHB"
+msgstr "кавказька албанська"
+
+msgid "ISO_15924.ARAB"
+msgstr "арабська"
+
+msgid "ISO_15924.ARAN"
+msgstr "сирійська (східний варіант)"
+
+msgid "ISO_15924.ARMI"
+msgstr "імперська арамейська"
+
+msgid "ISO_15924.ARMN"
+msgstr "вірменська"
+
+msgid "ISO_15924.AVST"
+msgstr "авестанська"
+
+msgid "ISO_15924.BALI"
+msgstr "балійська"
+
+msgid "ISO_15924.BAMU"
+msgstr "бамум"
+
+msgid "ISO_15924.BASS"
+msgstr "басса"
+
+msgid "ISO_15924.BATK"
+msgstr "батак"
+
+msgid "ISO_15924.BENG"
+msgstr "бенгальська"
+
+msgid "ISO_15924.BLIS"
+msgstr "бліссимволіка"
+
+msgid "ISO_15924.BOPO"
+msgstr "бопомофо"
+
+msgid "ISO_15924.BRAH"
+msgstr "брахмі"
+
+msgid "ISO_15924.BRAI"
+msgstr "шрифт Брайля"
+
+msgid "ISO_15924.BUGI"
+msgstr "бугійська"
+
+msgid "ISO_15924.BUHD"
+msgstr "бухід"
+
+msgid "ISO_15924.CAKM"
+msgstr "чакмійська"
+
+msgid "ISO_15924.CANS"
+msgstr "уніфіковані силабічні канадських аборигенів"
+
+msgid "ISO_15924.CARI"
+msgstr "карійська"
+
+msgid "ISO_15924.CHAM"
+msgstr "тьям"
+
+msgid "ISO_15924.CHER"
+msgstr "черокі"
+
+msgid "ISO_15924.CIRT"
+msgstr "кіртська"
+
+msgid "ISO_15924.COPT"
+msgstr "коптська"
+
+msgid "ISO_15924.CPRT"
+msgstr "кіпрська"
+
+msgid "ISO_15924.CYRL"
+msgstr "кирилиця"
+
+msgid "ISO_15924.CYRS"
+msgstr "кирилиця (давньослов’янський варіант)"
+
+msgid "ISO_15924.DEVA"
+msgstr "девангарі (нагарі)"
+
+msgid "ISO_15924.DSRT"
+msgstr "дезерет (мормонська)"
+
+msgid "ISO_15924.DUPL"
+msgstr "скоропис Дюплоє, стенографія Дюплоє"
+
+msgid "ISO_15924.EGYD"
+msgstr "єгипетська демотична"
+
+msgid "ISO_15924.EGYH"
+msgstr "єгипетська ієротична"
+
+msgid "ISO_15924.EGYP"
+msgstr "єгипетська ієрогліфічна"
+
+msgid "ISO_15924.ELBA"
+msgstr "ельбасан"
+
+msgid "ISO_15924.ETHI"
+msgstr "ефіопська (гізи)"
+
+msgid "ISO_15924.GEOK"
+msgstr "хутсурі"
+
+msgid "ISO_15924.GEOR"
+msgstr "грузинська (мхедрулі)"
+
+msgid "ISO_15924.GLAG"
+msgstr "глаголиця"
+
+msgid "ISO_15924.GOTH"
+msgstr "готична"
+
+msgid "ISO_15924.GRAN"
+msgstr "гранта"
+
+msgid "ISO_15924.GREK"
+msgstr "грецька"
+
+msgid "ISO_15924.GUJR"
+msgstr "гуджараті"
+
+msgid "ISO_15924.GURU"
+msgstr "гурмукі"
+
+msgid "ISO_15924.HANG"
+msgstr "хангул"
+
+msgid "ISO_15924.HANI"
+msgstr "хань"
+
+msgid "ISO_15924.HANO"
+msgstr "хануно"
+
+msgid "ISO_15924.HANS"
+msgstr "хань (спрощений варіант)"
+
+msgid "ISO_15924.HANT"
+msgstr "хань (традиційний варіант)"
+
+msgid "ISO_15924.HATR"
+msgstr "хатранська"
+
+msgid "ISO_15924.HEBR"
+msgstr "іврит"
+
+msgid "ISO_15924.HIRA"
+msgstr "хірагана"
+
+msgid "ISO_15924.HMNG"
+msgstr "пахау хмонг"
+
+msgid "ISO_15924.HRKT"
+msgstr "японська складова (назва для хірагани + катакани)"
+
+msgid "ISO_15924.HUNG"
+msgstr "давня угорська (рунічна угорська)"
+
+msgid "ISO_15924.INDS"
+msgstr "індійська (харапська)"
+
+msgid "ISO_15924.ITAL"
+msgstr "давня італійська (етруська, осканська тощо)"
+
+msgid "ISO_15924.JAMO"
+msgstr "корейська (назва для хангул + хань)"
+
+msgid "ISO_15924.JAVA"
+msgstr "яванська"
+
+msgid "ISO_15924.JPAN"
+msgstr "японська (назва для хань + хірагани + катакани)"
+
+msgid "ISO_15924.JURC"
+msgstr "чжурчженська"
+
+msgid "ISO_15924.KALI"
+msgstr "кая-лі"
+
+msgid "ISO_15924.KANA"
+msgstr "катакана"
+
+msgid "ISO_15924.KHAR"
+msgstr "карошті"
+
+msgid "ISO_15924.KHMR"
+msgstr "кхмерська"
+
+msgid "ISO_15924.KHOJ"
+msgstr "хойкі"
+
+msgid "ISO_15924.KNDA"
+msgstr "каннада"
+
+msgid "ISO_15924.KORE"
+msgstr "корейська (назва для хангул + хань)"
+
+msgid "ISO_15924.KPEL"
+msgstr "кпелле"
+
+msgid "ISO_15924.KTHI"
+msgstr "кайті"
+
+msgid "ISO_15924.LANA"
+msgstr "тай там (ланна)"
+
+msgid "ISO_15924.LAOO"
+msgstr "лаоська"
+
+msgid "ISO_15924.LATF"
+msgstr "латиниця (фрактура)"
+
+msgid "ISO_15924.LATG"
+msgstr "латиниця (гельський варіант)"
+
+msgid "ISO_15924.LATN"
+msgstr "латиниця"
+
+msgid "ISO_15924.LEPC"
+msgstr "лепча (ронґ)"
+
+msgid "ISO_15924.LIMB"
+msgstr "лімбу"
+
+msgid "ISO_15924.LINA"
+msgstr "лінійна писемність A"
+
+msgid "ISO_15924.LINB"
+msgstr "лінійна писемність B"
+
+msgid "ISO_15924.LISU"
+msgstr "лісу (за Фрейзером)"
+
+msgid "ISO_15924.LOMA"
+msgstr "лома"
+
+msgid "ISO_15924.LYCI"
+msgstr "лікійська"
+
+msgid "ISO_15924.LYDI"
+msgstr "лідійська"
+
+msgid "ISO_15924.MAHJ"
+msgstr "магаджані"
+
+msgid "ISO_15924.MAND"
+msgstr "мандейська"
+
+msgid "ISO_15924.MANI"
+msgstr "маніхейська"
+
+msgid "ISO_15924.MARC"
+msgstr "чжурчженська"
+
+msgid "ISO_15924.MAYA"
+msgstr "ієрогліфи майя"
+
+msgid "ISO_15924.MEND"
+msgstr "кікакуї (менде)"
+
+msgid "ISO_15924.MERC"
+msgstr "мероїчна (курсивна)"
+
+msgid "ISO_15924.MERO"
+msgstr "мероїтська (ієрогліфічна)"
+
+msgid "ISO_15924.MLYM"
+msgstr "малаялам"
+
+msgid "ISO_15924.MODI"
+msgstr "моді"
+
+msgid "ISO_15924.MONG"
+msgstr "монгольська"
+
+msgid "ISO_15924.MOON"
+msgstr "місячна (місячний код, місячна писемність, місячні знаки)"
+
+msgid "ISO_15924.MROO"
+msgstr "мро, мру"
+
+msgid "ISO_15924.MTEI"
+msgstr "мейтей маєк"
+
+msgid "ISO_15924.MULT"
+msgstr "мултані"
+
+msgid "ISO_15924.MYMR"
+msgstr "м’янманська"
+
+msgid "ISO_15924.NARB"
+msgstr "давня північноарабська"
+
+msgid "ISO_15924.NBAT"
+msgstr "набатейська"
+
+msgid "ISO_15924.NKGB"
+msgstr "нахі геба"
+
+msgid "ISO_15924.NKOO"
+msgstr "н’ко"
+
+msgid "ISO_15924.NSHU"
+msgstr "нюй-шу"
+
+msgid "ISO_15924.OGAM"
+msgstr "огам"
+
+msgid "ISO_15924.OLCK"
+msgstr "ол чікі"
+
+msgid "ISO_15924.ORKH"
+msgstr "давня турецька, орхонська"
+
+msgid "ISO_15924.ORYA"
+msgstr "орія"
+
+msgid "ISO_15924.OSMA"
+msgstr "османья"
+
+msgid "ISO_15924.PALM"
+msgstr "пальмірська"
+
+msgid "ISO_15924.PAUC"
+msgstr "по-чжин-хо"
+
+msgid "ISO_15924.PERM"
+msgstr "давня пермська"
+
+msgid "ISO_15924.PHAG"
+msgstr "фагс-па"
+
+msgid "ISO_15924.PHLI"
+msgstr "інскрипційна пехлеві"
+
+msgid "ISO_15924.PHLP"
+msgstr "псалтирськ пехлеві"
+
+msgid "ISO_15924.PHLV"
+msgstr "книжкова пехлеві"
+
+msgid "ISO_15924.PHNX"
+msgstr "фінікійська"
+
+msgid "ISO_15924.PLRD"
+msgstr "мяо (за Поллардом)"
+
+msgid "ISO_15924.PRTI"
+msgstr "інскрипційна парфянська"
+
+msgid "ISO_15924.QAAA"
+msgstr "зарезервовано для приватного використання (початок)"
+
+msgid "ISO_15924.QABX"
+msgstr "зарезервовано для приватного використання (кінець)"
+
+msgid "ISO_15924.RJNG"
+msgstr "реджангська"
+
+msgid "ISO_15924.RORO"
+msgstr "ронгоронго"
+
+msgid "ISO_15924.RUNR"
+msgstr "рунічна"
+
+msgid "ISO_15924.SAMR"
+msgstr "самаритянська"
+
+msgid "ISO_15924.SARA"
+msgstr "сараті"
+
+msgid "ISO_15924.SARB"
+msgstr "давня південноарабська"
+
+msgid "ISO_15924.SAUR"
+msgstr "саураштра"
+
+msgid "ISO_15924.SGNW"
+msgstr "письмо жестів"
+
+msgid "ISO_15924.SHAW"
+msgstr "шавіанська (Шоу)"
+
+msgid "ISO_15924.SHRD"
+msgstr "шарада"
+
+msgid "ISO_15924.SIDD"
+msgstr "сіддхам"
+
+msgid "ISO_15924.SIND"
+msgstr "худаваді, сіндхі"
+
+msgid "ISO_15924.SINH"
+msgstr "сингалійська"
+
+msgid "ISO_15924.SORA"
+msgstr "сора (сомпенг)"
+
+msgid "ISO_15924.SUND"
+msgstr "сунданська"
+
+msgid "ISO_15924.SYLO"
+msgstr "силоті нагрі"
+
+msgid "ISO_15924.SYRC"
+msgstr "сирійська"
+
+msgid "ISO_15924.SYRE"
+msgstr "сирійська (варіант естранґело)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "сирійська (західний варіант)"
+
+msgid "ISO_15924.SYRN"
+msgstr "сирійська (східний варіант)"
+
+msgid "ISO_15924.TAGB"
+msgstr "таґбанва"
+
+msgid "ISO_15924.TAKR"
+msgstr "такрі, танкрі"
+
+msgid "ISO_15924.TALE"
+msgstr "тай лі"
+
+msgid "ISO_15924.TALU"
+msgstr "нова тай лі"
+
+msgid "ISO_15924.TAML"
+msgstr "тамільська"
+
+msgid "ISO_15924.TANG"
+msgstr "тангут"
+
+msgid "ISO_15924.TAVT"
+msgstr "тай-в’єт"
+
+msgid "ISO_15924.TELU"
+msgstr "телугу"
+
+msgid "ISO_15924.TENG"
+msgstr "тенгварська"
+
+msgid "ISO_15924.TFNG"
+msgstr "тіфінаг (берберська)"
+
+msgid "ISO_15924.TGLG"
+msgstr "тагальська (байбаїн, алібата)"
+
+msgid "ISO_15924.THAA"
+msgstr "таана"
+
+msgid "ISO_15924.THAI"
+msgstr "тайська"
+
+msgid "ISO_15924.TIBT"
+msgstr "тибетська"
+
+msgid "ISO_15924.TIRH"
+msgstr "тіргута"
+
+msgid "ISO_15924.UGAR"
+msgstr "угаритська"
+
+msgid "ISO_15924.VAII"
+msgstr "вай"
+
+msgid "ISO_15924.VISP"
+msgstr "візуальна мова"
+
+msgid "ISO_15924.WARA"
+msgstr "варанг-кшиті"
+
+msgid "ISO_15924.WOLE"
+msgstr "волеаї"
+
+msgid "ISO_15924.XPEO"
+msgstr "давня перська"
+
+msgid "ISO_15924.XSUX"
+msgstr "клинопис, шумеро-акадська"
+
+msgid "ISO_15924.YIII"
+msgstr "ї"
+
+msgid "ISO_15924.ZINH"
+msgstr "код для успадкованого запису"
+
+msgid "ISO_15924.ZMTH"
+msgstr "математичні позначення"
+
+msgid "ISO_15924.ZSYE"
+msgstr "сирійська (варіант естранґело)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "символи"
+
+msgid "ISO_15924.ZXXX"
+msgstr "код для неписемних документів"
+
+msgid "ISO_15924.ZYYY"
+msgstr "код для невизначеної писемності"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "код для писемності без коду"

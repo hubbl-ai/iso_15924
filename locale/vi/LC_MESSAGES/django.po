@@ -1,0 +1,431 @@
+# Vietnamese translation for ISO 15924.
+# Copyright © 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Clytie Siddall <clytie@riverland.net.au>, 2007-2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-05-12 23:46+0930\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.8\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "A Rập"
+
+msgid "ISO_15924.ARAN"
+msgstr "Xi-ri (biến thể Đông)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Xy-ri cũ hoàng đế"
+
+msgid "ISO_15924.ARMN"
+msgstr "Ác-mê-ni"
+
+msgid "ISO_15924.AVST"
+msgstr "A-ve-x-tanh"
+
+msgid "ISO_15924.BALI"
+msgstr "Ba-li"
+
+msgid "ISO_15924.BATK"
+msgstr "Ba-tắc"
+
+msgid "ISO_15924.BENG"
+msgstr "Ben-ga-li"
+
+msgid "ISO_15924.BLIS"
+msgstr "Ký hiệu Bliss"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bô-pô-mô-phô"
+
+msgid "ISO_15924.BRAH"
+msgstr "Bợ-ră-mi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Chữ Braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "Bu-gi-ni"
+
+msgid "ISO_15924.BUHD"
+msgstr "Bu-hít"
+
+msgid "ISO_15924.CAKM"
+msgstr "Chác-ma"
+
+msgid "ISO_15924.CANS"
+msgstr "Âm Tiết Thổ Dân Ca-na-đa Thống Nhất"
+
+msgid "ISO_15924.CARI"
+msgstr "Ca-ri"
+
+msgid "ISO_15924.CHAM"
+msgstr "Cham"
+
+msgid "ISO_15924.CHER"
+msgstr "Che-rô-khi"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Giáo hội Ai Cập"
+
+msgid "ISO_15924.CPRT"
+msgstr "Síp"
+
+msgid "ISO_15924.CYRL"
+msgstr "Chữ Ki-rin"
+
+msgid "ISO_15924.CYRS"
+msgstr "Chữ Ki-rin (biến thể Xla-vô-ni Nhà Thơ Cũ)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Đe-va-na-ga-ri (Na-ga-ri)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Đe-se-rét (Moa-mon)"
+
+msgid "ISO_15924.EGYD"
+msgstr "Ai Cập thông dụng"
+
+msgid "ISO_15924.EGYH"
+msgstr "Ai Cập thầy tu"
+
+msgid "ISO_15924.EGYP"
+msgstr "Ai Cập viết tượng hình"
+
+msgid "ISO_15924.ETHI"
+msgstr "Ê-ti-ô-pi (Ge'ez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khu-t-xu-ri (Asomtavruli và Nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Gi-oa-gi-a (Mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "G-la-gô-li-ti"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gô-tích"
+
+msgid "ISO_15924.GREK"
+msgstr "Hy Lạp"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gu-gia-ra-ti"
+
+msgid "ISO_15924.GURU"
+msgstr "Gổ-mu-khi"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (Hangŭl, Hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "Han (Hanzi, Kanji, Hanja)"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoo (Hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "Han (biến thể phổ thông)"
+
+msgid "ISO_15924.HANT"
+msgstr "Han (biến thể truyền thống)"
+
+msgid "ISO_15924.HEBR"
+msgstr "Do Thái"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hi-ra-ga-na"
+
+msgid "ISO_15924.HMNG"
+msgstr "Miêu Pahawh"
+
+msgid "ISO_15924.HRKT"
+msgstr "Nhật (bí danh đại diện Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "In-du-x (Ha-ra-pa)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Ý cũ (E-tợ-ru-x-ca, O-x-ca v.v.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Hàn (bí danh đại diện Hangul + Han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Gia-va"
+
+msgid "ISO_15924.JPAN"
+msgstr "Nhật (bí danh đại diện Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Ka-ta-ka-na"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kha-ro-s-thi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khơ-me"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kan-na-đa"
+
+msgid "ISO_15924.KORE"
+msgstr "Hàn (bí danh đại diện Hangul + Han)"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kai-thi"
+
+msgid "ISO_15924.LANA"
+msgstr "Tai Thal (Lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "Lào"
+
+msgid "ISO_15924.LATF"
+msgstr "La-tinh (biến thể Fraktur)"
+
+msgid "ISO_15924.LATG"
+msgstr "La-tinh (biến thể Xen-tơ)"
+
+msgid "ISO_15924.LATN"
+msgstr "La-tinh"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lep-cha (Róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "Lim-bu"
+
+msgid "ISO_15924.LINA"
+msgstr "Tuyến A"
+
+msgid "ISO_15924.LINB"
+msgstr "Tuyến B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisu (Fraser)"
+
+msgid "ISO_15924.LYCI"
+msgstr "Ly-xi"
+
+msgid "ISO_15924.LYDI"
+msgstr "Ly-đi-a"
+
+msgid "ISO_15924.MAND"
+msgstr "Man-đaíc"
+
+msgid "ISO_15924.MANI"
+msgstr "Ma-ni-chi-a"
+
+msgid "ISO_15924.MAYA"
+msgstr "Ma-ya viết tượng hình"
+
+msgid "ISO_15924.MERC"
+msgstr "Me-rô-i-tíc"
+
+msgid "ISO_15924.MERO"
+msgstr "Ai Cập viết tượng hình"
+
+msgid "ISO_15924.MLYM"
+msgstr "Mã Lai"
+
+msgid "ISO_15924.MONG"
+msgstr "Mông Cổ"
+
+msgid "ISO_15924.MOON"
+msgstr "Moon (mã Moon, chữ viết Moon, chữ in Moon)"
+
+msgid "ISO_15924.MTEI"
+msgstr "Mei-tei May-ek (Meithei, Meetei)"
+
+msgid "ISO_15924.MYMR"
+msgstr "Miến Điện"
+
+msgid "ISO_15924.NKGB"
+msgstr "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogam"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
+
+msgid "ISO_15924.ORYA"
+msgstr "O-ri-a"
+
+msgid "ISO_15924.OSMA"
+msgstr "O-x-man-i-a"
+
+msgid "ISO_15924.PERM"
+msgstr "Pơ-míc cũ"
+
+msgid "ISO_15924.PHAG"
+msgstr "Pha-g-x-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Pa-la-vi câu viết"
+
+msgid "ISO_15924.PHLP"
+msgstr "Pa-la-vi sách thánh ca"
+
+msgid "ISO_15924.PHLV"
+msgstr "Pa-la-vi sách"
+
+msgid "ISO_15924.PHNX"
+msgstr "Phi-ni-xi"
+
+msgid "ISO_15924.PLRD"
+msgstr "Miao (Pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "Pa-thi xư câu viết"
+
+msgid "ISO_15924.QAAA"
+msgstr "Dành để sử dụng riêng (đầu)"
+
+msgid "ISO_15924.QABX"
+msgstr "Dành để sử dụng riêng (cuối)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejang (Redjang, Kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "Ron-gô-ron-gô"
+
+msgid "ISO_15924.RUNR"
+msgstr "Chữ Run"
+
+msgid "ISO_15924.SAMR"
+msgstr "Xa-ma-ri"
+
+msgid "ISO_15924.SARA"
+msgstr "Xa-ra-ti"
+
+msgid "ISO_15924.SARB"
+msgstr "Hun-ga-ri cũ"
+
+msgid "ISO_15924.SAUR"
+msgstr "Xau-ra-s-tợ-ra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Viết ước hiệu"
+
+msgid "ISO_15924.SHAW"
+msgstr "Sa-vi (Shaw)"
+
+msgid "ISO_15924.SINH"
+msgstr "Xin-ha-la"
+
+msgid "ISO_15924.SUND"
+msgstr "Xun-đa-ni"
+
+msgid "ISO_15924.SYLO"
+msgstr "Xi-lô-ti Na-gợ-ri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Xi-ri"
+
+msgid "ISO_15924.SYRE"
+msgstr "Xi-ri (biến thể Estralengo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Xi-ri (biến thể Tây)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Xi-ri (biến thể Đông)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tac-ba-nouă"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Tai Lue mới"
+
+msgid "ISO_15924.TAML"
+msgstr "Ta-min"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Te-lu-gu"
+
+msgid "ISO_15924.TENG"
+msgstr "Teng-ouă"
+
+msgid "ISO_15924.TFNG"
+msgstr "Ti-phi-nach (Bơ-bơ)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagalog (Baybayin, Alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "Thă-na"
+
+msgid "ISO_15924.THAI"
+msgstr "Thái"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tây Tạng"
+
+msgid "ISO_15924.UGAR"
+msgstr "U-ga-ri-ti"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Giọng Nói Hiện Rõ"
+
+msgid "ISO_15924.XPEO"
+msgstr "Ba Tư cũ"
+
+msgid "ISO_15924.XSUX"
+msgstr "Chữ hình nêm (Xu-me-rô Ác-ca-đi)"
+
+msgid "ISO_15924.YIII"
+msgstr "Yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "Mã cho chữ viết kế thừa"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Cách ghi toán học"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Xi-ri (biến thể Estralengo)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Ký hiệu"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Mã cho tài liệu không viết"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Mã cho chữ viết chưa xác định"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Mã cho chữ viết chưa có mã"

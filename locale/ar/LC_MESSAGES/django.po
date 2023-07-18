@@ -1,0 +1,303 @@
+# Translation of ISO 15924 (script names) to Arabic
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Arabic\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "العربية"
+
+msgid "ISO_15924.ARAN"
+msgstr "السريانية [Syre]"
+
+msgid "ISO_15924.ARMN"
+msgstr "الأرمينية"
+
+msgid "ISO_15924.BALI"
+msgstr "البالية"
+
+msgid "ISO_15924.BATK"
+msgstr "الباتاك"
+
+msgid "ISO_15924.BENG"
+msgstr "البنغالية"
+
+msgid "ISO_15924.BLIS"
+msgstr "رموز بليس"
+
+msgid "ISO_15924.BOPO"
+msgstr "البوبوموفو"
+
+msgid "ISO_15924.BRAH"
+msgstr "الهندوسية"
+
+msgid "ISO_15924.BRAI"
+msgstr "البرايل"
+
+msgid "ISO_15924.BUGI"
+msgstr "البجينيز"
+
+msgid "ISO_15924.BUHD"
+msgstr "البهيدية"
+
+msgid "ISO_15924.CAKM"
+msgstr "التشامية"
+
+msgid "ISO_15924.CANS"
+msgstr "رموز أصلية كندية موحدة"
+
+msgid "ISO_15924.CHAM"
+msgstr "التشامية"
+
+msgid "ISO_15924.CHER"
+msgstr "الشيروكى"
+
+msgid "ISO_15924.CIRT"
+msgstr "السيرث"
+
+msgid "ISO_15924.COPT"
+msgstr "القبطية"
+
+msgid "ISO_15924.CPRT"
+msgstr "القبرصية"
+
+msgid "ISO_15924.CYRL"
+msgstr "السيريلية"
+
+msgid "ISO_15924.CYRS"
+msgstr "السيريلية - متغير السلافية الكنسية القديمة"
+
+msgid "ISO_15924.DEVA"
+msgstr "الديفاناجارى"
+
+msgid "ISO_15924.DSRT"
+msgstr "الديسيريت"
+
+msgid "ISO_15924.EGYD"
+msgstr "الديموطيقية"
+
+msgid "ISO_15924.EGYH"
+msgstr "الهيراطيقية"
+
+msgid "ISO_15924.EGYP"
+msgstr "الهيروغليفية"
+
+msgid "ISO_15924.ETHI"
+msgstr "الاثيوبية"
+
+msgid "ISO_15924.GEOR"
+msgstr "الأبجدية الجورجية - أسومتافرلى و نسخرى"
+
+msgid "ISO_15924.GLAG"
+msgstr "الجلاجوليتيك"
+
+msgid "ISO_15924.GOTH"
+msgstr "القوطية"
+
+msgid "ISO_15924.GREK"
+msgstr "اليونانية"
+
+msgid "ISO_15924.GUJR"
+msgstr "التاغجراتية"
+
+msgid "ISO_15924.GURU"
+msgstr "الجرمخى"
+
+msgid "ISO_15924.HANS"
+msgstr "الهان المبسطة"
+
+msgid "ISO_15924.HANT"
+msgstr "الهان التقليدية"
+
+msgid "ISO_15924.HEBR"
+msgstr "العبرية"
+
+msgid "ISO_15924.HIRA"
+msgstr "الهيراجانا"
+
+msgid "ISO_15924.HMNG"
+msgstr "الباهوه همونج"
+
+msgid "ISO_15924.JAVA"
+msgstr "الجاوية"
+
+msgid "ISO_15924.KALI"
+msgstr "الكياه لى"
+
+msgid "ISO_15924.KANA"
+msgstr "الكتكانا"
+
+msgid "ISO_15924.KHAR"
+msgstr "الخاروشتى"
+
+msgid "ISO_15924.KHMR"
+msgstr "الخميرية"
+
+msgid "ISO_15924.KNDA"
+msgstr "الكانادا"
+
+msgid "ISO_15924.KTHI"
+msgstr "الخاروشتى"
+
+msgid "ISO_15924.LAOO"
+msgstr "اللاو"
+
+msgid "ISO_15924.LATF"
+msgstr "اللاتينية - متغير فراكتر"
+
+msgid "ISO_15924.LATN"
+msgstr "اللاتينية"
+
+msgid "ISO_15924.LEPC"
+msgstr "الليبتشا - رونج"
+
+msgid "ISO_15924.LIMB"
+msgstr "الليمبو"
+
+msgid "ISO_15924.LINA"
+msgstr "الخطية أ"
+
+msgid "ISO_15924.LINB"
+msgstr "الخطية ب"
+
+msgid "ISO_15924.MAND"
+msgstr "المانداينية"
+
+msgid "ISO_15924.MANI"
+msgstr "المانداينية"
+
+msgid "ISO_15924.MAYA"
+msgstr "المايا الهيروغليفية"
+
+msgid "ISO_15924.MERC"
+msgstr "الميرويتيك"
+
+msgid "ISO_15924.MERO"
+msgstr "الهيروغليفية"
+
+msgid "ISO_15924.MLYM"
+msgstr "الماليالام"
+
+msgid "ISO_15924.MONG"
+msgstr "المغولية"
+
+msgid "ISO_15924.NKOO"
+msgstr "انكو"
+
+msgid "ISO_15924.OGAM"
+msgstr "الأوجهام"
+
+msgid "ISO_15924.ORYA"
+msgstr "الأوريا"
+
+msgid "ISO_15924.OSMA"
+msgstr "الأوسمانيا"
+
+msgid "ISO_15924.PERM"
+msgstr "البيرميكية القديمة"
+
+msgid "ISO_15924.PHAG"
+msgstr "الفاجسبا"
+
+msgid "ISO_15924.PHNX"
+msgstr "الفينيقية"
+
+msgid "ISO_15924.PRTI"
+msgstr "الهان التقليدية"
+
+msgid "ISO_15924.RORO"
+msgstr "رنجورنجو"
+
+msgid "ISO_15924.RUNR"
+msgstr "الرونى"
+
+msgid "ISO_15924.SARA"
+msgstr "الساراتى"
+
+msgid "ISO_15924.SARB"
+msgstr "المجرية القديمة"
+
+msgid "ISO_15924.SHAW"
+msgstr "الشوانى"
+
+msgid "ISO_15924.SINH"
+msgstr "السينهالا"
+
+msgid "ISO_15924.SYLO"
+msgstr "السيلوتى ناجرى"
+
+msgid "ISO_15924.SYRC"
+msgstr "السريانية"
+
+msgid "ISO_15924.SYRE"
+msgstr "السريانية [Syre]"
+
+msgid "ISO_15924.TAGB"
+msgstr "التاجبانوا"
+
+msgid "ISO_15924.TALE"
+msgstr "التاى لى"
+
+msgid "ISO_15924.TALU"
+msgstr "التاى لى الجديد"
+
+msgid "ISO_15924.TAML"
+msgstr "التاميلية"
+
+msgid "ISO_15924.TAVT"
+msgstr "التاى لى"
+
+msgid "ISO_15924.TELU"
+msgstr "التيلجو"
+
+msgid "ISO_15924.TENG"
+msgstr "التينجوار"
+
+msgid "ISO_15924.TFNG"
+msgstr "التيفيناغ - البربر"
+
+msgid "ISO_15924.THAA"
+msgstr "الثعنة"
+
+msgid "ISO_15924.THAI"
+msgstr "التايلاندية"
+
+msgid "ISO_15924.TIBT"
+msgstr "التبتية"
+
+msgid "ISO_15924.UGAR"
+msgstr "الأجاريتيكية"
+
+msgid "ISO_15924.VAII"
+msgstr "الفاى"
+
+msgid "ISO_15924.VISP"
+msgstr "الكلام المرئى"
+
+msgid "ISO_15924.XPEO"
+msgstr "الفارسية القديمة"
+
+msgid "ISO_15924.YIII"
+msgstr "اليى"
+
+msgid "ISO_15924.ZSYE"
+msgstr "السريانية [Syre]"
+
+msgid "ISO_15924.ZSYM"
+msgstr "رموز بليس"

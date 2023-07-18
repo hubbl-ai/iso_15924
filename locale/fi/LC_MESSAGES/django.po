@@ -1,0 +1,505 @@
+# Finnish translations for iso-codes package.
+# Copyright (C) 2009-2011 Free Software Foundation, Inc.
+# Copyright (C) 2007 Tobias Toedter <t.toedter@gmx.net>.
+#     Translations taken from ICU SVN on 2007-09-09
+# This file is distributed under the same license as the iso-codes package.
+# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2009-2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2011-09-07 16:10+0300\n"
+"Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabialainen"
+
+msgid "ISO_15924.ARAN"
+msgstr "syyrialainen (itäinen muunnelma)"
+
+msgid "ISO_15924.ARMI"
+msgstr "imperiaalinen aramea"
+
+msgid "ISO_15924.ARMN"
+msgstr "armenialainen"
+
+msgid "ISO_15924.AVST"
+msgstr "avestan"
+
+msgid "ISO_15924.BALI"
+msgstr "balilainen"
+
+msgid "ISO_15924.BAMU"
+msgstr "bamum-kieli"
+
+msgid "ISO_15924.BASS"
+msgstr "bassa-vah"
+
+msgid "ISO_15924.BATK"
+msgstr "batakilainen"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalilainen"
+
+msgid "ISO_15924.BLIS"
+msgstr "Bliss-symbolit"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braille-pistekirjoitus"
+
+msgid "ISO_15924.BUGI"
+msgstr "bugilainen"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhidilainen"
+
+msgid "ISO_15924.CAKM"
+msgstr "chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Kanadan alkuperäiskansojen yhtenäistetty tavukirjoitus"
+
+msgid "ISO_15924.CARI"
+msgstr "kaarialainen"
+
+msgid "ISO_15924.CHAM"
+msgstr "tšamilainen"
+
+msgid "ISO_15924.CHER"
+msgstr "cherokeelainen"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "koptilainen"
+
+msgid "ISO_15924.CPRT"
+msgstr "muinaiskyproslainen"
+
+msgid "ISO_15924.CYRL"
+msgstr "kyrillinen"
+
+msgid "ISO_15924.CYRS"
+msgstr "kyrillinen (muinaiskirkkoslaavimuunnelma)"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanagari (nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret (mormoni)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duployén pikakirjoitus"
+
+msgid "ISO_15924.EGYD"
+msgstr "egyptiläinen demoottinen"
+
+msgid "ISO_15924.EGYH"
+msgstr "egyptiläinen hieraattinen"
+
+msgid "ISO_15924.EGYP"
+msgstr "egyptiläiset hieroglyfit"
+
+msgid "ISO_15924.ELBA"
+msgstr "elbasanilainen"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiopialainen (ge'ez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "khutsuri (asomtavruli ja nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "georgialainen (mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagoliittinen"
+
+msgid "ISO_15924.GOTH"
+msgstr "goottilainen"
+
+msgid "ISO_15924.GRAN"
+msgstr "granthakirjoitus"
+
+msgid "ISO_15924.GREK"
+msgstr "kreikkalainen"
+
+msgid "ISO_15924.GUJR"
+msgstr "gudžaratilainen"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmukhi"
+
+msgid "ISO_15924.HANG"
+msgstr "hangul"
+
+msgid "ISO_15924.HANI"
+msgstr "kiinalainen han"
+
+msgid "ISO_15924.HANO"
+msgstr "hanunoolainen"
+
+msgid "ISO_15924.HANS"
+msgstr "han (yksinkertaistettu muunnelma)"
+
+msgid "ISO_15924.HANT"
+msgstr "han (perinteinen muunnelma)"
+
+msgid "ISO_15924.HEBR"
+msgstr "heprealainen"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahawh hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "japanilainen tavukirjoitus (alias yhdistelmälle hiragana ja katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "induslainen"
+
+msgid "ISO_15924.ITAL"
+msgstr "vanha italia (etruskit, oskit jne.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "korealainen (alias yhdistelmälle hangul ja han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "jaavalainen"
+
+msgid "ISO_15924.JPAN"
+msgstr "japanilainen (alias yhdistelmälle han, hiragana ja katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "Džurtšen"
+
+msgid "ISO_15924.KALI"
+msgstr "kayah li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharosthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmeriläinen"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannadalainen"
+
+msgid "ISO_15924.KORE"
+msgstr "korealainen (alias yhdistelmälle hangul ja han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "kpelle"
+
+msgid "ISO_15924.KTHI"
+msgstr "kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "tai tham (lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "laolainen"
+
+msgid "ISO_15924.LATF"
+msgstr "latinalainen (fraktuuramuunnelma)"
+
+msgid "ISO_15924.LATG"
+msgstr "latinalainen (gaelilainen muunnelma)"
+
+msgid "ISO_15924.LATN"
+msgstr "latinalainen"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepchalainen"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbulainen"
+
+msgid "ISO_15924.LINA"
+msgstr "lineaari-A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineaari-B"
+
+msgid "ISO_15924.LISU"
+msgstr "lisu"
+
+msgid "ISO_15924.LOMA"
+msgstr "loma-kieli"
+
+msgid "ISO_15924.LYCI"
+msgstr "lyykialainen"
+
+msgid "ISO_15924.LYDI"
+msgstr "lyydialainen"
+
+msgid "ISO_15924.MAND"
+msgstr "mandealainen"
+
+msgid "ISO_15924.MANI"
+msgstr "manikealainen"
+
+msgid "ISO_15924.MARC"
+msgstr "Džurtšen"
+
+msgid "ISO_15924.MAYA"
+msgstr "maya-hieroglyfit"
+
+msgid "ISO_15924.MERC"
+msgstr "meroiittinen kursiivi"
+
+msgid "ISO_15924.MERO"
+msgstr "meroiittiset hieroglyfit"
+
+msgid "ISO_15924.MLYM"
+msgstr "malajalamilainen"
+
+msgid "ISO_15924.MONG"
+msgstr "mongolilainen"
+
+msgid "ISO_15924.MOON"
+msgstr "Moon-kohokirjoitus"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "meitei (meitei mayek)"
+
+msgid "ISO_15924.MYMR"
+msgstr "myanmarilainen (burmalainen)"
+
+msgid "ISO_15924.NARB"
+msgstr "vanha pohjoisarabia (muinainen pohjoisarabia)"
+
+msgid "ISO_15924.NBAT"
+msgstr "nabatea"
+
+msgid "ISO_15924.NKGB"
+msgstr "nakhi geba"
+
+msgid "ISO_15924.NKOO"
+msgstr "n'ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogam"
+
+msgid "ISO_15924.OLCK"
+msgstr "ol chiki"
+
+msgid "ISO_15924.ORKH"
+msgstr "vanha turkki, riimu-orkhon"
+
+msgid "ISO_15924.ORYA"
+msgstr "orijalainen"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmanjalainen"
+
+msgid "ISO_15924.PALM"
+msgstr "palmyra"
+
+msgid "ISO_15924.PERM"
+msgstr "muinaispermiläinen"
+
+msgid "ISO_15924.PHAG"
+msgstr "phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "kaiverrettu pahlavi"
+
+msgid "ISO_15924.PHLP"
+msgstr "psalmipahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "kirjapahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "foinikialainen"
+
+msgid "ISO_15924.PLRD"
+msgstr "Pollardin foneettinen"
+
+msgid "ISO_15924.PRTI"
+msgstr "kaiverrettu parthialainen"
+
+msgid "ISO_15924.QAAA"
+msgstr "varattu yksityiseen käyttöön (alku)"
+
+msgid "ISO_15924.QABX"
+msgstr "varattu yksityiseen käyttöön (loppu)"
+
+msgid "ISO_15924.RJNG"
+msgstr "rejang"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "riimukirjoitus"
+
+msgid "ISO_15924.SAMR"
+msgstr "samarialainen"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "vanha etelä-arabia"
+
+msgid "ISO_15924.SAUR"
+msgstr "saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "merkkikirjoitus"
+
+msgid "ISO_15924.SHAW"
+msgstr "shaw’lainen"
+
+msgid "ISO_15924.SHRD"
+msgstr "Sharada, Śāradā"
+
+msgid "ISO_15924.SIND"
+msgstr "sindhiläinen"
+
+msgid "ISO_15924.SINH"
+msgstr "sinhalilainen"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "sundalainen"
+
+msgid "ISO_15924.SYLO"
+msgstr "syloti nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "syyrialainen"
+
+msgid "ISO_15924.SYRE"
+msgstr "syyrialainen (estrangelo-muunnelma)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "syyrialainen (läntinen muunnelma)"
+
+msgid "ISO_15924.SYRN"
+msgstr "syyrialainen (itäinen muunnelma)"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanwalainen"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takri, Ṭākrī, Ṭāṅkrī"
+
+msgid "ISO_15924.TALE"
+msgstr "tailelainen"
+
+msgid "ISO_15924.TALU"
+msgstr "uusi tailuelainen"
+
+msgid "ISO_15924.TAML"
+msgstr "tamililainen"
+
+msgid "ISO_15924.TANG"
+msgstr "tanguutilainen"
+
+msgid "ISO_15924.TAVT"
+msgstr "tai viet"
+
+msgid "ISO_15924.TELU"
+msgstr "telugulainen"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh"
+
+msgid "ISO_15924.TGLG"
+msgstr "tagalogilainen"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "thailainen"
+
+msgid "ISO_15924.TIBT"
+msgstr "tiibetiläinen"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugaritilainen"
+
+msgid "ISO_15924.VAII"
+msgstr "vailainen"
+
+msgid "ISO_15924.VISP"
+msgstr "näkyvä puhe"
+
+msgid "ISO_15924.WARA"
+msgstr "varang kshiti"
+
+msgid "ISO_15924.WOLE"
+msgstr "Woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "muinaispersialainen"
+
+msgid "ISO_15924.XSUX"
+msgstr "sumerilais-akkadilainen nuolenpääkirjoitus"
+
+msgid "ISO_15924.YIII"
+msgstr "yiläinen"
+
+msgid "ISO_15924.ZINH"
+msgstr "koodi perityille aakkostoille"
+
+msgid "ISO_15924.ZMTH"
+msgstr "matemaattinen notaatio"
+
+msgid "ISO_15924.ZSYE"
+msgstr "syyrialainen (estrangelo-muunnelma)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "symbolit"
+
+msgid "ISO_15924.ZXXX"
+msgstr "koodi kirjoittamattomille asiakirjoille"
+
+msgid "ISO_15924.ZYYY"
+msgstr "koodi epäselville aakkostoille"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "koodi koodittomalle aakkostolle"

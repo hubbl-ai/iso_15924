@@ -1,0 +1,517 @@
+# Translation of ISO 15924 (script names) to Esperanto
+# This file is distributed under the same license as the iso-codes package.
+# Copyright (C) Edmund GRIMLEY EVANS <edmundo@rano.org>, 2007, 2009-2013.
+# Felipe Castro <fefcas@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-10-07 11:03-0300\n"
+"Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "Kaŭkaza albana"
+
+msgid "ISO_15924.ARAB"
+msgstr "Araba"
+
+msgid "ISO_15924.ARAN"
+msgstr "Siria (orienta vario)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Imperia aramea"
+
+msgid "ISO_15924.ARMN"
+msgstr "Armena"
+
+msgid "ISO_15924.AVST"
+msgstr "Avesta"
+
+msgid "ISO_15924.BALI"
+msgstr "Balia"
+
+msgid "ISO_15924.BAMU"
+msgstr "Bamuma"
+
+msgid "ISO_15924.BASS"
+msgstr "Bassa"
+
+msgid "ISO_15924.BATK"
+msgstr "Bataka"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengala"
+
+msgid "ISO_15924.BLIS"
+msgstr "Blisa skribo"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Bramia"
+
+msgid "ISO_15924.BRAI"
+msgstr "Brajla"
+
+msgid "ISO_15924.BUGI"
+msgstr "Bugia"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhida"
+
+msgid "ISO_15924.CAKM"
+msgstr "Ĉakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Unuigitaj Kanadaj Indiĝenaj Silabaroj"
+
+msgid "ISO_15924.CARI"
+msgstr "Karia"
+
+msgid "ISO_15924.CHAM"
+msgstr "Ĉama"
+
+msgid "ISO_15924.CHER"
+msgstr "Ĉeroka"
+
+msgid "ISO_15924.CIRT"
+msgstr "Kirta (Tolkien)"
+
+msgid "ISO_15924.COPT"
+msgstr "Kopta"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kipra"
+
+msgid "ISO_15924.CYRL"
+msgstr "Cirila"
+
+msgid "ISO_15924.CYRS"
+msgstr "Cirila (slavona vario)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Nagaria"
+
+msgid "ISO_15924.DSRT"
+msgstr "Desereta (mormona)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duploja stenografio"
+
+msgid "ISO_15924.EGYD"
+msgstr "Egipta demotika"
+
+msgid "ISO_15924.EGYH"
+msgstr "Egipta hieratika"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egipta hieroglifa"
+
+msgid "ISO_15924.ELBA"
+msgstr "Elbasana"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etiopa"
+
+msgid "ISO_15924.GEOK"
+msgstr "Ĥucura"
+
+msgid "ISO_15924.GEOR"
+msgstr "Kartvela"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolica"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gota"
+
+msgid "ISO_15924.GRAN"
+msgstr "Granta"
+
+msgid "ISO_15924.GREK"
+msgstr "Greka"
+
+msgid "ISO_15924.GUJR"
+msgstr "Guĝarata"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmuka"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangula"
+
+msgid "ISO_15924.HANI"
+msgstr "Hana"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoa"
+
+msgid "ISO_15924.HANS"
+msgstr "Hana (simpligita vario)"
+
+msgid "ISO_15924.HANT"
+msgstr "Hana (tradicia vario)"
+
+msgid "ISO_15924.HEBR"
+msgstr "Hebrea"
+
+msgid "ISO_15924.HIRA"
+msgstr "Rondaj kanaoj"
+
+msgid "ISO_15924.HLUW"
+msgstr "Anatolaj hieroglifoj (luvitaj hieroglifoj, hititaj hieroglifoj)"
+
+msgid "ISO_15924.HMNG"
+msgstr "Skribo de Pahawh"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japana silabaroj (= Hana + Rondaj kanaoj + Strekaj kanaoj)"
+
+msgid "ISO_15924.HUNG"
+msgstr "Malnova hungara (hungara runeca)"
+
+msgid "ISO_15924.INDS"
+msgstr "Indusa (harapa)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Malnova itala (etruska, oska, ktp)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Korea (= hangula + hana)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Java"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japana (= Hana + Rondaj kanaoj + Strekaj kanaoj)"
+
+msgid "ISO_15924.JURC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Strekaj kanaoj"
+
+msgid "ISO_15924.KHAR"
+msgstr "Karoŝta"
+
+msgid "ISO_15924.KHMR"
+msgstr "Kmera"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kanara"
+
+msgid "ISO_15924.KORE"
+msgstr "Korea (= hangula + hana)"
+
+msgid "ISO_15924.KPEL"
+msgstr "Kpela"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kajasta"
+
+msgid "ISO_15924.LANA"
+msgstr "Lanna"
+
+msgid "ISO_15924.LAOO"
+msgstr "Laosa"
+
+msgid "ISO_15924.LATF"
+msgstr "Latina (fraktura vario)"
+
+msgid "ISO_15924.LATG"
+msgstr "Latina (irlanda vario)"
+
+msgid "ISO_15924.LATN"
+msgstr "Latina"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepĉa"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbua"
+
+msgid "ISO_15924.LINA"
+msgstr "Skribo linia A"
+
+msgid "ISO_15924.LINB"
+msgstr "Skribo linia B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisua (Fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "Loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "Likia"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lidia"
+
+msgid "ISO_15924.MAHJ"
+msgstr "Mahajani"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandea"
+
+msgid "ISO_15924.MANI"
+msgstr "Maniĥea"
+
+msgid "ISO_15924.MARC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.MAYA"
+msgstr "Majaaj hieroglifoj"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroa kursiva"
+
+msgid "ISO_15924.MERO"
+msgstr "Merotaj hieroglifoj"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malajala"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongola"
+
+msgid "ISO_15924.MOON"
+msgstr "Kodo de Moon"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "Manipura"
+
+msgid "ISO_15924.MYMR"
+msgstr "Birma"
+
+msgid "ISO_15924.NARB"
+msgstr "Malnova nord-araba"
+
+msgid "ISO_15924.NBAT"
+msgstr "Nabatea"
+
+msgid "ISO_15924.NKGB"
+msgstr "Naka Geba"
+
+msgid "ISO_15924.NKOO"
+msgstr "Skribo N'Ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogama"
+
+msgid "ISO_15924.OLCK"
+msgstr "Santala"
+
+msgid "ISO_15924.ORKH"
+msgstr "Malnova tjurka"
+
+msgid "ISO_15924.ORYA"
+msgstr "Orisa"
+
+msgid "ISO_15924.OSMA"
+msgstr "Somalia skribo"
+
+msgid "ISO_15924.PALM"
+msgstr "Palmira"
+
+msgid "ISO_15924.PERM"
+msgstr "Malnova perma"
+
+msgid "ISO_15924.PHAG"
+msgstr "Skribo de Phagspa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Gravura palava"
+
+msgid "ISO_15924.PHLP"
+msgstr "Psalma palava"
+
+msgid "ISO_15924.PHLV"
+msgstr "Libra palava"
+
+msgid "ISO_15924.PHNX"
+msgstr "Fenica"
+
+msgid "ISO_15924.PLRD"
+msgstr "Miaa (Pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "Gravura parta"
+
+msgid "ISO_15924.QAAA"
+msgstr "Rezervita por privata uzado (komenco)"
+
+msgid "ISO_15924.QABX"
+msgstr "Rezervita por privata uzado (fino)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Reĝanga"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Runa"
+
+msgid "ISO_15924.SAMR"
+msgstr "Samaria"
+
+msgid "ISO_15924.SARA"
+msgstr "Sarata (Tolkien)"
+
+msgid "ISO_15924.SARB"
+msgstr "Malnova sud-araba"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saŭraŝtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Gestoskribo"
+
+msgid "ISO_15924.SHAW"
+msgstr "Ŝava (Shaw)"
+
+msgid "ISO_15924.SHRD"
+msgstr "Ŝarada"
+
+msgid "ISO_15924.SIND"
+msgstr "Khudabadi, Sinda"
+
+msgid "ISO_15924.SINH"
+msgstr "Sinhala"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "Sunda"
+
+msgid "ISO_15924.SYLO"
+msgstr "Sileta"
+
+msgid "ISO_15924.SYRC"
+msgstr "Siria"
+
+msgid "ISO_15924.SYRE"
+msgstr "Siria (estrangela vario)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Siria (okcidenta vario)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Siria (orienta vario)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanva"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takria"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Nova Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamila"
+
+msgid "ISO_15924.TANG"
+msgstr "Tanguta"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugua"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengvara (Tolkien)"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinaga (berbera)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagaloga"
+
+msgid "ISO_15924.THAA"
+msgstr "Tana"
+
+msgid "ISO_15924.THAI"
+msgstr "Taja"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibeta"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugarita"
+
+msgid "ISO_15924.VAII"
+msgstr "Vaja"
+
+msgid "ISO_15924.VISP"
+msgstr "Videbla parolo"
+
+msgid "ISO_15924.WARA"
+msgstr "Varanga"
+
+msgid "ISO_15924.WOLE"
+msgstr "Woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "Malnova persa"
+
+msgid "ISO_15924.XSUX"
+msgstr "Kojnoskribo, sumera-akada"
+
+msgid "ISO_15924.YIII"
+msgstr "Jia"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kodo por heredita skribo"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matematika notacio"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Siria (estrangela vario)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Simboloj"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kodo por neskribitaj dokumentoj"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kodo por nedeterminita skribo"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kodo por nekodita skribo"

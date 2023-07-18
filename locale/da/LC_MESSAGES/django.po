@@ -1,0 +1,553 @@
+# Danish translation ISO 15924 (script names).
+# Copyright (C) 2014 iso-codes og nedenstående oversættere.
+# This file is distributed under the same license as the iso-codes package.
+# Computeroversættelse Tobias Toedter <t.toedter@gmx.net>, 2007.
+# Joe Hansen <joedalton2@yahoo.dk>, 2009, 2010, 2011, 2012, 2014.
+#
+# Vedrørende stort begyndelsesbogstav: På engelsk er de her ord med stort,
+# det er de ikke på dansk. Sproget kan bruges inde i sætninger og de
+# skal derfor oversættes med småt.
+#
+# Kenneths kommentarer (som er fulgt)
+# Jeg tror ikke vi skal bruge stort begyndelsesbogstav i starten af
+# sætningerne, der hvor det er sprognavne der står. Så vidt jeg forstår
+# bruges de her iso filer som "opslagsværker" til strenge, således at
+# udviklere der ønsker at bruge f.eks. sprognavne i deres programmer kan
+# indsætte dem herfra, i stedet for at skrive den engang til. Dvs. at
+# disse strenge ligeså nemt kan blive sat ind i midten af en streng i
+# det pågældende program som i starten og så har vi problemerne med om
+# det bliver korrekt eller ej.
+#
+# Ovenstående er ikke helt afklaret, så hvis nogen ser dem her brugt i praksis
+# hvor de ikke er korrekte, så vend venligst tilbage på <dansk@dansk-gruppen.dk>
+# På forhånd tak, Joe
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-05-24 18:07+0200\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "kaukasisk albansk"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabisk"
+
+msgid "ISO_15924.ARAN"
+msgstr "syrisk (østlig variant)"
+
+msgid "ISO_15924.ARMI"
+msgstr "historisk aramæisk"
+
+msgid "ISO_15924.ARMN"
+msgstr "armensk"
+
+msgid "ISO_15924.AVST"
+msgstr "avestisk"
+
+msgid "ISO_15924.BALI"
+msgstr "balinesisk"
+
+msgid "ISO_15924.BAMU"
+msgstr "bamum"
+
+msgid "ISO_15924.BASS"
+msgstr "bassa vah"
+
+msgid "ISO_15924.BATK"
+msgstr "batak"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalesisk"
+
+msgid "ISO_15924.BLIS"
+msgstr "blissymboler"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "bramisk"
+
+msgid "ISO_15924.BRAI"
+msgstr "blindskrift"
+
+msgid "ISO_15924.BUGI"
+msgstr "buginesisk"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "oprindelige canadiske symboler"
+
+msgid "ISO_15924.CARI"
+msgstr "kariansk"
+
+msgid "ISO_15924.CHAM"
+msgstr "cham"
+
+msgid "ISO_15924.CHER"
+msgstr "cherokee"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirt"
+
+msgid "ISO_15924.COPT"
+msgstr "koptisk"
+
+msgid "ISO_15924.CPRT"
+msgstr "cypriotisk"
+
+msgid "ISO_15924.CYRL"
+msgstr "kyrillisk"
+
+msgid "ISO_15924.CYRS"
+msgstr "kyrillisk (oldkirkeslavisk variant)"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanagari (nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret (mormon)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duployé-stenografi"
+
+msgid "ISO_15924.EGYD"
+msgstr "ægyptisk demotisk"
+
+msgid "ISO_15924.EGYH"
+msgstr "egyptisk hieratisk"
+
+msgid "ISO_15924.EGYP"
+msgstr "egyptiske hieroglyffer"
+
+msgid "ISO_15924.ELBA"
+msgstr "elbasan"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiopisk (geʻez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khutsuri (asomtavruli og nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "georgisk (mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagolitisk"
+
+msgid "ISO_15924.GOTH"
+msgstr "gotisk"
+
+msgid "ISO_15924.GRAN"
+msgstr "grantha"
+
+msgid "ISO_15924.GREK"
+msgstr "græsk"
+
+msgid "ISO_15924.GUJR"
+msgstr "gujarati"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmukhi"
+
+msgid "ISO_15924.HANG"
+msgstr "hangul (hangŭl, hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "han (hanzi, kanji, hanja)"
+
+msgid "ISO_15924.HANO"
+msgstr "hanunoo (hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "han (forenklet variant)"
+
+msgid "ISO_15924.HANT"
+msgstr "han (traditionel variant)"
+
+msgid "ISO_15924.HATR"
+msgstr "hatran"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebraisk"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HLUW"
+msgstr "anatolske hieroglyffer (luviske hieroglyffer, hittitiske hieroglyffer)"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahawh hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "japansk stavelsesskrift (alias for hiragana + katakana)"
+
+msgid "ISO_15924.HUNG"
+msgstr "oldungarsk (ungarske runer)"
+
+msgid "ISO_15924.INDS"
+msgstr "indus (harappan)"
+
+msgid "ISO_15924.ITAL"
+msgstr "olditaliensk (etruskisk, oskansk etc.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "koreansk (alias for hangul + han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanesisk"
+
+msgid "ISO_15924.JPAN"
+msgstr "japansk (alias for han + hiragana + katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "jurchen"
+
+msgid "ISO_15924.KALI"
+msgstr "kaya li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharoshti"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmerisk"
+
+msgid "ISO_15924.KHOJ"
+msgstr "khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannada"
+
+msgid "ISO_15924.KORE"
+msgstr "koreansk (alias for hangul + han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "kpelle"
+
+msgid "ISO_15924.KTHI"
+msgstr "kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "tai tham (lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "laotisk"
+
+msgid "ISO_15924.LATF"
+msgstr "latinsk (frakturvariant)"
+
+msgid "ISO_15924.LATG"
+msgstr "latinsk (gælisk variant)"
+
+msgid "ISO_15924.LATN"
+msgstr "latinsk"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepcha (róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "lineær A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineær B"
+
+msgid "ISO_15924.LISU"
+msgstr "lisu (fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "lykisk"
+
+msgid "ISO_15924.LYDI"
+msgstr "lydisk"
+
+msgid "ISO_15924.MAHJ"
+msgstr "mahajani"
+
+msgid "ISO_15924.MAND"
+msgstr "mandaisk, mandaeansk"
+
+msgid "ISO_15924.MANI"
+msgstr "manichaeansk"
+
+msgid "ISO_15924.MARC"
+msgstr "jurchen"
+
+msgid "ISO_15924.MAYA"
+msgstr "mayahieroglyffer"
+
+msgid "ISO_15924.MEND"
+msgstr "mende kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "kursiv meroitisk"
+
+msgid "ISO_15924.MERO"
+msgstr "meroitiske hieroglyffer"
+
+msgid "ISO_15924.MLYM"
+msgstr "malayalam"
+
+msgid "ISO_15924.MODI"
+msgstr "modi, modī"
+
+msgid "ISO_15924.MONG"
+msgstr "mongolsk"
+
+msgid "ISO_15924.MOON"
+msgstr "moon (moonkode, moonskript, moontype)"
+
+msgid "ISO_15924.MROO"
+msgstr "mro, mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "meitei mayek (meithei, meetei)"
+
+msgid "ISO_15924.MULT"
+msgstr "multani"
+
+msgid "ISO_15924.MYMR"
+msgstr "myanmarsk (burmesisk)"
+
+msgid "ISO_15924.NARB"
+msgstr "gammelt nordarabisk (historisk nordarabisk)"
+
+msgid "ISO_15924.NBAT"
+msgstr "nabateisk"
+
+msgid "ISO_15924.NKGB"
+msgstr "nakhi geba ('na-'khi ²ggŏ-¹baw, naxi geba)"
+
+msgid "ISO_15924.NKOO"
+msgstr "n'ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogham"
+
+msgid "ISO_15924.OLCK"
+msgstr "ol chiki (ol cemet’, ol, santali)"
+
+msgid "ISO_15924.ORKH"
+msgstr "Oldtyrkisk, Orkhonruner"
+
+msgid "ISO_15924.ORYA"
+msgstr "oriya"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmannisk"
+
+msgid "ISO_15924.PALM"
+msgstr "palmyrensk"
+
+msgid "ISO_15924.PAUC"
+msgstr "pau cin hau"
+
+msgid "ISO_15924.PERM"
+msgstr "oldpermisk"
+
+msgid "ISO_15924.PHAG"
+msgstr "phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "inskriptionspahlavisk"
+
+msgid "ISO_15924.PHLP"
+msgstr "psalter pahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "book pahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "fønikisk"
+
+msgid "ISO_15924.PLRD"
+msgstr "miao (pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "inskriptionsparthiansk"
+
+msgid "ISO_15924.QAAA"
+msgstr "reserveret til privat brug (start)"
+
+msgid "ISO_15924.QABX"
+msgstr "reserveret til privat brug (slut)"
+
+msgid "ISO_15924.RJNG"
+msgstr "rejang (redjang, kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "rongo-rongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "runer"
+
+msgid "ISO_15924.SAMR"
+msgstr "samaritansk"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "oldsydarabisk"
+
+msgid "ISO_15924.SAUR"
+msgstr "saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "tegnskrift"
+
+msgid "ISO_15924.SHAW"
+msgstr "shavisk (shaw)"
+
+msgid "ISO_15924.SHRD"
+msgstr "sharada, sāradā"
+
+msgid "ISO_15924.SIDD"
+msgstr "siddham, siddhaṃ, siddhamātṛkā"
+
+msgid "ISO_15924.SIND"
+msgstr "khudawadi, sindhi"
+
+msgid "ISO_15924.SINH"
+msgstr "singalesisk"
+
+msgid "ISO_15924.SORA"
+msgstr "sora sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "sundanesisk"
+
+msgid "ISO_15924.SYLO"
+msgstr "syloti nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "syrisk"
+
+msgid "ISO_15924.SYRE"
+msgstr "syrisk (estrangelovariant)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "syrisk (vestlig variant)"
+
+msgid "ISO_15924.SYRN"
+msgstr "syrisk (østlig variant)"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanwa"
+
+msgid "ISO_15924.TAKR"
+msgstr "takri, tākrī, tāṅkrī"
+
+msgid "ISO_15924.TALE"
+msgstr "tai le"
+
+msgid "ISO_15924.TALU"
+msgstr "tai lue"
+
+msgid "ISO_15924.TAML"
+msgstr "tamilsk"
+
+msgid "ISO_15924.TANG"
+msgstr "tangut"
+
+msgid "ISO_15924.TAVT"
+msgstr "tai viet"
+
+msgid "ISO_15924.TELU"
+msgstr "telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh (berber)"
+
+msgid "ISO_15924.TGLG"
+msgstr "tagalog (baybayin, alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "thailandsk"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetanske"
+
+msgid "ISO_15924.TIRH"
+msgstr "tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugaritisk"
+
+msgid "ISO_15924.VAII"
+msgstr "vai"
+
+msgid "ISO_15924.VISP"
+msgstr "synlig tale"
+
+msgid "ISO_15924.WARA"
+msgstr "warang citi (varang kshiti)"
+
+msgid "ISO_15924.WOLE"
+msgstr "woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "oldpersisk"
+
+msgid "ISO_15924.XSUX"
+msgstr "cuneiform, sumero-akkadiansk"
+
+msgid "ISO_15924.YIII"
+msgstr "yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "kode for afsluttet skript"
+
+msgid "ISO_15924.ZMTH"
+msgstr "matematisk notation"
+
+msgid "ISO_15924.ZSYE"
+msgstr "syrisk (estrangelovariant)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "symboler"
+
+msgid "ISO_15924.ZXXX"
+msgstr "kode for uskrevne dokumenter"
+
+msgid "ISO_15924.ZYYY"
+msgstr "kode for uafsluttet skript"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "kode for ukodet skript"

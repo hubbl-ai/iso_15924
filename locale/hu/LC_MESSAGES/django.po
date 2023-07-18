@@ -1,0 +1,539 @@
+# Translation of ISO 15924 (script names) to Hungarian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#     Translations taken from ICU SVN on 2007-09-09
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+# Balázs Úr <urbalazs@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-03-17 22:32+0100\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "Kaukázusi Albania"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arab"
+
+msgid "ISO_15924.ARAN"
+msgstr "Szír (Keleti változat)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Birodalmi arámi"
+
+msgid "ISO_15924.ARMN"
+msgstr "Örmény"
+
+msgid "ISO_15924.AVST"
+msgstr "Avesztán"
+
+msgid "ISO_15924.BALI"
+msgstr "Balinéz"
+
+msgid "ISO_15924.BAMU"
+msgstr "Bamum"
+
+msgid "ISO_15924.BASS"
+msgstr "Bassa Vah"
+
+msgid "ISO_15924.BATK"
+msgstr "Batak"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengáli"
+
+msgid "ISO_15924.BLIS"
+msgstr "Bliss jelképrendszer"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "Buginéz"
+
+msgid "ISO_15924.BUHD"
+msgstr "Buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "Chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Egyesített kanadai őslakos jelek"
+
+msgid "ISO_15924.CARI"
+msgstr "Kariai"
+
+msgid "ISO_15924.CHAM"
+msgstr "Cham"
+
+msgid "ISO_15924.CHER"
+msgstr "Cherokee"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Kopt"
+
+msgid "ISO_15924.CPRT"
+msgstr "Ciprusi"
+
+msgid "ISO_15924.CYRL"
+msgstr "Cirill"
+
+msgid "ISO_15924.CYRS"
+msgstr "Cirill (Régi templomi szláv változat)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devanagari (Nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret (Mormon)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duployan gyorsítás, Duployan gyorsírás"
+
+msgid "ISO_15924.EGYD"
+msgstr "Egyiptomi demotikus"
+
+msgid "ISO_15924.EGYH"
+msgstr "Egyiptomi hieratikus"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egyiptomi hieroglifák"
+
+msgid "ISO_15924.ELBA"
+msgstr "Elbasan"
+
+msgid "ISO_15924.ETHI"
+msgstr "Etióp (Geʻez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khutsuri (Asomtavruli és Nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Grúz (Mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolit"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gót"
+
+msgid "ISO_15924.GRAN"
+msgstr "Grantha"
+
+msgid "ISO_15924.GREK"
+msgstr "Görög"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gudzsaráti"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmuki"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (Hangŭl, Hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "Han (Hanzi, Kanji, Hanja)"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoo (Hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "Han (Egyszerűsített változat)"
+
+msgid "ISO_15924.HANT"
+msgstr "Han (Hagyományos változat)"
+
+msgid "ISO_15924.HATR"
+msgstr "Hatran"
+
+msgid "ISO_15924.HEBR"
+msgstr "Héber"
+
+msgid "ISO_15924.HIRA"
+msgstr "Hiragana"
+
+msgid "ISO_15924.HLUW"
+msgstr "Anatóliai hieroglifák (Luwian hieroglifák, Hittite hieroglifák)"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahawh Hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japán szótagábécé (a Hiragana + Katakana álneve)"
+
+msgid "ISO_15924.HUNG"
+msgstr "Régi magyar (Magyar rúnák)"
+
+msgid "ISO_15924.INDS"
+msgstr "Indus (Harappan)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Régi itáliai (Etruszk, Oscan, stb.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Koreai (a Hangul + Han álneve)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Jávai"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japán (a Han + Hiragana + Katakana álneve)"
+
+msgid "ISO_15924.JURC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmer"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannada"
+
+msgid "ISO_15924.KORE"
+msgstr "Koreai (a Hangul + Han álneve)"
+
+msgid "ISO_15924.KPEL"
+msgstr "Kpelle"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "Tai Tham (Lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "Lao"
+
+msgid "ISO_15924.LATF"
+msgstr "Latin (Fraktur változat)"
+
+msgid "ISO_15924.LATG"
+msgstr "Latin (Kelta változat)"
+
+msgid "ISO_15924.LATN"
+msgstr "Latin"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepcha (Róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "Lineáris A"
+
+msgid "ISO_15924.LINB"
+msgstr "Lineáris B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisu (Fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "Loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "Líciai"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lüd"
+
+msgid "ISO_15924.MAHJ"
+msgstr "Mahajani"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandeus, Mandaean"
+
+msgid "ISO_15924.MANI"
+msgstr "Manichaean"
+
+msgid "ISO_15924.MARC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.MAYA"
+msgstr "Maja hieroglifák"
+
+msgid "ISO_15924.MEND"
+msgstr "Mende Kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "Meroita dőlt"
+
+msgid "ISO_15924.MERO"
+msgstr "Meroita hieroglifák"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malajálam"
+
+msgid "ISO_15924.MODI"
+msgstr "Modi, Moḍī"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongol"
+
+msgid "ISO_15924.MOON"
+msgstr "Moon (Moon kód, Moon szkript, Moon típus)"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "Meitei Mayek (Meithei, Meetei)"
+
+msgid "ISO_15924.MULT"
+msgstr "Multani"
+
+msgid "ISO_15924.MYMR"
+msgstr "Mianmar (Burmai)"
+
+msgid "ISO_15924.NARB"
+msgstr "Régi északi arab (Ősi északi arab)"
+
+msgid "ISO_15924.NBAT"
+msgstr "Nabateus"
+
+msgid "ISO_15924.NKGB"
+msgstr "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ogham"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
+
+msgid "ISO_15924.ORKH"
+msgstr "Régi török, Orkon rúnák"
+
+msgid "ISO_15924.ORYA"
+msgstr "Orija"
+
+msgid "ISO_15924.OSMA"
+msgstr "Szomáli"
+
+msgid "ISO_15924.PALM"
+msgstr "Palmyrene"
+
+msgid "ISO_15924.PAUC"
+msgstr "Pau Cin Hau"
+
+msgid "ISO_15924.PERM"
+msgstr "Régi permi"
+
+msgid "ISO_15924.PHAG"
+msgstr "Phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Feliratos pahlavi"
+
+msgid "ISO_15924.PHLP"
+msgstr "Zsoltáros pahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "Könyv pahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "Föníciai"
+
+msgid "ISO_15924.PLRD"
+msgstr "Miao (Pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "Feliratos pártus"
+
+msgid "ISO_15924.QAAA"
+msgstr "Magánjellegű használatra foglalt (kezdet)"
+
+msgid "ISO_15924.QABX"
+msgstr "Magánjellegű használatra foglalt (vége)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejang (Redjang, Kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Rúnák"
+
+msgid "ISO_15924.SAMR"
+msgstr "Szamaritánus"
+
+msgid "ISO_15924.SARA"
+msgstr "Szarati"
+
+msgid "ISO_15924.SARB"
+msgstr "Régi déli arab"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Jelírás"
+
+msgid "ISO_15924.SHAW"
+msgstr "Shaw-i (Shaw)"
+
+msgid "ISO_15924.SHRD"
+msgstr "Sharada, Śāradā"
+
+msgid "ISO_15924.SIDD"
+msgstr "Siddham, Siddhaṃ, Siddhamātṛkā"
+
+msgid "ISO_15924.SIND"
+msgstr "Khudawadi, Sindhi"
+
+msgid "ISO_15924.SINH"
+msgstr "Szingaléz"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "Szundanéz"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Szír"
+
+msgid "ISO_15924.SYRE"
+msgstr "Szír (Estrangelo változat)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Szír (Nyugati változat)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Szír (Keleti változat)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanwa"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takri, Ṭākrī, Ṭāṅkrī"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Új Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamil"
+
+msgid "ISO_15924.TANG"
+msgstr "Tangut"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinagh (Berber)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagalog (Baybayin, Alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "Thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "Thai"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibeti"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugariti"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Látható beszéd"
+
+msgid "ISO_15924.WARA"
+msgstr "Warang Citi (Varang Kshiti)"
+
+msgid "ISO_15924.WOLE"
+msgstr "Woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "Óperzsa"
+
+msgid "ISO_15924.XSUX"
+msgstr "Cuneiform, Sumero-Akkadian"
+
+msgid "ISO_15924.YIII"
+msgstr "Yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kód az örökölt szkripthez"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Matematikai jelölés"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Szír (Estrangelo változat)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Szimbólumok"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kód az íratlan dokumentumokhoz"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kód a meghatározatlan szkripthez"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kód a kódolatlan szkripthez"

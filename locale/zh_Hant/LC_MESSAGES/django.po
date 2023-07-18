@@ -1,0 +1,519 @@
+# Translation of ISO 15924 (script names) to Traditional Chinese.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# This file is distributed under the same license as the iso-codes package.
+# Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09.
+# Wei-Lun Chao <bluebat@member.fsf.org>, 2008, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-05-24 23:09+0800\n"
+"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
+"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "阿法卡文字"
+
+msgid "ISO_15924.AGHB"
+msgstr "高加索阿爾巴尼亞文"
+
+msgid "ISO_15924.ARAB"
+msgstr "阿拉伯文"
+
+msgid "ISO_15924.ARAN"
+msgstr "敘利亞文 (東方變體)"
+
+msgid "ISO_15924.ARMI"
+msgstr "皇室阿拉姆文"
+
+msgid "ISO_15924.ARMN"
+msgstr "亞美尼亞文"
+
+msgid "ISO_15924.AVST"
+msgstr "阿維斯塔文"
+
+msgid "ISO_15924.BALI"
+msgstr "峇里文"
+
+msgid "ISO_15924.BAMU"
+msgstr "巴姆穆文字"
+
+msgid "ISO_15924.BASS"
+msgstr "巴薩瓦赫字母"
+
+msgid "ISO_15924.BATK"
+msgstr "巴塔克文"
+
+msgid "ISO_15924.BENG"
+msgstr "孟加拉文"
+
+msgid "ISO_15924.BLIS"
+msgstr "布列斯符號"
+
+msgid "ISO_15924.BOPO"
+msgstr "注音符號"
+
+msgid "ISO_15924.BRAH"
+msgstr "婆羅米文"
+
+msgid "ISO_15924.BRAI"
+msgstr "盲人點字符號"
+
+msgid "ISO_15924.BUGI"
+msgstr "布吉斯文"
+
+msgid "ISO_15924.BUHD"
+msgstr "布黑德文"
+
+msgid "ISO_15924.CAKM"
+msgstr "查克馬文"
+
+msgid "ISO_15924.CANS"
+msgstr "加拿大原住民通用字符"
+
+msgid "ISO_15924.CARI"
+msgstr "卡里亞文"
+
+msgid "ISO_15924.CHAM"
+msgstr "占文"
+
+msgid "ISO_15924.CHER"
+msgstr "卻洛奇文"
+
+msgid "ISO_15924.CIRT"
+msgstr "精靈-色斯文"
+
+msgid "ISO_15924.COPT"
+msgstr "科普特文"
+
+msgid "ISO_15924.CPRT"
+msgstr "賽普勒斯文"
+
+msgid "ISO_15924.CYRL"
+msgstr "西里爾字母"
+
+msgid "ISO_15924.CYRS"
+msgstr "西里爾文 (古教會斯拉夫文的變體)"
+
+msgid "ISO_15924.DEVA"
+msgstr "梵文字母天城體 (城文)"
+
+msgid "ISO_15924.DSRT"
+msgstr "德瑟雷特文"
+
+msgid "ISO_15924.DUPL"
+msgstr "杜洛耶速記"
+
+msgid "ISO_15924.EGYD"
+msgstr "古埃及文世俗體"
+
+msgid "ISO_15924.EGYH"
+msgstr "古埃及文僧侶體"
+
+msgid "ISO_15924.EGYP"
+msgstr "古埃及象形文"
+
+msgid "ISO_15924.ELBA"
+msgstr "艾巴申文"
+
+msgid "ISO_15924.ETHI"
+msgstr "衣索比亞文 (吉茲字母)"
+
+msgid "ISO_15924.GEOK"
+msgstr "格魯吉亞文"
+
+msgid "ISO_15924.GEOR"
+msgstr "喬治亞文"
+
+msgid "ISO_15924.GLAG"
+msgstr "格拉哥里文"
+
+msgid "ISO_15924.GOTH"
+msgstr "哥德體"
+
+msgid "ISO_15924.GRAN"
+msgstr "加蘭塔文"
+
+msgid "ISO_15924.GREK"
+msgstr "希臘文"
+
+msgid "ISO_15924.GUJR"
+msgstr "古吉拉特文"
+
+msgid "ISO_15924.GURU"
+msgstr "果魯穆其文"
+
+msgid "ISO_15924.HANG"
+msgstr "韓國-諺文"
+
+msgid "ISO_15924.HANI"
+msgstr "漢字"
+
+msgid "ISO_15924.HANO"
+msgstr "含努鬧文"
+
+msgid "ISO_15924.HANS"
+msgstr "漢字 (簡化變體)"
+
+msgid "ISO_15924.HANT"
+msgstr "漢字 (傳統變體)"
+
+msgid "ISO_15924.HEBR"
+msgstr "希伯來文"
+
+msgid "ISO_15924.HIRA"
+msgstr "平假名"
+
+msgid "ISO_15924.HLUW"
+msgstr "安納托利亞象形文字 (盧維語象形文字，赫梯語象形文字)"
+
+msgid "ISO_15924.HMNG"
+msgstr "楊松錄苗文"
+
+msgid "ISO_15924.HRKT"
+msgstr "日語音節文字 (平假名+片假名的別名)"
+
+msgid "ISO_15924.HUNG"
+msgstr "舊匈牙利語 (匈牙利語古代北歐文字)"
+
+msgid "ISO_15924.INDS"
+msgstr "印度河文字 (哈拉帕文字)"
+
+msgid "ISO_15924.ITAL"
+msgstr "古斜體 (伊特魯里亞文、奧斯坎文…)"
+
+msgid "ISO_15924.JAMO"
+msgstr "韓文 (諺文+漢字的別名)"
+
+msgid "ISO_15924.JAVA"
+msgstr "爪哇文"
+
+msgid "ISO_15924.JPAN"
+msgstr "日文 (漢字+平假名+片假名的別名)"
+
+msgid "ISO_15924.JURC"
+msgstr "女真文"
+
+msgid "ISO_15924.KALI"
+msgstr "克耶李文字"
+
+msgid "ISO_15924.KANA"
+msgstr "片假名"
+
+msgid "ISO_15924.KHAR"
+msgstr "卡羅須提文"
+
+msgid "ISO_15924.KHMR"
+msgstr "高棉文"
+
+msgid "ISO_15924.KHOJ"
+msgstr "和卓文"
+
+msgid "ISO_15924.KNDA"
+msgstr "卡納達文"
+
+msgid "ISO_15924.KORE"
+msgstr "韓文 (諺文+漢字的別名)"
+
+msgid "ISO_15924.KPEL"
+msgstr "克佩勒文"
+
+msgid "ISO_15924.KTHI"
+msgstr "凱提體"
+
+msgid "ISO_15924.LANA"
+msgstr "老傣文 (蘭納文)"
+
+msgid "ISO_15924.LAOO"
+msgstr "老撾文"
+
+msgid "ISO_15924.LATF"
+msgstr "拉丁文（尖角活字變體）"
+
+msgid "ISO_15924.LATG"
+msgstr "拉丁文 (蓋爾語變體)"
+
+msgid "ISO_15924.LATN"
+msgstr "拉丁文"
+
+msgid "ISO_15924.LEPC"
+msgstr "雷布查文 (絨文)"
+
+msgid "ISO_15924.LIMB"
+msgstr "林佈文"
+
+msgid "ISO_15924.LINA"
+msgstr "線性文字 A"
+
+msgid "ISO_15924.LINB"
+msgstr "線性文字 B"
+
+msgid "ISO_15924.LISU"
+msgstr "老傈僳文 (富能仁)"
+
+msgid "ISO_15924.LOMA"
+msgstr "洛馬文"
+
+msgid "ISO_15924.LYCI"
+msgstr "呂基亞文"
+
+msgid "ISO_15924.LYDI"
+msgstr "利底安文"
+
+msgid "ISO_15924.MAHJ"
+msgstr "瑪哈賈尼文"
+
+msgid "ISO_15924.MAND"
+msgstr "曼底克文"
+
+msgid "ISO_15924.MANI"
+msgstr "摩尼教文"
+
+msgid "ISO_15924.MARC"
+msgstr "女真文"
+
+msgid "ISO_15924.MAYA"
+msgstr "馬雅語象形文字"
+
+msgid "ISO_15924.MERC"
+msgstr "麥羅埃語草寫"
+
+msgid "ISO_15924.MERO"
+msgstr "麥羅埃語象形文字"
+
+msgid "ISO_15924.MLYM"
+msgstr "馬來亞拉姆文"
+
+msgid "ISO_15924.MONG"
+msgstr "蒙古文"
+
+msgid "ISO_15924.MOON"
+msgstr "蒙氏點字"
+
+msgid "ISO_15924.MROO"
+msgstr "姆盧文"
+
+msgid "ISO_15924.MTEI"
+msgstr "曼尼普爾文"
+
+msgid "ISO_15924.MYMR"
+msgstr "緬文"
+
+msgid "ISO_15924.NARB"
+msgstr "舊北方阿拉伯文 (古代北阿拉伯文)"
+
+msgid "ISO_15924.NBAT"
+msgstr "納巴泰文"
+
+msgid "ISO_15924.NKGB"
+msgstr "納西格巴文"
+
+msgid "ISO_15924.NKOO"
+msgstr "西非書面文"
+
+msgid "ISO_15924.NSHU"
+msgstr "女書文字"
+
+msgid "ISO_15924.OGAM"
+msgstr "歐甘文"
+
+msgid "ISO_15924.OLCK"
+msgstr "桑塔利文"
+
+msgid "ISO_15924.ORKH"
+msgstr "古突厥語，鄂爾渾文古代北歐文字"
+
+msgid "ISO_15924.ORYA"
+msgstr "歐利亞文"
+
+msgid "ISO_15924.OSMA"
+msgstr "歐斯曼亞文"
+
+msgid "ISO_15924.PALM"
+msgstr "帕米瑞拉文字"
+
+msgid "ISO_15924.PERM"
+msgstr "古彼爾姆諸文"
+
+msgid "ISO_15924.PHAG"
+msgstr "八思巴文"
+
+msgid "ISO_15924.PHLI"
+msgstr "巴拉維碑銘體"
+
+msgid "ISO_15924.PHLP"
+msgstr "巴拉維聖詩體"
+
+msgid "ISO_15924.PHLV"
+msgstr "巴拉維書體"
+
+msgid "ISO_15924.PHNX"
+msgstr "腓尼基文"
+
+msgid "ISO_15924.PLRD"
+msgstr "苗文 (柏格理拼音符)"
+
+msgid "ISO_15924.PRTI"
+msgstr "帕提亞碑銘體"
+
+msgid "ISO_15924.QAAA"
+msgstr "保留給私人使用 (開始)"
+
+msgid "ISO_15924.QABX"
+msgstr "保留給私人使用 (結束)"
+
+msgid "ISO_15924.RJNG"
+msgstr "勒姜文"
+
+msgid "ISO_15924.RORO"
+msgstr "朗格朗格象形文字"
+
+msgid "ISO_15924.RUNR"
+msgstr "古代北歐文字"
+
+msgid "ISO_15924.SAMR"
+msgstr "撒瑪麗亞文"
+
+msgid "ISO_15924.SARA"
+msgstr "沙拉堤文"
+
+msgid "ISO_15924.SARB"
+msgstr "舊南方阿拉伯文"
+
+msgid "ISO_15924.SAUR"
+msgstr "索拉什特拉文"
+
+msgid "ISO_15924.SGNW"
+msgstr "手語符號"
+
+msgid "ISO_15924.SHAW"
+msgstr "蕭伯納字母"
+
+msgid "ISO_15924.SHRD"
+msgstr "夏拉達文"
+
+msgid "ISO_15924.SIND"
+msgstr "信德文"
+
+msgid "ISO_15924.SINH"
+msgstr "錫蘭僧加羅字母"
+
+msgid "ISO_15924.SORA"
+msgstr "索朗桑朋文字"
+
+msgid "ISO_15924.SUND"
+msgstr "巽丹文"
+
+msgid "ISO_15924.SYLO"
+msgstr "錫爾赫特文"
+
+msgid "ISO_15924.SYRC"
+msgstr "敘利亞文"
+
+msgid "ISO_15924.SYRE"
+msgstr "敘利亞文 (福音變體)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "敘利亞文 (西方變體)"
+
+msgid "ISO_15924.SYRN"
+msgstr "敘利亞文 (東方變體)"
+
+msgid "ISO_15924.TAGB"
+msgstr "菲律賓塔格板瓦文"
+
+msgid "ISO_15924.TAKR"
+msgstr "塔卡里文字"
+
+msgid "ISO_15924.TALE"
+msgstr "德宏傣文"
+
+msgid "ISO_15924.TALU"
+msgstr "新傣仂文"
+
+msgid "ISO_15924.TAML"
+msgstr "坦米爾文"
+
+msgid "ISO_15924.TANG"
+msgstr "西夏文"
+
+msgid "ISO_15924.TAVT"
+msgstr "越南傣文"
+
+msgid "ISO_15924.TELU"
+msgstr "特拉古文"
+
+msgid "ISO_15924.TENG"
+msgstr "精靈-談格瓦文"
+
+msgid "ISO_15924.TFNG"
+msgstr "提非納字母 (柏柏爾語)"
+
+msgid "ISO_15924.TGLG"
+msgstr "塔加拉文 (貝貝因字母，濱)"
+
+msgid "ISO_15924.THAA"
+msgstr "塔安那文"
+
+msgid "ISO_15924.THAI"
+msgstr "泰文"
+
+msgid "ISO_15924.TIBT"
+msgstr "藏文"
+
+msgid "ISO_15924.TIRH"
+msgstr "邁蒂利文"
+
+msgid "ISO_15924.UGAR"
+msgstr "烏加里特楔形文字"
+
+msgid "ISO_15924.VAII"
+msgstr "瓦伊文"
+
+msgid "ISO_15924.VISP"
+msgstr "可視語音"
+
+msgid "ISO_15924.WARA"
+msgstr "瓦郎奇蒂文字"
+
+msgid "ISO_15924.WOLE"
+msgstr "沃雷艾文"
+
+msgid "ISO_15924.XPEO"
+msgstr "古波斯文"
+
+msgid "ISO_15924.XSUX"
+msgstr "蘇美亞喀得楔形文字"
+
+msgid "ISO_15924.YIII"
+msgstr "彝文"
+
+msgid "ISO_15924.ZINH"
+msgstr "繼承文字的編碼"
+
+msgid "ISO_15924.ZMTH"
+msgstr "數學記號"
+
+msgid "ISO_15924.ZSYE"
+msgstr "敘利亞文 (福音變體)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "符號"
+
+msgid "ISO_15924.ZXXX"
+msgstr "非書面文件編碼"
+
+msgid "ISO_15924.ZYYY"
+msgstr "未判別文字編碼"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "未定碼文字編碼"

@@ -1,0 +1,495 @@
+# Translation of ISO 15924 (script names) to Thai
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+#   Theppitak Karoonboonyanan <theppitak@gmail.com>, 2008-2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-12-01 14:24+0700\n"
+"Last-Translator: Theppitak Karoonboonyanan <theppitak@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroup.com>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_15924.AGHB"
+msgstr "แอลเบเนียแถบคอเคซัส"
+
+msgid "ISO_15924.ARAB"
+msgstr "อาหรับ"
+
+msgid "ISO_15924.ARAN"
+msgstr "ซีริแอก (แบบตะวันออก)"
+
+msgid "ISO_15924.ARMI"
+msgstr "อาราเมอิกจักรวรรดิ"
+
+msgid "ISO_15924.ARMN"
+msgstr "อาร์เมเนีย"
+
+msgid "ISO_15924.AVST"
+msgstr "อเวสตะ"
+
+msgid "ISO_15924.BALI"
+msgstr "บาหลี"
+
+msgid "ISO_15924.BAMU"
+msgstr "บามุม"
+
+msgid "ISO_15924.BASS"
+msgstr "บัสซา (วาห์)"
+
+msgid "ISO_15924.BATK"
+msgstr "บาตัก"
+
+msgid "ISO_15924.BENG"
+msgstr "เบงกาลี"
+
+msgid "ISO_15924.BLIS"
+msgstr "บลิสซิมโบลส์"
+
+msgid "ISO_15924.BOPO"
+msgstr "ปอพอมอฟอ (จู้อิน)"
+
+msgid "ISO_15924.BRAH"
+msgstr "พราหมี"
+
+msgid "ISO_15924.BRAI"
+msgstr "เบรลล์"
+
+msgid "ISO_15924.BUGI"
+msgstr "บูกินีส"
+
+msgid "ISO_15924.BUHD"
+msgstr "บูฮิด"
+
+msgid "ISO_15924.CAKM"
+msgstr "จักมา"
+
+msgid "ISO_15924.CANS"
+msgstr "รูปพยางค์รวมชนเผ่าพื้นเมืองแคนาดา"
+
+msgid "ISO_15924.CARI"
+msgstr "แคเรีย"
+
+msgid "ISO_15924.CHAM"
+msgstr "จาม"
+
+msgid "ISO_15924.CHER"
+msgstr "เชอโรกี"
+
+msgid "ISO_15924.CIRT"
+msgstr "เซิร์ต"
+
+msgid "ISO_15924.COPT"
+msgstr "คอปติก"
+
+msgid "ISO_15924.CPRT"
+msgstr "ซิพริออต"
+
+msgid "ISO_15924.CYRL"
+msgstr "ซีริลลิก"
+
+msgid "ISO_15924.CYRS"
+msgstr "ซีริลลิก (แบบเชิร์ชสลาโวนิกโบราณ)"
+
+msgid "ISO_15924.DEVA"
+msgstr "เทวนาครี"
+
+msgid "ISO_15924.DSRT"
+msgstr "เดเซอเรต (มอร์มอน)"
+
+msgid "ISO_15924.DUPL"
+msgstr "ชวเลขดูพลอยัน"
+
+msgid "ISO_15924.EGYD"
+msgstr "ดีโมติกอียิปต์"
+
+msgid "ISO_15924.EGYH"
+msgstr "ไฮราติกอียิปต์"
+
+msgid "ISO_15924.EGYP"
+msgstr "ไฮโรกลิฟอียิปต์"
+
+msgid "ISO_15924.ELBA"
+msgstr "เอลบาซาน"
+
+msgid "ISO_15924.ETHI"
+msgstr "เอธิโอเปีย (กี'อิซ)"
+
+msgid "ISO_15924.GLAG"
+msgstr "กลาโกลิติก"
+
+msgid "ISO_15924.GOTH"
+msgstr "โกธิก"
+
+msgid "ISO_15924.GRAN"
+msgstr "คฤนถ์"
+
+msgid "ISO_15924.GREK"
+msgstr "กรีก"
+
+msgid "ISO_15924.GUJR"
+msgstr "คุชราตี"
+
+msgid "ISO_15924.GURU"
+msgstr "คุรุมุขี"
+
+msgid "ISO_15924.HANG"
+msgstr "ฮันกึล"
+
+msgid "ISO_15924.HANI"
+msgstr "ฮั่น (ฮั่นจื้อ, คันจิ, ฮันจา)"
+
+msgid "ISO_15924.HANO"
+msgstr "ฮานูโนโอ"
+
+msgid "ISO_15924.HANS"
+msgstr "ฮั่นตัวย่อ"
+
+msgid "ISO_15924.HANT"
+msgstr "ฮั่นตัวเต็ม"
+
+msgid "ISO_15924.HATR"
+msgstr "ฮัตรา"
+
+msgid "ISO_15924.HEBR"
+msgstr "ฮีบรู"
+
+msgid "ISO_15924.HIRA"
+msgstr "ฮิรางานะ"
+
+msgid "ISO_15924.HLUW"
+msgstr "ไฮโรกลิฟอนาโตเลีย (ไฮโรกลิฟลูเวีย, ไฮโรกลิฟฮิตไทต์)"
+
+msgid "ISO_15924.HMNG"
+msgstr "ม้ง"
+
+msgid "ISO_15924.HRKT"
+msgstr "อักษรพยางค์ญี่ปุ่น (= ฮิรางานะ + คาตาคานะ)"
+
+msgid "ISO_15924.HUNG"
+msgstr "ฮังการีเก่า (รูนิกฮังการี)"
+
+msgid "ISO_15924.INDS"
+msgstr "อินดัส (ฮารัปปัน)"
+
+msgid "ISO_15924.ITAL"
+msgstr "อิตาลิกโบราณ (อีทรัสกัน, ออสกัน ฯลฯ)"
+
+msgid "ISO_15924.JAMO"
+msgstr "เกาหลี (= ฮันกึล + ฮั่น)"
+
+msgid "ISO_15924.JAVA"
+msgstr "ชวา"
+
+msgid "ISO_15924.JPAN"
+msgstr "ญี่ปุ่น (= ฮั่น + ฮิรางานะ + คาตาคานะ)"
+
+msgid "ISO_15924.KALI"
+msgstr "คยาห์"
+
+msgid "ISO_15924.KANA"
+msgstr "คาตาคานะ"
+
+msgid "ISO_15924.KHAR"
+msgstr "ขโรษฐี"
+
+msgid "ISO_15924.KHMR"
+msgstr "เขมร"
+
+msgid "ISO_15924.KHOJ"
+msgstr "โขชกี"
+
+msgid "ISO_15924.KNDA"
+msgstr "กัณณาท"
+
+msgid "ISO_15924.KORE"
+msgstr "เกาหลี (= ฮันกึล + ฮั่น)"
+
+msgid "ISO_15924.KTHI"
+msgstr "ไกถี"
+
+msgid "ISO_15924.LANA"
+msgstr "ธรรมล้านนา"
+
+msgid "ISO_15924.LAOO"
+msgstr "ลาว"
+
+msgid "ISO_15924.LATF"
+msgstr "ละติน (แบบแฟรกทูร์)"
+
+msgid "ISO_15924.LATG"
+msgstr "ละติน (แบบเกลิก)"
+
+msgid "ISO_15924.LATN"
+msgstr "ละติน"
+
+msgid "ISO_15924.LEPC"
+msgstr "เลปชา"
+
+msgid "ISO_15924.LIMB"
+msgstr "ลิมบู"
+
+msgid "ISO_15924.LINA"
+msgstr "ลีเนียร์เอ"
+
+msgid "ISO_15924.LINB"
+msgstr "ลีเนียร์บี"
+
+msgid "ISO_15924.LISU"
+msgstr "ลีซอ"
+
+msgid "ISO_15924.LYCI"
+msgstr "ลิเชีย"
+
+msgid "ISO_15924.LYDI"
+msgstr "ลิเดีย"
+
+msgid "ISO_15924.MAHJ"
+msgstr "มหาชนี"
+
+msgid "ISO_15924.MAND"
+msgstr "มันดาอิก, มันเดียน"
+
+msgid "ISO_15924.MANI"
+msgstr "แมนิคีอัน"
+
+msgid "ISO_15924.MAYA"
+msgstr "ไฮโรกลิฟมายา"
+
+msgid "ISO_15924.MEND"
+msgstr "เมนดี"
+
+msgid "ISO_15924.MERC"
+msgstr "เมโรอิติกแบบตัวเขียนต่อเชื่อม"
+
+msgid "ISO_15924.MERO"
+msgstr "เมโรอิติกแบบไฮโรกลิฟ"
+
+msgid "ISO_15924.MLYM"
+msgstr "มลยาฬัม"
+
+msgid "ISO_15924.MODI"
+msgstr "โมฑี"
+
+msgid "ISO_15924.MONG"
+msgstr "มองโกเลีย"
+
+msgid "ISO_15924.MROO"
+msgstr "มรู"
+
+msgid "ISO_15924.MTEI"
+msgstr "มณีปุรี (ไมไต มาเยก)"
+
+msgid "ISO_15924.MULT"
+msgstr "มุลตานี"
+
+msgid "ISO_15924.MYMR"
+msgstr "พม่า"
+
+msgid "ISO_15924.NARB"
+msgstr "อาระเบียเหนือโบราณ"
+
+msgid "ISO_15924.NBAT"
+msgstr "นาบาเทีย"
+
+msgid "ISO_15924.NKOO"
+msgstr "เอ็นโก"
+
+msgid "ISO_15924.OGAM"
+msgstr "ออกัม"
+
+msgid "ISO_15924.OLCK"
+msgstr "โอล จิกี (สันถาลี)"
+
+msgid "ISO_15924.ORKH"
+msgstr "เตอร์กิกเก่า, รูนิกออร์คอน"
+
+msgid "ISO_15924.ORYA"
+msgstr "โอริยา"
+
+msgid "ISO_15924.OSMA"
+msgstr "ออสมันยา"
+
+msgid "ISO_15924.PALM"
+msgstr "พัลไมรีน"
+
+msgid "ISO_15924.PAUC"
+msgstr "เป่าจิ้นห่าว"
+
+msgid "ISO_15924.PERM"
+msgstr "เปอร์มิกโบราณ"
+
+msgid "ISO_15924.PHAG"
+msgstr "ผัคสปะ"
+
+msgid "ISO_15924.PHLI"
+msgstr "พาลาวีจารึก"
+
+msgid "ISO_15924.PHLP"
+msgstr "พาลาวีเพลงสวด"
+
+msgid "ISO_15924.PHLV"
+msgstr "พาลาวีหนังสือ"
+
+msgid "ISO_15924.PHNX"
+msgstr "ฟินิเชียน"
+
+msgid "ISO_15924.PLRD"
+msgstr "ม้ง (พอลลาร์ด)"
+
+msgid "ISO_15924.PRTI"
+msgstr "พาร์เทียจารึก"
+
+msgid "ISO_15924.QAAA"
+msgstr "สงวนสำหรับการใช้งานเอกชน (เริ่ม)"
+
+msgid "ISO_15924.QABX"
+msgstr "สงวนสำหรับการใช้งานเอกชน (จบ)"
+
+msgid "ISO_15924.RJNG"
+msgstr "เรอจัง"
+
+msgid "ISO_15924.RORO"
+msgstr "รองโกรองโก"
+
+msgid "ISO_15924.RUNR"
+msgstr "รูนิก"
+
+msgid "ISO_15924.SAMR"
+msgstr "สะมาเรีย"
+
+msgid "ISO_15924.SARA"
+msgstr "ซาราทิ"
+
+msgid "ISO_15924.SARB"
+msgstr "อาระเบียใต้โบราณ"
+
+msgid "ISO_15924.SAUR"
+msgstr "เสาราษฎร์"
+
+msgid "ISO_15924.SGNW"
+msgstr "การเขียนภาษามือ"
+
+msgid "ISO_15924.SHAW"
+msgstr "เชเวียน (ชอว์)"
+
+msgid "ISO_15924.SHRD"
+msgstr "ศารทา"
+
+msgid "ISO_15924.SIDD"
+msgstr "สิทธัม, สิทธมาตรกา"
+
+msgid "ISO_15924.SIND"
+msgstr "ขุทาพาที, สินธี"
+
+msgid "ISO_15924.SINH"
+msgstr "สิงหล"
+
+msgid "ISO_15924.SORA"
+msgstr "โสรา โสมเปงค์"
+
+msgid "ISO_15924.SUND"
+msgstr "ซุนดา"
+
+msgid "ISO_15924.SYLO"
+msgstr "สิลอฏีนาครี"
+
+msgid "ISO_15924.SYRC"
+msgstr "ซีริแอก"
+
+msgid "ISO_15924.SYRE"
+msgstr "ซีริแอก (แบบเอสทรานจีโล)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "ซีริแอก (แบบตะวันตก)"
+
+msgid "ISO_15924.SYRN"
+msgstr "ซีริแอก (แบบตะวันออก)"
+
+msgid "ISO_15924.TAGB"
+msgstr "ตักบันวา"
+
+msgid "ISO_15924.TAKR"
+msgstr "ตากรี"
+
+msgid "ISO_15924.TALE"
+msgstr "ไทไต้คง"
+
+msgid "ISO_15924.TALU"
+msgstr "ไทลื้อใหม่"
+
+msgid "ISO_15924.TAML"
+msgstr "ทมิฬ"
+
+msgid "ISO_15924.TAVT"
+msgstr "ไทเวียด"
+
+msgid "ISO_15924.TELU"
+msgstr "เตลุคู"
+
+msgid "ISO_15924.TENG"
+msgstr "เทงกวาร์"
+
+msgid "ISO_15924.TFNG"
+msgstr "ทิฟินาค (เบอร์เบอร์)"
+
+msgid "ISO_15924.THAA"
+msgstr "ทานะ"
+
+msgid "ISO_15924.THAI"
+msgstr "ไทย"
+
+msgid "ISO_15924.TIBT"
+msgstr "ทิเบต"
+
+msgid "ISO_15924.TIRH"
+msgstr "ติรหุตา"
+
+msgid "ISO_15924.UGAR"
+msgstr "ยูการิติก"
+
+msgid "ISO_15924.VAII"
+msgstr "ไว"
+
+msgid "ISO_15924.WARA"
+msgstr "วรังกษิติ"
+
+msgid "ISO_15924.XPEO"
+msgstr "เปอร์เซียโบราณ"
+
+msgid "ISO_15924.XSUX"
+msgstr "คูนิฟอร์ม, สุเมโร-อัคคาเดียน"
+
+msgid "ISO_15924.YIII"
+msgstr "อี้"
+
+msgid "ISO_15924.ZINH"
+msgstr "รหัสสำหรับอักษรที่สืบทอดคุณสมบัติจากอักขระก่อนหน้า"
+
+msgid "ISO_15924.ZMTH"
+msgstr "สัญกรณ์คณิตศาสตร์"
+
+msgid "ISO_15924.ZSYE"
+msgstr "ซีริแอก (แบบเอสทรานจีโล)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "สัญลักษณ์"
+
+msgid "ISO_15924.ZXXX"
+msgstr "รหัสสำหรับเอกสารที่ไม่มีการเขียน"
+
+msgid "ISO_15924.ZYYY"
+msgstr "รหัสสำหรับอักษรที่ยังไม่ระบุแน่ชัด"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "รหัสสำหรับอักษรที่ยังไม่ลงรหัส"

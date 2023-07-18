@@ -1,0 +1,128 @@
+# Translation of ISO 15924 (script names) to Bulgarian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+# Damyan Ivanov <dmn@debian.org>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2010-05-24 19:36+0300\n"
+"Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
+"Language-Team: Bulgarian <dict@fsa-bg.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "Арабска"
+
+msgid "ISO_15924.ARAN"
+msgstr "Традиционен китайски"
+
+msgid "ISO_15924.ARMN"
+msgstr "Арменска"
+
+msgid "ISO_15924.BALI"
+msgstr "Балийски"
+
+msgid "ISO_15924.BENG"
+msgstr "Бенгалска"
+
+msgid "ISO_15924.BRAI"
+msgstr "Брайлова"
+
+msgid "ISO_15924.CHER"
+msgstr "Чероки"
+
+msgid "ISO_15924.COPT"
+msgstr "Коптска"
+
+msgid "ISO_15924.CYRL"
+msgstr "Кирилица"
+
+msgid "ISO_15924.DEVA"
+msgstr "Деванагари"
+
+msgid "ISO_15924.EGYP"
+msgstr "Египетски йероглифи"
+
+msgid "ISO_15924.ETHI"
+msgstr "Етиопска"
+
+msgid "ISO_15924.GOTH"
+msgstr "Готическа"
+
+msgid "ISO_15924.GREK"
+msgstr "Гръцка"
+
+msgid "ISO_15924.GUJR"
+msgstr "Гуджарати"
+
+msgid "ISO_15924.HANS"
+msgstr "Опростен китайски"
+
+msgid "ISO_15924.HANT"
+msgstr "Традиционен китайски"
+
+msgid "ISO_15924.HEBR"
+msgstr "Иврит"
+
+msgid "ISO_15924.HIRA"
+msgstr "Японски хирагана"
+
+msgid "ISO_15924.JAMO"
+msgstr "Корейски"
+
+msgid "ISO_15924.KANA"
+msgstr "Японски катакана"
+
+msgid "ISO_15924.KHMR"
+msgstr "Кхмерска"
+
+msgid "ISO_15924.KORE"
+msgstr "Корейски"
+
+msgid "ISO_15924.LAOO"
+msgstr "Лаоска"
+
+msgid "ISO_15924.LATN"
+msgstr "Латинска"
+
+msgid "ISO_15924.MAYA"
+msgstr "Майски йероглифи"
+
+msgid "ISO_15924.MERO"
+msgstr "Египетски йероглифи"
+
+msgid "ISO_15924.MONG"
+msgstr "Монголска"
+
+msgid "ISO_15924.PRTI"
+msgstr "Традиционен китайски"
+
+msgid "ISO_15924.RUNR"
+msgstr "Руническа"
+
+msgid "ISO_15924.TAML"
+msgstr "Тамилска"
+
+msgid "ISO_15924.TELU"
+msgstr "Телугу"
+
+msgid "ISO_15924.THAI"
+msgstr "Таи"
+
+msgid "ISO_15924.TIBT"
+msgstr "Тибетска"
+
+msgid "ISO_15924.XPEO"
+msgstr "Староперсийски"

@@ -1,0 +1,540 @@
+# Translation of ISO 15924 to Serbian.
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+# Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2014-04-07 05:16+0200\n"
+"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr@latin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "afakaski"
+
+msgid "ISO_15924.AGHB"
+msgstr "kavkaski albanski"
+
+msgid "ISO_15924.ARAB"
+msgstr "arapski"
+
+msgid "ISO_15924.ARAN"
+msgstr "sirijski (istočna varijanta)"
+
+msgid "ISO_15924.ARMI"
+msgstr "carski aramejski"
+
+msgid "ISO_15924.ARMN"
+msgstr "jermenski"
+
+msgid "ISO_15924.AVST"
+msgstr "avestanski"
+
+msgid "ISO_15924.BALI"
+msgstr "balineški"
+
+msgid "ISO_15924.BAMU"
+msgstr "bamuški"
+
+msgid "ISO_15924.BASS"
+msgstr "basa vahski"
+
+msgid "ISO_15924.BATK"
+msgstr "batkski"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalski"
+
+msgid "ISO_15924.BLIS"
+msgstr "blisimboli"
+
+msgid "ISO_15924.BOPO"
+msgstr "boposki"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahski"
+
+msgid "ISO_15924.BRAI"
+msgstr "brajevo pismo"
+
+msgid "ISO_15924.BUGI"
+msgstr "bugineški"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhidski"
+
+msgid "ISO_15924.CAKM"
+msgstr "čakmeški"
+
+msgid "ISO_15924.CANS"
+msgstr "ujedinjeni kanadski slogovi aboridžina"
+
+msgid "ISO_15924.CARI"
+msgstr "karijanski"
+
+msgid "ISO_15924.CHAM"
+msgstr "čameški"
+
+msgid "ISO_15924.CHER"
+msgstr "čirokeški"
+
+msgid "ISO_15924.CIRT"
+msgstr "sirtoški"
+
+msgid "ISO_15924.COPT"
+msgstr "koptski"
+
+msgid "ISO_15924.CPRT"
+msgstr "kiparski"
+
+msgid "ISO_15924.CYRL"
+msgstr "ćirilični"
+
+msgid "ISO_15924.CYRS"
+msgstr "staroslovenska crkvena ćirilica"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanagari (nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "dezeretski (mormonski)"
+
+msgid "ISO_15924.DUPL"
+msgstr "duplojske skraćenice, duplojski brzopis"
+
+msgid "ISO_15924.EGYD"
+msgstr "egipatski demotski"
+
+msgid "ISO_15924.EGYH"
+msgstr "egipatski hijeratski"
+
+msgid "ISO_15924.EGYP"
+msgstr "egipatski hijeroglifi"
+
+msgid "ISO_15924.ELBA"
+msgstr "elbanski"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiopski (ge'ez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "kucurski (asomtavruli i nuskuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "gruzijski (mkedrulijski)"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagoljica"
+
+msgid "ISO_15924.GOTH"
+msgstr "gotski"
+
+msgid "ISO_15924.GRAN"
+msgstr "grentski"
+
+msgid "ISO_15924.GREK"
+msgstr "grčki"
+
+msgid "ISO_15924.GUJR"
+msgstr "gujaratski"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmuški"
+
+msgid "ISO_15924.HANG"
+msgstr "hangulski (hangil, hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "hanski (hansi, kandži, handža)"
+
+msgid "ISO_15924.HANO"
+msgstr "hanoški"
+
+msgid "ISO_15924.HANS"
+msgstr "hanski (pojednostavljeni)"
+
+msgid "ISO_15924.HANT"
+msgstr "hanski (tradicionalni)"
+
+msgid "ISO_15924.HATR"
+msgstr "hatranski"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebrejski"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiraganski"
+
+msgid "ISO_15924.HLUW"
+msgstr "anatolijski hijeroglifi (luvjanski, hititski hijeroglifi)"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahav hmonški"
+
+msgid "ISO_15924.HRKT"
+msgstr "japanski slogovni (alijas za hiraganu + katakanu)"
+
+msgid "ISO_15924.HUNG"
+msgstr "stari mađarski (mađarske rune)"
+
+msgid "ISO_15924.INDS"
+msgstr "induski (harapan)"
+
+msgid "ISO_15924.ITAL"
+msgstr "stari italski (etruski, oskanski, itd.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "korejski (alijas za hangulski + hanski)"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanski"
+
+msgid "ISO_15924.JPAN"
+msgstr "japanski (alijas za hanski + hiraganu + katakanu)"
+
+msgid "ISO_15924.JURC"
+msgstr "jurčenski"
+
+msgid "ISO_15924.KALI"
+msgstr "kališki"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "karošti"
+
+msgid "ISO_15924.KHMR"
+msgstr "kmerski"
+
+msgid "ISO_15924.KHOJ"
+msgstr "khojški"
+
+msgid "ISO_15924.KNDA"
+msgstr "kndeški"
+
+msgid "ISO_15924.KORE"
+msgstr "korejski (alijas za hangulski + hanski)"
+
+msgid "ISO_15924.KPEL"
+msgstr "kpelski"
+
+msgid "ISO_15924.KTHI"
+msgstr "kaitski"
+
+msgid "ISO_15924.LANA"
+msgstr "taitamski (lana)"
+
+msgid "ISO_15924.LAOO"
+msgstr "laoski"
+
+msgid "ISO_15924.LATF"
+msgstr "latinica (fraktur varijanta)"
+
+msgid "ISO_15924.LATG"
+msgstr "latinica (galska varijanta)"
+
+msgid "ISO_15924.LATN"
+msgstr "latinski"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepčanski (rong)"
+
+msgid "ISO_15924.LIMB"
+msgstr "limpški"
+
+msgid "ISO_15924.LINA"
+msgstr "linearni A"
+
+msgid "ISO_15924.LINB"
+msgstr "linearni B"
+
+msgid "ISO_15924.LISU"
+msgstr "lizuški (frazerski)"
+
+msgid "ISO_15924.LOMA"
+msgstr "lomski"
+
+msgid "ISO_15924.LYCI"
+msgstr "likijski"
+
+msgid "ISO_15924.LYDI"
+msgstr "lidijski"
+
+msgid "ISO_15924.MAHJ"
+msgstr "mahdžanski"
+
+msgid "ISO_15924.MAND"
+msgstr "mandski, mandainski"
+
+msgid "ISO_15924.MANI"
+msgstr "maniški"
+
+msgid "ISO_15924.MARC"
+msgstr "jurčenski"
+
+msgid "ISO_15924.MAYA"
+msgstr "majanski hijeroglifi"
+
+msgid "ISO_15924.MEND"
+msgstr "mendski kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "meroitski kurziv"
+
+msgid "ISO_15924.MERO"
+msgstr "meroitski hijeroglifi"
+
+msgid "ISO_15924.MLYM"
+msgstr "malajalski"
+
+msgid "ISO_15924.MODI"
+msgstr "modski"
+
+msgid "ISO_15924.MONG"
+msgstr "mongolski"
+
+msgid "ISO_15924.MOON"
+msgstr "munski (mun kod, mun spis, mun vrsta)"
+
+msgid "ISO_15924.MROO"
+msgstr "mroški"
+
+msgid "ISO_15924.MTEI"
+msgstr "mtejški"
+
+msgid "ISO_15924.MULT"
+msgstr "multski"
+
+msgid "ISO_15924.MYMR"
+msgstr "burmanski"
+
+msgid "ISO_15924.NARB"
+msgstr "stari severnoarapski"
+
+msgid "ISO_15924.NBAT"
+msgstr "nabatainski"
+
+msgid "ISO_15924.NKGB"
+msgstr "naki gebski"
+
+msgid "ISO_15924.NKOO"
+msgstr "nkoski"
+
+msgid "ISO_15924.NSHU"
+msgstr "nišuski"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogamski"
+
+msgid "ISO_15924.OLCK"
+msgstr "ol čikiški"
+
+msgid "ISO_15924.ORKH"
+msgstr "staroturski, orkonske rune"
+
+msgid "ISO_15924.ORYA"
+msgstr "orijski"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmanski"
+
+msgid "ISO_15924.PALM"
+msgstr "palmski"
+
+msgid "ISO_15924.PAUC"
+msgstr "paušinhauški"
+
+msgid "ISO_15924.PERM"
+msgstr "staropermski"
+
+msgid "ISO_15924.PHAG"
+msgstr "fagspaški"
+
+msgid "ISO_15924.PHLI"
+msgstr "posvetni palavski"
+
+msgid "ISO_15924.PHLP"
+msgstr "psaltirski palavski"
+
+msgid "ISO_15924.PHLV"
+msgstr "knjiški palavski"
+
+msgid "ISO_15924.PHNX"
+msgstr "feničanski"
+
+msgid "ISO_15924.PLRD"
+msgstr "mjaoški (polard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "posvetni parćanski"
+
+msgid "ISO_15924.QAAA"
+msgstr "rezervisano za ličnu upotrebu (početak)"
+
+msgid "ISO_15924.QABX"
+msgstr "rezervisano za ličnu upotrebu (kraj)"
+
+msgid "ISO_15924.RJNG"
+msgstr "redžanški"
+
+msgid "ISO_15924.RORO"
+msgstr "rongoški"
+
+msgid "ISO_15924.RUNR"
+msgstr "runski"
+
+msgid "ISO_15924.SAMR"
+msgstr "samarićanski"
+
+msgid "ISO_15924.SARA"
+msgstr "saratiški"
+
+msgid "ISO_15924.SARB"
+msgstr "stari južnoarapski"
+
+msgid "ISO_15924.SAUR"
+msgstr "sauraški"
+
+msgid "ISO_15924.SGNW"
+msgstr "znakovno pismo"
+
+msgid "ISO_15924.SHAW"
+msgstr "šavjanski"
+
+msgid "ISO_15924.SHRD"
+msgstr "šaradski"
+
+msgid "ISO_15924.SIDD"
+msgstr "sidamski"
+
+msgid "ISO_15924.SIND"
+msgstr "sindiški"
+
+msgid "ISO_15924.SINH"
+msgstr "sinhaleški"
+
+msgid "ISO_15924.SORA"
+msgstr "sora sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "sundaneški"
+
+msgid "ISO_15924.SYLO"
+msgstr "siloti nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "sirijski"
+
+msgid "ISO_15924.SYRE"
+msgstr "sirijski (estrangelo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "sirijski (zapadna varijanta)"
+
+msgid "ISO_15924.SYRN"
+msgstr "sirijski (istočna varijanta)"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanski"
+
+msgid "ISO_15924.TAKR"
+msgstr "takriški"
+
+msgid "ISO_15924.TALE"
+msgstr "taleški"
+
+msgid "ISO_15924.TALU"
+msgstr "novi talueški"
+
+msgid "ISO_15924.TAML"
+msgstr "tamilski"
+
+msgid "ISO_15924.TANG"
+msgstr "tangutski"
+
+msgid "ISO_15924.TAVT"
+msgstr "tajvjetski"
+
+msgid "ISO_15924.TELU"
+msgstr "teluški"
+
+msgid "ISO_15924.TENG"
+msgstr "tengoški"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagoški (berberski)"
+
+msgid "ISO_15924.TGLG"
+msgstr "tagaloški (bajbajinski, alibatski)"
+
+msgid "ISO_15924.THAA"
+msgstr "taanski"
+
+msgid "ISO_15924.THAI"
+msgstr "tajlandski"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetski"
+
+msgid "ISO_15924.TIRH"
+msgstr "tirtski"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugarski"
+
+msgid "ISO_15924.VAII"
+msgstr "vaiski"
+
+msgid "ISO_15924.VISP"
+msgstr "vidni govor"
+
+msgid "ISO_15924.WARA"
+msgstr "varanski (varang kšiti)"
+
+msgid "ISO_15924.WOLE"
+msgstr "voleški"
+
+msgid "ISO_15924.XPEO"
+msgstr "staropersijski"
+
+msgid "ISO_15924.XSUX"
+msgstr "klinasto pismo, sumersko-akadijski"
+
+msgid "ISO_15924.YIII"
+msgstr "jiški"
+
+msgid "ISO_15924.ZINH"
+msgstr "kod za nasleđene spise"
+
+msgid "ISO_15924.ZMTH"
+msgstr "matematički zapis"
+
+msgid "ISO_15924.ZSYE"
+msgstr "sirijski (estrangelo)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "simboli"
+
+msgid "ISO_15924.ZXXX"
+msgstr "kod za nepisane dokumente"
+
+msgid "ISO_15924.ZYYY"
+msgstr "kod za neodređene spise"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "kod za nekodirane spise"

@@ -1,0 +1,300 @@
+# Translation of ISO 15924 (script names) to Estonian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Estonian\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "araabia"
+
+msgid "ISO_15924.ARAN"
+msgstr "assüüria estrangelo"
+
+msgid "ISO_15924.ARMN"
+msgstr "armeenia"
+
+msgid "ISO_15924.BALI"
+msgstr "bali"
+
+msgid "ISO_15924.BATK"
+msgstr "bataki"
+
+msgid "ISO_15924.BENG"
+msgstr "bengali"
+
+msgid "ISO_15924.BLIS"
+msgstr "Blissi sümbolid"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "punktkiri"
+
+msgid "ISO_15924.BUGI"
+msgstr "bugi"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhidi"
+
+msgid "ISO_15924.CAKM"
+msgstr "tšami"
+
+msgid "ISO_15924.CANS"
+msgstr "Kanada põlisrahvaste ühtlustatud silpkiri"
+
+msgid "ISO_15924.CHAM"
+msgstr "tšami"
+
+msgid "ISO_15924.CHER"
+msgstr "tšerokii"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "kopti"
+
+msgid "ISO_15924.CPRT"
+msgstr "muinasküprose"
+
+msgid "ISO_15924.CYRL"
+msgstr "kirillitsa"
+
+msgid "ISO_15924.CYRS"
+msgstr "kirikuslaavi kirillitsa"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanaagari"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret"
+
+msgid "ISO_15924.EGYD"
+msgstr "egiptuse demootiline"
+
+msgid "ISO_15924.EGYH"
+msgstr "egiptuse hieraatiline"
+
+msgid "ISO_15924.EGYP"
+msgstr "egiptuse hieroglüüfkiri"
+
+msgid "ISO_15924.ETHI"
+msgstr "etioopia"
+
+msgid "ISO_15924.GEOR"
+msgstr "gruusia hutsuri"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagoolitsa"
+
+msgid "ISO_15924.GOTH"
+msgstr "gooti"
+
+msgid "ISO_15924.GREK"
+msgstr "kreeka"
+
+msgid "ISO_15924.GUJR"
+msgstr "gudžarati"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmukhi"
+
+msgid "ISO_15924.HANS"
+msgstr "hiina lihtsustatud"
+
+msgid "ISO_15924.HANT"
+msgstr "hiina traditsiooniline"
+
+msgid "ISO_15924.HEBR"
+msgstr "heebrea"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.JAVA"
+msgstr "jaava"
+
+msgid "ISO_15924.KALI"
+msgstr "kaja li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmeeri"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannada"
+
+msgid "ISO_15924.KTHI"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.LAOO"
+msgstr "lao"
+
+msgid "ISO_15924.LATF"
+msgstr "ladina fraktuurkiri"
+
+msgid "ISO_15924.LATN"
+msgstr "ladina"
+
+msgid "ISO_15924.LEPC"
+msgstr "leptša"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbu"
+
+msgid "ISO_15924.LINA"
+msgstr "lineaar-A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineaar-B"
+
+msgid "ISO_15924.MAND"
+msgstr "mandea"
+
+msgid "ISO_15924.MANI"
+msgstr "mandea"
+
+msgid "ISO_15924.MAYA"
+msgstr "maaja hieroglüüfkiri"
+
+msgid "ISO_15924.MERC"
+msgstr "meroe"
+
+msgid "ISO_15924.MERO"
+msgstr "egiptuse hieroglüüfkiri"
+
+msgid "ISO_15924.MLYM"
+msgstr "malajalami"
+
+msgid "ISO_15924.MONG"
+msgstr "mongoli"
+
+msgid "ISO_15924.NKOO"
+msgstr "nkoo"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogam"
+
+msgid "ISO_15924.ORYA"
+msgstr "oria"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmanja"
+
+msgid "ISO_15924.PERM"
+msgstr "vanapermi"
+
+msgid "ISO_15924.PHAG"
+msgstr "phags-pa"
+
+msgid "ISO_15924.PHNX"
+msgstr "foiniikia"
+
+msgid "ISO_15924.PRTI"
+msgstr "hiina traditsiooniline"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "ruunikiri"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "vanaungari"
+
+msgid "ISO_15924.SHAW"
+msgstr "Shaw tähestik"
+
+msgid "ISO_15924.SINH"
+msgstr "singali"
+
+msgid "ISO_15924.SYLO"
+msgstr "silotinagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "assüüria"
+
+msgid "ISO_15924.SYRE"
+msgstr "assüüria estrangelo"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanwa"
+
+msgid "ISO_15924.TALE"
+msgstr "tai le"
+
+msgid "ISO_15924.TALU"
+msgstr "lihtsustatud tai lue"
+
+msgid "ISO_15924.TAML"
+msgstr "tamili"
+
+msgid "ISO_15924.TAVT"
+msgstr "tai le"
+
+msgid "ISO_15924.TELU"
+msgstr "telugu"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagi"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "tai"
+
+msgid "ISO_15924.TIBT"
+msgstr "tiibeti"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugariti"
+
+msgid "ISO_15924.VAII"
+msgstr "vai"
+
+msgid "ISO_15924.VISP"
+msgstr "häälduskiri"
+
+msgid "ISO_15924.XPEO"
+msgstr "vanapärsia"
+
+msgid "ISO_15924.YIII"
+msgstr "jii"
+
+msgid "ISO_15924.ZSYE"
+msgstr "assüüria estrangelo"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Blissi sümbolid"

@@ -1,0 +1,541 @@
+# translation of iso_15924-3.49.is.po to Icelandic
+# Translation of ISO 15924 (script names) to  Icelandic
+# Yfirleitt notað til að tilgreina lyklaborð eða inntakstækni
+# þessvegna haft hér í hvorugkyni, nema þar sem átt er við ritmálið sjálft.
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright © Free Software Foundation
+#
+# Sveinn í Felli <sveinki@nett.is>, 2010, 2011, 2012, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-12-05 19:13+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ISO_15924.AFAK"
+msgstr "Afaka"
+
+msgid "ISO_15924.AGHB"
+msgstr "Kákasísk albanska"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arabískt"
+
+msgid "ISO_15924.ARAN"
+msgstr "Sýrlenska (austur-tilbrigði)"
+
+msgid "ISO_15924.ARMI"
+msgstr "Samveldis aramískt"
+
+msgid "ISO_15924.ARMN"
+msgstr "Armenskt"
+
+msgid "ISO_15924.AVST"
+msgstr "Avestan"
+
+msgid "ISO_15924.BALI"
+msgstr "Balískt"
+
+msgid "ISO_15924.BAMU"
+msgstr "Bamum"
+
+msgid "ISO_15924.BASS"
+msgstr "Bassa Vah"
+
+msgid "ISO_15924.BATK"
+msgstr "Batak"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengalskt"
+
+msgid "ISO_15924.BLIS"
+msgstr "Bliss-tákn"
+
+msgid "ISO_15924.BOPO"
+msgstr "Bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "Brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braille blindraletur"
+
+msgid "ISO_15924.BUGI"
+msgstr "Buginískt"
+
+msgid "ISO_15924.BUHD"
+msgstr "Búhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "Chakma"
+
+msgid "ISO_15924.CANS"
+msgstr "Samræmd kanadísk atkvæðaskrift"
+
+msgid "ISO_15924.CARI"
+msgstr "Carian"
+
+msgid "ISO_15924.CHAM"
+msgstr "Cham"
+
+msgid "ISO_15924.CHER"
+msgstr "Cherokee"
+
+msgid "ISO_15924.CIRT"
+msgstr "Cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "Koptískt"
+
+msgid "ISO_15924.CPRT"
+msgstr "Kýpverskt"
+
+msgid "ISO_15924.CYRL"
+msgstr "Kýrílskt"
+
+msgid "ISO_15924.CYRS"
+msgstr "Kýrílskt (Forn-kirkjulegt slavneskt tilbrigði)"
+
+msgid "ISO_15924.DEVA"
+msgstr "Devanagari (Nagari)"
+
+msgid "ISO_15924.DSRT"
+msgstr "Deseret (Mormón)"
+
+msgid "ISO_15924.DUPL"
+msgstr "Duploy hraðskrift, Duploy steinskrift"
+
+msgid "ISO_15924.EGYD"
+msgstr "Egypsk demótísk hraðskrift"
+
+msgid "ISO_15924.EGYH"
+msgstr "Egypsk hieratísk hraðskrift"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egypskt myndletur"
+
+msgid "ISO_15924.ELBA"
+msgstr "Elbasan"
+
+msgid "ISO_15924.ETHI"
+msgstr "Eþíópískt (Geʻez)"
+
+msgid "ISO_15924.GEOK"
+msgstr "Khutsuri (Asomtavruli og Nuskhuri)"
+
+msgid "ISO_15924.GEOR"
+msgstr "Georgíska (Mkhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "Glagolitískt"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotneskt"
+
+msgid "ISO_15924.GRAN"
+msgstr "Grantha"
+
+msgid "ISO_15924.GREK"
+msgstr "Grískt"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gujaratískt"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmukískt"
+
+msgid "ISO_15924.HANG"
+msgstr "Hangul (Hangŭl, Hangeul)"
+
+msgid "ISO_15924.HANI"
+msgstr "Han (Hanzi, Kanji, Hanja)"
+
+msgid "ISO_15924.HANO"
+msgstr "Hanunoo (Hanunóo)"
+
+msgid "ISO_15924.HANS"
+msgstr "Han (einfaldað tilbrigði)"
+
+msgid "ISO_15924.HANT"
+msgstr "Han (hefðbundið tilbrigði)"
+
+msgid "ISO_15924.HATR"
+msgstr "Hatran"
+
+msgid "ISO_15924.HEBR"
+msgstr "Hebreskt"
+
+msgid "ISO_15924.HIRA"
+msgstr "Híragana"
+
+msgid "ISO_15924.HLUW"
+msgstr "Anatólískt myndletur (Luwia myndletur, Hittite myndletur)"
+
+msgid "ISO_15924.HMNG"
+msgstr "Pahawh Hmong"
+
+msgid "ISO_15924.HRKT"
+msgstr "Japanskt sérhljóða (samheiti fyrir Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.HUNG"
+msgstr "Forn-ungverska (ungverskt rúnaletur)"
+
+msgid "ISO_15924.INDS"
+msgstr "Indus (Harappan)"
+
+msgid "ISO_15924.ITAL"
+msgstr "Forn-ítalskt (Etruscan, Oscan, o.s.frv.)"
+
+msgid "ISO_15924.JAMO"
+msgstr "Kóreska (samheiti fyrir Hangul + Han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "Javaneskt"
+
+msgid "ISO_15924.JPAN"
+msgstr "Japanska (samheiti fyrir Han + Hiragana + Katakana)"
+
+msgid "ISO_15924.JURC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.KALI"
+msgstr "Kayah Li"
+
+msgid "ISO_15924.KANA"
+msgstr "Katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "Kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmerískt"
+
+msgid "ISO_15924.KHOJ"
+msgstr "Khojki"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannadískt"
+
+msgid "ISO_15924.KORE"
+msgstr "Kóreska (samheiti fyrir Hangul + Han)"
+
+msgid "ISO_15924.KPEL"
+msgstr "Kpelle"
+
+msgid "ISO_15924.KTHI"
+msgstr "Kaithi"
+
+msgid "ISO_15924.LANA"
+msgstr "Tai Tham (Lanna)"
+
+msgid "ISO_15924.LAOO"
+msgstr "Laó"
+
+msgid "ISO_15924.LATF"
+msgstr "Latína (Fraktur tilbrigði)"
+
+msgid "ISO_15924.LATG"
+msgstr "Latína (gelískt tilbrigði)"
+
+msgid "ISO_15924.LATN"
+msgstr "Latneskt"
+
+msgid "ISO_15924.LEPC"
+msgstr "Lepcha (Róng)"
+
+msgid "ISO_15924.LIMB"
+msgstr "Limbú"
+
+msgid "ISO_15924.LINA"
+msgstr "Línulegt A"
+
+msgid "ISO_15924.LINB"
+msgstr "Línulegt B"
+
+msgid "ISO_15924.LISU"
+msgstr "Lisu (Fraser)"
+
+msgid "ISO_15924.LOMA"
+msgstr "Loma"
+
+msgid "ISO_15924.LYCI"
+msgstr "Lycian"
+
+msgid "ISO_15924.LYDI"
+msgstr "Lydian"
+
+msgid "ISO_15924.MAHJ"
+msgstr "Mahajani"
+
+msgid "ISO_15924.MAND"
+msgstr "Mandaíska, Mandaean"
+
+msgid "ISO_15924.MANI"
+msgstr "Manichaískt"
+
+msgid "ISO_15924.MARC"
+msgstr "Jurchen"
+
+msgid "ISO_15924.MAYA"
+msgstr "Mayanskt myndletur"
+
+msgid "ISO_15924.MEND"
+msgstr "Mende Kikakui"
+
+msgid "ISO_15924.MERC"
+msgstr "Meríótískt skriftletur"
+
+msgid "ISO_15924.MERO"
+msgstr "Meríótískt myndletur"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malayanskt"
+
+msgid "ISO_15924.MODI"
+msgstr "Modi, Moḍī"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongólskt"
+
+msgid "ISO_15924.MOON"
+msgstr "Moon (Moon kóði, Moon skrift, Moon letur)"
+
+msgid "ISO_15924.MROO"
+msgstr "Mro, Mru"
+
+msgid "ISO_15924.MTEI"
+msgstr "Meitei Mayek (Meithei, Meetei)"
+
+msgid "ISO_15924.MULT"
+msgstr "Multani"
+
+msgid "ISO_15924.MYMR"
+msgstr "Mjanmar (búrmíska)"
+
+msgid "ISO_15924.NARB"
+msgstr "Gömul norður-arabíska (Forn norður-arabíska)"
+
+msgid "ISO_15924.NBAT"
+msgstr "Nabatískt"
+
+msgid "ISO_15924.NKGB"
+msgstr "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+
+msgid "ISO_15924.NKOO"
+msgstr "N’Ko"
+
+msgid "ISO_15924.NSHU"
+msgstr "Nüshu"
+
+msgid "ISO_15924.OGAM"
+msgstr "Ógam"
+
+msgid "ISO_15924.OLCK"
+msgstr "Ol Chiki (Ol Cemet’, Ol, Santali)"
+
+msgid "ISO_15924.ORKH"
+msgstr "Forn-tyrkneskt, Orkhon rúnir"
+
+msgid "ISO_15924.ORYA"
+msgstr "Oryanskt"
+
+msgid "ISO_15924.OSMA"
+msgstr "Ósmanskt"
+
+msgid "ISO_15924.PALM"
+msgstr "Palmýrenska"
+
+msgid "ISO_15924.PAUC"
+msgstr "Pau Cin Hau"
+
+msgid "ISO_15924.PERM"
+msgstr "Forn-permíska"
+
+msgid "ISO_15924.PHAG"
+msgstr "Phags-pa"
+
+msgid "ISO_15924.PHLI"
+msgstr "Pahlavi skrift"
+
+msgid "ISO_15924.PHLP"
+msgstr "Psalter Pahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "Bóka-pahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "Fönikískt"
+
+msgid "ISO_15924.PLRD"
+msgstr "Miao (Pollard)"
+
+msgid "ISO_15924.PRTI"
+msgstr "Parthian skrift"
+
+msgid "ISO_15924.QAAA"
+msgstr "Frátekið fyrir staðbundna notkun (upphaf)"
+
+msgid "ISO_15924.QABX"
+msgstr "Frátekið fyrir staðbundna notkun (endir)"
+
+msgid "ISO_15924.RJNG"
+msgstr "Rejang (Redjang, Kaganga)"
+
+msgid "ISO_15924.RORO"
+msgstr "Rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "Rúnaletur"
+
+msgid "ISO_15924.SAMR"
+msgstr "Samarískt"
+
+msgid "ISO_15924.SARA"
+msgstr "Saratískt"
+
+msgid "ISO_15924.SARB"
+msgstr "Forn suður-arabíska"
+
+msgid "ISO_15924.SAUR"
+msgstr "Saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "Táknskrift"
+
+msgid "ISO_15924.SHAW"
+msgstr "Shavíska (Shaw)"
+
+msgid "ISO_15924.SHRD"
+msgstr "Sharada, Śāradā"
+
+msgid "ISO_15924.SIDD"
+msgstr "Siddham, Siddhaṃ, Siddhamātṛkā"
+
+msgid "ISO_15924.SIND"
+msgstr "Khudawadi, Sindhi"
+
+msgid "ISO_15924.SINH"
+msgstr "Sinhala"
+
+msgid "ISO_15924.SORA"
+msgstr "Sora Sompeng"
+
+msgid "ISO_15924.SUND"
+msgstr "Sundaneskt"
+
+msgid "ISO_15924.SYLO"
+msgstr "Syloti Nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "Sýrlenskt"
+
+msgid "ISO_15924.SYRE"
+msgstr "Sýrlenska (Estrangelo tilbrigði)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "Sýrlenska (vestur-tilbrigði)"
+
+msgid "ISO_15924.SYRN"
+msgstr "Sýrlenska (austur-tilbrigði)"
+
+msgid "ISO_15924.TAGB"
+msgstr "Tagbanva"
+
+msgid "ISO_15924.TAKR"
+msgstr "Takri, Ṭākrī, Ṭāṅkrī"
+
+msgid "ISO_15924.TALE"
+msgstr "Tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "Nýja Tai Lue"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamilskt"
+
+msgid "ISO_15924.TANG"
+msgstr "Tangút"
+
+msgid "ISO_15924.TAVT"
+msgstr "Tai Viet"
+
+msgid "ISO_15924.TELU"
+msgstr "Telúgú"
+
+msgid "ISO_15924.TENG"
+msgstr "Tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "Tifinagh (berbneska)"
+
+msgid "ISO_15924.TGLG"
+msgstr "Tagalog (Baybayin, Alibata)"
+
+msgid "ISO_15924.THAA"
+msgstr "Thaanískt"
+
+msgid "ISO_15924.THAI"
+msgstr "Taílenska"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tíbetska"
+
+msgid "ISO_15924.TIRH"
+msgstr "Tirhuta"
+
+msgid "ISO_15924.UGAR"
+msgstr "Ugaritískt"
+
+msgid "ISO_15924.VAII"
+msgstr "Vai"
+
+msgid "ISO_15924.VISP"
+msgstr "Sýnilegt tal"
+
+msgid "ISO_15924.WARA"
+msgstr "Warang Citi (Varang Kshiti)"
+
+msgid "ISO_15924.WOLE"
+msgstr "Woleai"
+
+msgid "ISO_15924.XPEO"
+msgstr "Forn-persneska"
+
+msgid "ISO_15924.XSUX"
+msgstr "Cuneiform leirtöfluskrift, Súmeró-Akkadísk"
+
+msgid "ISO_15924.YIII"
+msgstr "Yi"
+
+msgid "ISO_15924.ZINH"
+msgstr "Kóði fyrir erfða (inherited) skriftu"
+
+msgid "ISO_15924.ZMTH"
+msgstr "Stærðfræðilegt táknkerfi"
+
+msgid "ISO_15924.ZSYE"
+msgstr "Sýrlenska (Estrangelo tilbrigði)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Tákn"
+
+msgid "ISO_15924.ZXXX"
+msgstr "Kóði fyrir óskrifuð skjöl"
+
+msgid "ISO_15924.ZYYY"
+msgstr "Kóði fyrir ótilgreindar skriftur"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "Kóði fyrir ókóðaða skriftu"

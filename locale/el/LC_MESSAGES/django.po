@@ -1,0 +1,105 @@
+# Translation of ISO 15924 (script names) to Greek
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Greek\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "Αραβικό"
+
+msgid "ISO_15924.ARAN"
+msgstr "Κινεζικό Παραδοσιακό"
+
+msgid "ISO_15924.ARMN"
+msgstr "Αρμενικό"
+
+msgid "ISO_15924.BRAI"
+msgstr "Μπράιγ"
+
+msgid "ISO_15924.COPT"
+msgstr "Κοπτικό"
+
+msgid "ISO_15924.CPRT"
+msgstr "Κυπριακό"
+
+msgid "ISO_15924.CYRL"
+msgstr "Κυριλλικό"
+
+msgid "ISO_15924.EGYD"
+msgstr "Αιγυπτιακό Λαϊκό"
+
+msgid "ISO_15924.EGYH"
+msgstr "Αιγυπτιακό Ιερατικό"
+
+msgid "ISO_15924.EGYP"
+msgstr "Αιγυπτιακά Ιερογλυφικά"
+
+msgid "ISO_15924.ETHI"
+msgstr "Αιθιοπικό"
+
+msgid "ISO_15924.GOTH"
+msgstr "Γοτθικό"
+
+msgid "ISO_15924.GREK"
+msgstr "Ελληνικό"
+
+msgid "ISO_15924.GUJR"
+msgstr "Γκουγιαράτι"
+
+msgid "ISO_15924.HANS"
+msgstr "Κινεζικό Απλοποιημένο"
+
+msgid "ISO_15924.HANT"
+msgstr "Κινεζικό Παραδοσιακό"
+
+msgid "ISO_15924.HEBR"
+msgstr "Εβραϊκό"
+
+msgid "ISO_15924.LATN"
+msgstr "Λατινικό"
+
+msgid "ISO_15924.LINA"
+msgstr "Γραμμική Α"
+
+msgid "ISO_15924.LINB"
+msgstr "Γραμμική Β"
+
+msgid "ISO_15924.MERO"
+msgstr "Αιγυπτιακά Ιερογλυφικά"
+
+msgid "ISO_15924.MLYM"
+msgstr "Μαλαϊκό"
+
+msgid "ISO_15924.MONG"
+msgstr "Μογγολικό"
+
+msgid "ISO_15924.PHNX"
+msgstr "Φοινικικό"
+
+msgid "ISO_15924.PRTI"
+msgstr "Κινεζικό Παραδοσιακό"
+
+msgid "ISO_15924.SYRC"
+msgstr "Συριακό"
+
+msgid "ISO_15924.THAI"
+msgstr "Ταϊλανδικό"
+
+msgid "ISO_15924.TIBT"
+msgstr "Θιβετιανό"

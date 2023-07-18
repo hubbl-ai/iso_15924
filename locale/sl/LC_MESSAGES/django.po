@@ -1,0 +1,369 @@
+# Translation of ISO 15924 (script names) to Slovenian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Toedter <t.toedter@gmx.net>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+#   Primož Peterlin <primozz.peterlin@gmail.com>, 2007, 2008, 2009.
+#
+# $Id: iso_15924-3.9.sl.po 1.2 2009/05/09 22:01:44 Primoz Exp $
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2009-05-10 00:01+0200\n"
+"Last-Translator: Primož Peterlin <primozz.peterlin@gmail.com>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabska pisava"
+
+msgid "ISO_15924.ARAN"
+msgstr "sirijska pisava (vzhodna)"
+
+msgid "ISO_15924.ARMI"
+msgstr "aramejska pisava"
+
+msgid "ISO_15924.ARMN"
+msgstr "armenska pisava"
+
+msgid "ISO_15924.AVST"
+msgstr "avestska pisava"
+
+msgid "ISO_15924.BALI"
+msgstr "balijska pisava"
+
+msgid "ISO_15924.BATK"
+msgstr "bataška pisava"
+
+msgid "ISO_15924.BENG"
+msgstr "bengalska pisava"
+
+msgid "ISO_15924.BLIS"
+msgstr "Blissova simbolna pisava"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "brajica"
+
+msgid "ISO_15924.BUGI"
+msgstr "buginska pisava"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhidska pisava"
+
+msgid "ISO_15924.CANS"
+msgstr "poenotena zlogovna pisava kanadskih staroselcev"
+
+msgid "ISO_15924.CARI"
+msgstr "karijska pisava"
+
+msgid "ISO_15924.CHAM"
+msgstr "čamska pisava"
+
+msgid "ISO_15924.CHER"
+msgstr "čerokeška pisava"
+
+msgid "ISO_15924.CIRT"
+msgstr "kirt"
+
+msgid "ISO_15924.COPT"
+msgstr "koptska pisava"
+
+msgid "ISO_15924.CPRT"
+msgstr "ciprska pisava"
+
+msgid "ISO_15924.CYRL"
+msgstr "cirilica"
+
+msgid "ISO_15924.CYRS"
+msgstr "cirilica (starocerkvenoslovanska različica)"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanagari"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret (mormonska pisava)"
+
+msgid "ISO_15924.EGYD"
+msgstr "egipčanska demotska pisava"
+
+msgid "ISO_15924.EGYH"
+msgstr "egiščanska hieratska pisava"
+
+msgid "ISO_15924.EGYP"
+msgstr "egipčanska hieroglifna pisava"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiopska pisava (giz)"
+
+msgid "ISO_15924.GEOR"
+msgstr "gruzinska pisava (mhedruli)"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagolica"
+
+msgid "ISO_15924.GOTH"
+msgstr "gotska pisava"
+
+msgid "ISO_15924.GREK"
+msgstr "grška pisava"
+
+msgid "ISO_15924.GUJR"
+msgstr "gudžaratska pisava"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmuki"
+
+msgid "ISO_15924.HANG"
+msgstr "hangul"
+
+msgid "ISO_15924.HANI"
+msgstr "han (hanzi, kandži, handža)"
+
+msgid "ISO_15924.HANS"
+msgstr "han (poenostavljeni zapis)"
+
+msgid "ISO_15924.HANT"
+msgstr "han (tradicionalni zapis)"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebrejska pisava"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "hmonška pisava"
+
+msgid "ISO_15924.HRKT"
+msgstr "japonska pisava (han + hiragana + katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "induška pisava"
+
+msgid "ISO_15924.ITAL"
+msgstr "italska pisava (etruščanska, oskijska...)"
+
+msgid "ISO_15924.JAMO"
+msgstr "korejska pisava (hangul + han)"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanska pisava"
+
+msgid "ISO_15924.JPAN"
+msgstr "japonska pisava (han + hiragana + katakana)"
+
+msgid "ISO_15924.KALI"
+msgstr "karenska pisava"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "gandarska pisava"
+
+msgid "ISO_15924.KHMR"
+msgstr "kmerska pisava"
+
+msgid "ISO_15924.KNDA"
+msgstr "kanarejska pisava"
+
+msgid "ISO_15924.KORE"
+msgstr "korejska pisava (hangul + han)"
+
+msgid "ISO_15924.KTHI"
+msgstr "kajatska pisava"
+
+msgid "ISO_15924.LANA"
+msgstr "lana"
+
+msgid "ISO_15924.LAOO"
+msgstr "laoška pisava"
+
+msgid "ISO_15924.LATF"
+msgstr "latinica (gotica)"
+
+msgid "ISO_15924.LATG"
+msgstr "latinica (gelska)"
+
+msgid "ISO_15924.LATN"
+msgstr "latinica"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepška pisava"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbuška pisava"
+
+msgid "ISO_15924.LINA"
+msgstr "linearna pisava A"
+
+msgid "ISO_15924.LINB"
+msgstr "linearna pisava B"
+
+msgid "ISO_15924.LYCI"
+msgstr "licijska pisava"
+
+msgid "ISO_15924.LYDI"
+msgstr "lidijska pisava"
+
+msgid "ISO_15924.MAND"
+msgstr "mandanska pisava"
+
+msgid "ISO_15924.MANI"
+msgstr "manihejska pisava"
+
+msgid "ISO_15924.MAYA"
+msgstr "majevski hieroglifi"
+
+msgid "ISO_15924.MERC"
+msgstr "meroitska pisava"
+
+msgid "ISO_15924.MERO"
+msgstr "egipčanska hieroglifna pisava"
+
+msgid "ISO_15924.MLYM"
+msgstr "malajalska pisava"
+
+msgid "ISO_15924.MONG"
+msgstr "mongolska pisava"
+
+msgid "ISO_15924.MOON"
+msgstr "Moonova pisava"
+
+msgid "ISO_15924.MTEI"
+msgstr "manipurska pisava"
+
+msgid "ISO_15924.MYMR"
+msgstr "burmanska pisava"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogamska pisava"
+
+msgid "ISO_15924.ORYA"
+msgstr "orijska pisava"
+
+msgid "ISO_15924.PHLP"
+msgstr "psalmski pahlavi"
+
+msgid "ISO_15924.PHLV"
+msgstr "knjižni pahlavi"
+
+msgid "ISO_15924.PHNX"
+msgstr "feničanska pisava"
+
+msgid "ISO_15924.PLRD"
+msgstr "Pollardova pisava"
+
+msgid "ISO_15924.QAAA"
+msgstr "rezervirano za zasebno rabo (začetek)"
+
+msgid "ISO_15924.QABX"
+msgstr "rezervirano za zasebno rabo (konec)"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "runska pisava"
+
+msgid "ISO_15924.SAMR"
+msgstr "samaritanska pisava"
+
+msgid "ISO_15924.SARA"
+msgstr "saratska pisava"
+
+msgid "ISO_15924.SARB"
+msgstr "madžarske rune"
+
+msgid "ISO_15924.SHAW"
+msgstr "šojevska pisava"
+
+msgid "ISO_15924.SINH"
+msgstr "singalska pisava"
+
+msgid "ISO_15924.SUND"
+msgstr "sundska pisava"
+
+msgid "ISO_15924.SYLO"
+msgstr "silotska pisava"
+
+msgid "ISO_15924.SYRC"
+msgstr "sirijska pisava"
+
+msgid "ISO_15924.SYRE"
+msgstr "sirijska pisava (estrangelo)"
+
+msgid "ISO_15924.SYRJ"
+msgstr "sirijska pisava (zahodna)"
+
+msgid "ISO_15924.SYRN"
+msgstr "sirijska pisava (vzhodna)"
+
+msgid "ISO_15924.TAML"
+msgstr "tamilska pisava"
+
+msgid "ISO_15924.TELU"
+msgstr "teluška pisava"
+
+msgid "ISO_15924.TENG"
+msgstr "tengvar"
+
+msgid "ISO_15924.TFNG"
+msgstr "berberska pisava"
+
+msgid "ISO_15924.TGLG"
+msgstr "tagalog"
+
+msgid "ISO_15924.THAA"
+msgstr "maldivska pisava"
+
+msgid "ISO_15924.THAI"
+msgstr "tajska pisava"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetanska pisava"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugaritska pisava"
+
+msgid "ISO_15924.XPEO"
+msgstr "staroperzijska pisava"
+
+msgid "ISO_15924.XSUX"
+msgstr "klinopis, sumersko-akadijski"
+
+msgid "ISO_15924.ZINH"
+msgstr "koda za podedovano pisavo"
+
+msgid "ISO_15924.ZMTH"
+msgstr "matematični zapis"
+
+msgid "ISO_15924.ZSYE"
+msgstr "sirijska pisava (estrangelo)"
+
+msgid "ISO_15924.ZSYM"
+msgstr "simboli"
+
+msgid "ISO_15924.ZXXX"
+msgstr "koda za nezapisane dokumente"
+
+msgid "ISO_15924.ZYYY"
+msgstr "koda za neznano pisavo"
+
+msgid "ISO_15924.ZZZZ"
+msgstr "koda za nekodirano pisavo"

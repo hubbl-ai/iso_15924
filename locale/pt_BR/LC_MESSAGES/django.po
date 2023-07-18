@@ -1,0 +1,312 @@
+# Translation of ISO 15924 (script names) to Brazilian Portuguese
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "árabe"
+
+msgid "ISO_15924.ARAN"
+msgstr "siríaco estrangelo"
+
+msgid "ISO_15924.ARMN"
+msgstr "armênio"
+
+msgid "ISO_15924.BALI"
+msgstr "balinês"
+
+msgid "ISO_15924.BATK"
+msgstr "bataque"
+
+msgid "ISO_15924.BENG"
+msgstr "bengali"
+
+msgid "ISO_15924.BLIS"
+msgstr "símbolos bliss"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmi"
+
+msgid "ISO_15924.BRAI"
+msgstr "braile"
+
+msgid "ISO_15924.BUGI"
+msgstr "buginês"
+
+msgid "ISO_15924.BUHD"
+msgstr "buhid"
+
+msgid "ISO_15924.CAKM"
+msgstr "cham"
+
+msgid "ISO_15924.CANS"
+msgstr "símbolos aborígenes do Canadá Unificado"
+
+msgid "ISO_15924.CHAM"
+msgstr "cham"
+
+msgid "ISO_15924.CHER"
+msgstr "cheroqui"
+
+msgid "ISO_15924.CIRT"
+msgstr "cirth"
+
+msgid "ISO_15924.COPT"
+msgstr "cóptico"
+
+msgid "ISO_15924.CPRT"
+msgstr "cipriota"
+
+msgid "ISO_15924.CYRL"
+msgstr "cirílico"
+
+msgid "ISO_15924.CYRS"
+msgstr "cirílico eslavo eclesiástico"
+
+msgid "ISO_15924.DEVA"
+msgstr "devanágari"
+
+msgid "ISO_15924.DSRT"
+msgstr "deseret"
+
+msgid "ISO_15924.EGYD"
+msgstr "demótico egípcio"
+
+msgid "ISO_15924.EGYH"
+msgstr "hierático egípcio"
+
+msgid "ISO_15924.EGYP"
+msgstr "hieróglifos egípcios"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiópico"
+
+msgid "ISO_15924.GEOR"
+msgstr "khutsuri georgiano"
+
+msgid "ISO_15924.GLAG"
+msgstr "glagolítico"
+
+msgid "ISO_15924.GOTH"
+msgstr "gótico"
+
+msgid "ISO_15924.GREK"
+msgstr "grego"
+
+msgid "ISO_15924.GUJR"
+msgstr "gujerati"
+
+msgid "ISO_15924.GURU"
+msgstr "gurmuqui"
+
+msgid "ISO_15924.HANS"
+msgstr "han simplificado"
+
+msgid "ISO_15924.HANT"
+msgstr "han tradicional"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebraico"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HMNG"
+msgstr "pahawh hmong"
+
+msgid "ISO_15924.JAVA"
+msgstr "javanês"
+
+msgid "ISO_15924.KALI"
+msgstr "kayah li"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KHAR"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.KHMR"
+msgstr "khmer"
+
+msgid "ISO_15924.KNDA"
+msgstr "kannada"
+
+msgid "ISO_15924.KTHI"
+msgstr "kharoshthi"
+
+msgid "ISO_15924.LAOO"
+msgstr "lao"
+
+msgid "ISO_15924.LATF"
+msgstr "latim fraktur"
+
+msgid "ISO_15924.LATN"
+msgstr "latim"
+
+msgid "ISO_15924.LEPC"
+msgstr "lepcha"
+
+msgid "ISO_15924.LIMB"
+msgstr "limbu"
+
+msgid "ISO_15924.LINB"
+msgstr "b linear"
+
+msgid "ISO_15924.LYCI"
+msgstr "lício"
+
+msgid "ISO_15924.LYDI"
+msgstr "lídio"
+
+msgid "ISO_15924.MAND"
+msgstr "mandaico"
+
+msgid "ISO_15924.MANI"
+msgstr "mandaico"
+
+msgid "ISO_15924.MAYA"
+msgstr "hieróglifos maias"
+
+msgid "ISO_15924.MERC"
+msgstr "meroítico"
+
+msgid "ISO_15924.MERO"
+msgstr "hieróglifos egípcios"
+
+msgid "ISO_15924.MLYM"
+msgstr "malaiala"
+
+msgid "ISO_15924.MONG"
+msgstr "mongol"
+
+msgid "ISO_15924.NKOO"
+msgstr "n'ko"
+
+msgid "ISO_15924.OGAM"
+msgstr "ogâmico"
+
+msgid "ISO_15924.ORYA"
+msgstr "oriya"
+
+msgid "ISO_15924.OSMA"
+msgstr "osmania"
+
+msgid "ISO_15924.PHAG"
+msgstr "phags-pa"
+
+msgid "ISO_15924.PHNX"
+msgstr "fenício"
+
+msgid "ISO_15924.PRTI"
+msgstr "han tradicional"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.RUNR"
+msgstr "rúnico"
+
+msgid "ISO_15924.SARA"
+msgstr "sarati"
+
+msgid "ISO_15924.SARB"
+msgstr "húngaro antigo"
+
+msgid "ISO_15924.SAUR"
+msgstr "saurashtra"
+
+msgid "ISO_15924.SGNW"
+msgstr "signwriting"
+
+msgid "ISO_15924.SHAW"
+msgstr "shaviano"
+
+msgid "ISO_15924.SINH"
+msgstr "cingalês"
+
+msgid "ISO_15924.SUND"
+msgstr "sundanês"
+
+msgid "ISO_15924.SYLO"
+msgstr "syloti nagri"
+
+msgid "ISO_15924.SYRC"
+msgstr "siríaco"
+
+msgid "ISO_15924.SYRE"
+msgstr "siríaco estrangelo"
+
+msgid "ISO_15924.TAGB"
+msgstr "tagbanwa"
+
+msgid "ISO_15924.TALE"
+msgstr "tai Le"
+
+msgid "ISO_15924.TALU"
+msgstr "novo tai lue"
+
+msgid "ISO_15924.TAML"
+msgstr "tâmil"
+
+msgid "ISO_15924.TAVT"
+msgstr "tai Le"
+
+msgid "ISO_15924.TELU"
+msgstr "télugu"
+
+msgid "ISO_15924.TENG"
+msgstr "tengwar"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh"
+
+msgid "ISO_15924.THAA"
+msgstr "thaana"
+
+msgid "ISO_15924.THAI"
+msgstr "tailandês"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetano"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugarítico"
+
+msgid "ISO_15924.VAII"
+msgstr "vai"
+
+msgid "ISO_15924.VISP"
+msgstr "visible speech"
+
+msgid "ISO_15924.XPEO"
+msgstr "persa antigo"
+
+msgid "ISO_15924.YIII"
+msgstr "yi"
+
+msgid "ISO_15924.ZSYE"
+msgstr "siríaco estrangelo"
+
+msgid "ISO_15924.ZSYM"
+msgstr "símbolos bliss"

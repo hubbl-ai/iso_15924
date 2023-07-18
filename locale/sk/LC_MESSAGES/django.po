@@ -1,0 +1,127 @@
+# Translation of ISO 15924 (script names) to Slovak
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Ivan Masár <helix84@centrum.sk>, 2008.
+#     Translations taken from sk.wikipedia.org on 2008-06-17
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-06-17 23:29+0100\n"
+"Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
+"Language-Team: Slovak\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "arabské"
+
+msgid "ISO_15924.ARMN"
+msgstr "arménske"
+
+msgid "ISO_15924.BOPO"
+msgstr "bopomofo"
+
+msgid "ISO_15924.BRAH"
+msgstr "brahmické"
+
+msgid "ISO_15924.BRAI"
+msgstr "braillovo"
+
+msgid "ISO_15924.CHER"
+msgstr "čerokí"
+
+msgid "ISO_15924.CYRL"
+msgstr "cyrilské"
+
+msgid "ISO_15924.EGYD"
+msgstr "egyptské demotické"
+
+msgid "ISO_15924.EGYH"
+msgstr "egyptské hieratické"
+
+msgid "ISO_15924.EGYP"
+msgstr "Egyptské hieroglyfické"
+
+msgid "ISO_15924.ETHI"
+msgstr "etiópske"
+
+msgid "ISO_15924.GLAG"
+msgstr "hlaholika"
+
+msgid "ISO_15924.GREK"
+msgstr "grécke"
+
+msgid "ISO_15924.HANG"
+msgstr "hangul (hangül)"
+
+msgid "ISO_15924.HANI"
+msgstr "kandži"
+
+msgid "ISO_15924.HEBR"
+msgstr "hebrejské"
+
+msgid "ISO_15924.HIRA"
+msgstr "hiragana"
+
+msgid "ISO_15924.HRKT"
+msgstr "japonské (alias pre han + hiragana + katakana)"
+
+msgid "ISO_15924.INDS"
+msgstr "harappské"
+
+msgid "ISO_15924.JAMO"
+msgstr "kórejské (alias pre hangul + han)"
+
+msgid "ISO_15924.JPAN"
+msgstr "japonské (alias pre han + hiragana + katakana)"
+
+msgid "ISO_15924.KANA"
+msgstr "katakana"
+
+msgid "ISO_15924.KORE"
+msgstr "kórejské (alias pre hangul + han)"
+
+msgid "ISO_15924.LATN"
+msgstr "latinské"
+
+msgid "ISO_15924.LINA"
+msgstr "lineárne písmo A"
+
+msgid "ISO_15924.LINB"
+msgstr "lineárne písmo B"
+
+msgid "ISO_15924.MAYA"
+msgstr "mayské hieroglyfické"
+
+msgid "ISO_15924.MERO"
+msgstr "Egyptské hieroglyfické"
+
+msgid "ISO_15924.PHNX"
+msgstr "fénické"
+
+msgid "ISO_15924.RORO"
+msgstr "rongorongo"
+
+msgid "ISO_15924.TFNG"
+msgstr "tifinagh"
+
+msgid "ISO_15924.THAA"
+msgstr "tána"
+
+msgid "ISO_15924.THAI"
+msgstr "thajské"
+
+msgid "ISO_15924.TIBT"
+msgstr "tibetské"
+
+msgid "ISO_15924.UGAR"
+msgstr "ugaritské klinové"

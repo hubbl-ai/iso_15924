@@ -1,0 +1,162 @@
+# Translation of ISO 15924 (script names) to Persian
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright (C)
+#   Tobias Quathamer <toddy@debian.org>, 2007.
+#     Translations taken from ICU SVN on 2007-09-09
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2007-09-09 16:07+0200\n"
+"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Persian\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "عربی"
+
+msgid "ISO_15924.ARAN"
+msgstr "هان سنتی"
+
+msgid "ISO_15924.ARMN"
+msgstr "ارمنی"
+
+msgid "ISO_15924.BALI"
+msgstr "بالیایی"
+
+msgid "ISO_15924.BATK"
+msgstr "باتاکی"
+
+msgid "ISO_15924.BENG"
+msgstr "بنگالی"
+
+msgid "ISO_15924.BOPO"
+msgstr "بوپوموفو"
+
+msgid "ISO_15924.BRAI"
+msgstr "بریل"
+
+msgid "ISO_15924.BUGI"
+msgstr "بوگیایی"
+
+msgid "ISO_15924.CHER"
+msgstr "چروکی"
+
+msgid "ISO_15924.COPT"
+msgstr "قبطی"
+
+msgid "ISO_15924.CYRL"
+msgstr "سیریلی"
+
+msgid "ISO_15924.DEVA"
+msgstr "دوناگری"
+
+msgid "ISO_15924.EGYP"
+msgstr "هیروگلیف مصری"
+
+msgid "ISO_15924.ETHI"
+msgstr "اتیوپیایی"
+
+msgid "ISO_15924.GOTH"
+msgstr "گوتیک"
+
+msgid "ISO_15924.GREK"
+msgstr "یونانی"
+
+msgid "ISO_15924.GUJR"
+msgstr "گجراتی"
+
+msgid "ISO_15924.HANS"
+msgstr "هان ساده‌شده"
+
+msgid "ISO_15924.HANT"
+msgstr "هان سنتی"
+
+msgid "ISO_15924.HEBR"
+msgstr "عبری"
+
+msgid "ISO_15924.HIRA"
+msgstr "هیراگانا"
+
+msgid "ISO_15924.JAVA"
+msgstr "جاوه‌ای"
+
+msgid "ISO_15924.KANA"
+msgstr "کاتاکانا"
+
+msgid "ISO_15924.KHMR"
+msgstr "خمری"
+
+msgid "ISO_15924.KNDA"
+msgstr "کاناده‌ای"
+
+msgid "ISO_15924.LAOO"
+msgstr "لائوسی"
+
+msgid "ISO_15924.LATN"
+msgstr "لاتین"
+
+msgid "ISO_15924.MAYA"
+msgstr "هیروگلیف مایای"
+
+msgid "ISO_15924.MERO"
+msgstr "هیروگلیف مصری"
+
+msgid "ISO_15924.MLYM"
+msgstr "مالایالامی"
+
+msgid "ISO_15924.MONG"
+msgstr "مغولی"
+
+msgid "ISO_15924.ORYA"
+msgstr "اوریه‌ای"
+
+msgid "ISO_15924.PHNX"
+msgstr "فنیقی"
+
+msgid "ISO_15924.PRTI"
+msgstr "هان سنتی"
+
+msgid "ISO_15924.RUNR"
+msgstr "رونی"
+
+msgid "ISO_15924.SARB"
+msgstr "مجاری باستان"
+
+msgid "ISO_15924.SHAW"
+msgstr "شاوی"
+
+msgid "ISO_15924.SINH"
+msgstr "سینهالی"
+
+msgid "ISO_15924.SYRC"
+msgstr "سریانی"
+
+msgid "ISO_15924.TAML"
+msgstr "تامیل"
+
+msgid "ISO_15924.TELU"
+msgstr "تلوگویی"
+
+msgid "ISO_15924.THAI"
+msgstr "تایلندی"
+
+msgid "ISO_15924.TIBT"
+msgstr "تبتی"
+
+msgid "ISO_15924.VAII"
+msgstr "ویایی"
+
+msgid "ISO_15924.XPEO"
+msgstr "فارسی باستان"
+
+msgid "ISO_15924.YIII"
+msgstr "یی"

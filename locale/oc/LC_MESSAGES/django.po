@@ -1,0 +1,127 @@
+# Translation of ISO 15924 (script names) to Occitan
+# This file is distributed under the same license as the iso-codes package.
+# Yanngi Marchegay <yannig@marchegay.org>, 2008.
+# Copyright (C)
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2008-11-10 00:38+0100\n"
+"Last-Translator: Yannig Marchegay <yannig@marchegay.org>\n"
+"Language-Team: Occitan>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_15924.ARAB"
+msgstr "Arab"
+
+msgid "ISO_15924.ARMN"
+msgstr "Armenian"
+
+msgid "ISO_15924.BALI"
+msgstr "Balinés"
+
+msgid "ISO_15924.BATK"
+msgstr "Bascon"
+
+msgid "ISO_15924.BENG"
+msgstr "Bengalí"
+
+msgid "ISO_15924.BRAI"
+msgstr "Braille"
+
+msgid "ISO_15924.BUGI"
+msgstr "Chinès"
+
+msgid "ISO_15924.CARI"
+msgstr "Maòri"
+
+msgid "ISO_15924.CHER"
+msgstr "Cherokí"
+
+msgid "ISO_15924.COPT"
+msgstr "Còpt"
+
+msgid "ISO_15924.CYRL"
+msgstr "Cirillic"
+
+msgid "ISO_15924.GOTH"
+msgstr "Gotic"
+
+msgid "ISO_15924.GREK"
+msgstr "Grèc"
+
+msgid "ISO_15924.GUJR"
+msgstr "Gujarati"
+
+msgid "ISO_15924.GURU"
+msgstr "Gurmukhi"
+
+msgid "ISO_15924.HEBR"
+msgstr "Ebrèu"
+
+msgid "ISO_15924.JAVA"
+msgstr "Javanés"
+
+msgid "ISO_15924.KHMR"
+msgstr "Khmer"
+
+msgid "ISO_15924.KNDA"
+msgstr "Kannadà"
+
+msgid "ISO_15924.LAOO"
+msgstr "Laossian"
+
+msgid "ISO_15924.LATN"
+msgstr "Latin"
+
+msgid "ISO_15924.LIMB"
+msgstr "Litua"
+
+msgid "ISO_15924.LYCI"
+msgstr "Croacia"
+
+msgid "ISO_15924.LYDI"
+msgstr "Croacia"
+
+msgid "ISO_15924.MLYM"
+msgstr "Malayalam"
+
+msgid "ISO_15924.MONG"
+msgstr "Mongolian"
+
+msgid "ISO_15924.ORYA"
+msgstr "Oriyà"
+
+msgid "ISO_15924.PHNX"
+msgstr "Eslòvian"
+
+msgid "ISO_15924.RUNR"
+msgstr "Runic"
+
+msgid "ISO_15924.SAMR"
+msgstr "Serbian"
+
+msgid "ISO_15924.SYRC"
+msgstr "Serbian"
+
+msgid "ISO_15924.TAML"
+msgstr "Tamil"
+
+msgid "ISO_15924.TELU"
+msgstr "Telugu"
+
+msgid "ISO_15924.THAI"
+msgstr "Tailandés"
+
+msgid "ISO_15924.TIBT"
+msgstr "Tibetan"
+
+msgid "ISO_15924.ZSYM"
+msgstr "Simbòls"
